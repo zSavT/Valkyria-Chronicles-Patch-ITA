@@ -13,10 +13,10 @@
 1800;15296;22;;End the current phase?;Terminare la fase attuale?
 1880;15324;6;;Deploy;Distribuire
 1960;15336;1;;/;/
-2040;15344;1;; ;
+2040;15344;1;;;
 2120;15352;8;;En Route;In viaggio
 2200;15368;7;;Call In;Chiamare
-2280;15380;4;;Left;Sinistra
+2280;15380;4;;Left;Lascia
 2360;15392;25;;Call in additional units?;Richiedere unit= aggiuntive?
 2440;15424;27;;Order this unit to retreat?;Ordinare a questa unit= di ritirarsi?
 2520;15456;23;;End the current action?;Terminare l'azione corrente?
@@ -28,7 +28,7 @@
 3000;15596;5;;north;nord
 3080;15608;2;;NE;NE
 3160;15616;2;;SE;SE
-3240;15624;2;;NW;Nord-Ovest
+3240;15624;2;;NW;NO
 3320;15632;2;;SW;SO
 3400;15640;7;;Defense;Difesa
 3480;15652;5;;Field;Campo
@@ -49,10 +49,10 @@
 4680;15824;7;;Details;Dettagli
 4760;15836;7;;CP Cost;Costo CP
 4840;15848;1;;-;-
-4920;15856;1;; ;
-5000;15864;1;; ;
+4920;15856;1;;;
+5000;15864;1;;;
 5080;15872;1;;?;?
-5160;15880;2;;‡;‡
+5160;15880;2;;ï¿½;ï¿½
 5240;15888;6;;Orders;Ordini
 5320;15900;34;;Issue an order Welkin has learned.;Emetti un ordine che Welkin ha appreso.
 5400;15940;4;;Save;Salva
@@ -61,9 +61,9 @@
 5640;16012;36;;Load Save Data from a previous save.;Carica i dati salvati da un salvataggio precedente.
 5720;16056;7;;Options;Opzioni
 5800;16068;21;;Change game settings.;Cambia le impostazioni del gioco.
-5880;16096;12;;Title Screen;Schermata del titolo
-5960;16116;58;;Return to the Title Screen. Unsaved progress will be lost!;Ritorna alla schermata del titolo. I progressi non salvati&andranno persi!
-6040;16180;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni alla schermata del titolo, tutti i progressi&non salvati andranno persi. Continuare comunque?
+5880;16096;12;;Title Screen;Menu Iniziale
+5960;16116;58;;Return to the Title Screen. Unsaved progress will be lost!;Ritorna al Menu Iniziale. I progressi non salvati&andranno persi!
+6040;16180;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni al Menu Iniziale,&tutti i progressi non salvati andranno persi.&Continuare comunque?
 6120;16272;33;;^w256^ has been safely evacuated.;^w256^ > stato evacuato in sicurezza.
 6200;16312;7;;Victory;Vittoria
 6280;16324;7;;Failure;Fallimento
@@ -172,6 +172,6 @@
 14520;21136;44;;Retry the current battle&from the beginning?;Riprovare la battaglia attuale dall'inizio?
 14600;21188;54;;Retry the current battle from&the unit position phase?;Riprovare la battaglia attuale dalla fase di posizione&dell'unit=?
 14680;21248;16;;Load saved data?;Caricare i dati salvati?
-14760;21272;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni alla schermata del titolo, tutti i progressi&non salvati andranno persi. Continuare comunque?
+14760;21272;86;;If you return to the Title Screen,&any unsaved progress will be lost.&Continue anyway?;Se ritorni al Menu Iniziale,&tutti i progressi non salvati andranno persi.&Continuare comunque?
 14840;21364;36;;Issue an order Selvaria has learned.;Impartisci un ordine che Selvaria ha appreso.
 14920;21408;15;;Issue an order.;Emettere un ordine.
