@@ -1,11 +1,9 @@
 import os
 import csv
 
-lunghezza = 78
-
 def analyze_csv_files():
     input_folder = os.path.dirname(os.path.abspath(__file__))
-    output_folder = input_folder  
+    output_folder = input_folder
 
     output_file = "results.txt"
     strings_file = "stringhe.txt"
@@ -21,10 +19,10 @@ def analyze_csv_files():
                     reader = csv.reader(csv_file, delimiter=";")
 
                     for row_num, row in enumerate(reader, start=1):
-                        if len(row) > 0: 
-                            last_column = row[-1]
-                            if len(last_column) > lunghezza:
-                                results.write(f"File: {filename}, Riga: {row_num}, Lunghezza: {len(last_column)}\n")
+                        if len(row) > 0:  
+                            last_column = row[-2]
+                            if last_column.count("&") > 1:
+                                results.write(f"File: {filename}, Riga: {row_num}, Occorrenze di '&': {last_column.count('&')}\n")
                                 strings.write(f"{last_column}\n")
 
     print(f"Analisi completata. Risultati salvati in {results_path} e {strings_path}")
