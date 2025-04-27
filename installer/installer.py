@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Valkyria Chronicles
 # Autore: SavT
-# Versione: v0.0.2
+# Versione: v0.0.2 - Script
 # -----------------------------------------------------------------------------
 
 # --- Import Moduli Standard ---
@@ -59,7 +59,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v0.0.2"
+VERSIONE = "Alpha"
 CREDITI = "Patch By SavT"
 LICENZA = """1) La presente patch va utilizzata esclusivamente sul  gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
@@ -76,7 +76,7 @@ l'utilizzo della stessa è da intendersi a vostro rischio e pericolo.
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
 All game rights, intellectual property, logo/names and movies/images are property of Sega Corporation.
 """
-YT_URL = "https://www.youtube.com/@SavT999"
+YT_URL = "https://www.youtube.com/@zSavT"
 GH_URL = "https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA"
 WEB_URL = "https://savtchannel.altervista.org/"
 DONAZIONI = "https://www.paypal.com/paypalme/verio12"
