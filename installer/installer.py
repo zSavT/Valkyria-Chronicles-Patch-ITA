@@ -261,8 +261,7 @@ QCheckBox::indicator:hover { border: 1px solid #aaaaaa; }
 QCheckBox::indicator:checked {
     background-color: #505050; /* Sfondo grigio scuro quando checkato */
     border: 1px solid #505050;
-    /* L'immagine del checkmark di sistema dovrebbe apparire qui sopra */
-    /* Rimuovere 'image: url(assets/v.png);' se presente altrove nel codice */
+    image: url(assets/v.png); 
 }
 QCheckBox::indicator:checked:hover { background-color: #707070; border: 1px solid #707070; }
 QCheckBox::indicator:disabled { background-color: #f0f0f0; border: 1px solid #e0e0e0; }
