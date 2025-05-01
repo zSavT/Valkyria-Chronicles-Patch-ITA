@@ -9,7 +9,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Valkyria-Chronicles-Patch-ITA?logo=refinedgithub)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/main?display_timestamp=committer&logo=github&label=last%20commit%3A%20main)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/texture_replace?display_timestamp=committer&logo=github&label=last%20commit%3A%20texture_replace)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/traduzione_mpta?display_timestamp=committer&logo=github&label=last%20commit%3A%20traduzione_mpta)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Valkyria-Chronicles-Patch-ITA/total)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
@@ -38,21 +37,32 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
 
 - __mtpa_adv_XX__, contiene i dialoghi presenti nelle cinematiche.
     - Limite massimo di caratteri: 120 (60 per riga)
+    - Eccezioni: Ci sono alcuni dialoghi che superano il limite dei 120 caratteri massimi, ma la singola riga non deve comunque superare i 60 caratteri. In questi casi, si segue la struttura del carattere a capo come nella stringa originale in inglese.
     - Carattere a capo: &
 - __mtpa_slg_XX__, contiene i dialoghi dei box presenti nelle battaglie.
     - Limite massimo di caratteri: 42/43
+    - Eccezione:  I messaggi di dialogo tra i personaggi hanno un lunghezza differente, ovvero 136 caratteri per riga e le righe sono due.
     - Carattere a capo: & (genera anche nuovi box di testo per inserire il testo mancante)
-- ~~__mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.~~ Il file non ha alcun impatto nel gioco, utilizzato solo per la versione PS3 del gioco.
+- ~~__mtpa_sys__, contiene testi vari per alcune opzioni del gioco e capitoli.~~
     - ~~Limite massimo di caratteri: ?~~
     - ~~Carattere a capo: &~~
 - __mtpa_sys_battle__, contiene testi vari per testi generici delle battaglie.
-    - Limite massimo di caratteri: ?
+    - Limite massimo di caratteri: 115 (Di cui la sottostringa massimo 59).
     - Carattere a capo: &
 - __mtpa_book__, contiene testi del menu libro dei capitoli.
-    - Limite massimo di caratteri: ?
+    - Limite massimo di caratteri: 78
+    - Carattere a capo: &
+- __mtpa_sys_town__, contiene testi vari, tra cui quelli dei box nel libro.
+    - Limite massimo di caratteri: 95 (Con sottostringa 59)
+    - Eccezione: I box di dialogo hanno una lunghezza di 576 caratteri di cui ogni sottostringa è lunga max 42 caratteri.
+    - Carattere a capo: &
+- __mtpa_sys_town2__, contiene testi vari, tra cui quelli dei box nel libro.
+    - Limite massimo di caratteri: 114 (Con sottostringa 59/60)
+    - Eccezione: I box di dialogo hanno una lunghezza di 371 caratteri di cui ogni sottostringa è lunga max 45 caratteri.
     - Carattere a capo: &
 - __mtpa_town__, contiene testi vari, tra cui quelli dei box nel libro.
-    - Limite massimo di caratteri: ?
+    - Limite massimo di caratteri: 59
+    - Eccezione: I messaggi dei box tutorial come per i slg, i caratteri max sono 42/43.
     - Carattere a capo: &
 
 ### MXE
@@ -92,7 +102,7 @@ I file _DDS_ bisogna modificarli seguendo le linee guida indicate in questa [iss
 
 ## TO DO
 
-- [ ] Comprendere il funzionamento e logica dietro i file mtp
+- [x] Comprendere il funzionamento e logica dietro i file mtp
 - [ ] Comprendere il funzionamento e logica dietro i file mxe
 - [x] Comprendere il funzionamento e logica dietro i file mlx
 - [x] Comprendere il funzionamento e logica dietro i file htx

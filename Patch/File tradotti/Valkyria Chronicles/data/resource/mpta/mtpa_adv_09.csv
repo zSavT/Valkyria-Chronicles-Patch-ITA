@@ -9,7 +9,7 @@
 1072;4848;48;;Oh... I'm not really good with the formal stuff.;Oh... non sono molto bravo con le cose formali.
 1088;4904;85;;What are you, crazy? Do you have any clue how&rare a chance to meet the princess is?!;Ma sei pazzo? Hai idea di quanto sia rara la possibilit=&di incontrare la principessa?!
 1104;4996;87;;They say that House Randgriz, the Archdukes of Gallia,&are descended from the Valkyrur.;Si dice che la Casa Randgriz, gli Arciduchi di Gallia,&discenda dai Valkyrur.
-1120;5088;89;;If that's true, Princess Cordelia herself is a Valkyria,&and we get an audience with her!;Se > vero, la principessa Cordelia stessa > una Valchiria&e noi avremo un'udienza con lei!
+1120;5088;89;;If that's true, Princess Cordelia herself is a Valkyria,&and we get an audience with her!;Se > vero, la principessa Cordelia stessa > una Valkyria&e noi avremo un'udienza con lei!
 1136;5184;21;;Well yeah, I guess...;Beh, si, credo di si...
 1152;5212;52;;Just don't forget to wear dress uniforms, gentlemen.;Ma non dimenticate di indossare l'uniforme elegante,&signori.
 1168;5272;84;;I'll meet you both at Castle Randgriz tomorrow evening.&You're dismissed until then.;Ci vediamo domani sera al Castello di Randgriz. Fino ad&allora siete congedati.
@@ -43,11 +43,11 @@
 1616;7180;10;;Know this!;Sappiatelo!
 1632;7196;51;;The honor of dear Gallia, in fact her very freedom,;L'onore della cara Gallia, anzi la sua stessa libert=,
 1648;7252;75;;is currently under attack and hangs by the thinnest&thread you can imagine.;> attualmente sotto attacco e pende dal filo piu' sottile&che si possa immaginare.
-1664;7332;115;;But... while Princess Cordelia remains on the throne, she&who is the scion of the Valkyrur's ancient blood promise,;Ma... mentre la principessa Cordelia rimane sul trono, lei&chi > il rampollo dell'antica promessa di sangue dei Valkyrur,
+1664;7332;115;;But... while Princess Cordelia remains on the throne, she&who is the scion of the Valkyrur's ancient blood promise,;Ma... mentre la principessa Cordelia rimane sul trono, lei&che = la discendente del antico patto di sangue dei Valkyrur
 1680;7452;58;;no force on this earth will ever see this nation defeated!;Nessuna forza su questa terra vedr= mai questa nazione&sconfitta!
 1696;7516;25;;Is that not so, Princess?;Non > cosi, Principessa?
 1712;7548;7;;...Yes.;...SI'.
-1728;7560;47;;I draw strength from the Valkyrian bloodline...;Traggo forza dalla stirpe delle Valchirie...
+1728;7560;47;;I draw strength from the Valkyrian bloodline...;Traggo forza dalla stirpe delle Valkyria...
 1744;7612;40;;and my heart is a repository of justice.;e il mio cuore > un deposito di giustizia.
 1760;7660;92;;I am nearly at a loss for words.&The privilege of brokering peace with you, Your Highness...;Sono quasi senza parole. Il privilegio di aver mediato la&pace con voi, Vostra Altezza...
 1776;7760;63;;has been the greatest honor of my life.&And I thank you for it.;> stato il piu' grande onore della mia vita. E ti ringrazio&per questo.
@@ -89,7 +89,7 @@
 2352;9712;82;;But I... Seeing you tonight,&I got the feeling that your opinion is being ignored.;Ma io... vedendoti stasera, ho avuto la sensazione che la&tua opinione venga ignorata.
 2368;9800;6;;......;......
 2384;9812;71;;I am still young.&All political matters are handled by my regent, Borg.;Sono ancora giovane e tutte le questioni politiche sono&gestite dal mio reggente, Borg.
-2400;9888;77;;The protection of Gallia,&and of the Valkyrian bloodline, is my fated onus...;La protezione della Gallia e della stirpe delle Valchirie&> il mio compito predestinato...
+2400;9888;77;;The protection of Gallia,&and of the Valkyrian bloodline, is my fated onus...;La protezione della Gallia e della stirpe delle Valkyrur&> il mio compito predestinato...
 2416;9972;55;;Their protection does not require my personal feelings.;La loro protezione non ha bisogno dei miei sentimenti&personali.
 2432;10032;67;;I need only live by the laws set forth by&those who come before me.;Devo solo vivere secondo le leggi stabilite da coloro che&mi hanno preceduto.
 2448;10104;34;;I bid you once more... good night.;Vi auguro ancora una volta... buonanotte.
@@ -132,7 +132,7 @@
 3040;12212;80;;I feel like watching you work would help me&learn a great deal... Please, Isara.;Ho la sensazione che guardarti lavorare mi aiuterebbe e mi&farebbe imparare molto... Per favore, Isara.
 3056;12300;61;;Ooh, yeah, that's true!&Hey, then can I help out, too? C'mon!;Ooh, si, > vero! Ehi, allora posso dare una mano anch'io?&Dai!
 3072;12368;15;;You don't mind?;Non ti dispiace?
-3088;12388;88;;Course not! I may not look bright,&but I've been working my butt off in R&D for a while!;Certo che no! Potrei non avere un aspetto brillante, ma mi&sono fatto il mazzo in R&S per un po'!
+3088;12388;88;;Course not! I may not look bright,&but I've been working my butt off in R&D for a while!;Certo che no! Potrei non avere un aspetto brillante, ma mi&sono fatto il mazzo in R%S per un po'!
 3104;12484;34;;Of course... Well, thank you both.;Certo... Bene, grazie a entrambi.
 3120;12524;10;;All right!;Va bene!
 3136;12540;37;;That's... That's the emergency siren.;Questa >... Questa > la sirena di emergenza.
@@ -160,7 +160,7 @@
 3488;13784;84;;But I hope that you won't throw away the will&to live your own life because of them.;Ma spero che non perderai la voglia di vivere la tua vita&a causa loro.
 3504;13876;38;;That's enough, Welkin! Give it a rest.;Basta cosi, Welkin! Dacci un taglio.
 3520;13920;85;;...Perhaps it is as you say,&and I have been running from responsibility unknowingly.;...Forse > come dici tu, e io sono fuggito dalle mie&responsabilit= senza saperlo.
-3536;14012;76;;It is indeed mine to consider my life's role&within the Valkyrian bloodline.;Spetta infatti a me considerare il ruolo della mia vita&all'interno della stirpe delle Valchirie.
+3536;14012;76;;It is indeed mine to consider my life's role&within the Valkyrian bloodline.;Spetta infatti a me considerare il ruolo della mia vita&all'interno della stirpe delle Valkyrur.
 3552;14096;18;;Y-Your Highness...;S-Vostra Altezza...
 3568;14120;64;;I am most envious of your ability to speak&your mind so frankly.;Ti invidio molto per la tua capacit= di parlare e di&esprimere i tuoi pensieri in modo cosi franco.
 3584;14192;60;;But time enough remains to consider my role.&By my own will.;Ma c'> ancora abbastanza tempo per riflettere sul mio&ruolo e sulla mia volont=.
@@ -178,7 +178,7 @@
 3776;14744;16;;Ah ha! I'm glad!;Ah ah! Sono contento!
 3792;14768;54;;All right.&Let's get Her Highness back to the capital!;Bene. Riportiamo Sua Altezza nella capitale!
 3808;14828;79;;And so Princess Cordelia returned, safe&through the efforts of Militia Squad 7.;E cosi la principessa Cordelia torno', sana e salva, grazie&agli sforzi della Squadra della Milizia 7.
-3824;14912;177;;"Its leader, Welkin Gunther, was celebrated as&rescuer to the nation's sovereign, and awarded&the prestigious Gallian Medal of Honor.&&       Irene Koller, ""On the Gallian Front""";"Il suo leader, Welkin Gunther, fu celebrato come&salvatore del sovrano della nazione, e premiato&la prestigiosa medaglia d'onore Gallian.&Irene Koller, ""Sul fronte gallico"""
+3824;14912;177;;"Its leader, Welkin Gunther, was celebrated as&rescuer to the nation's sovereign, and awarded&the prestigious Gallian Medal of Honor.&&       Irene Koller, ""On the Gallian Front""";"Il suo leader, Welkin Gunther, fu celebrato come&salvatore del sovrano della nazione, e premiato&con la prestigiosa medaglia d'onore Gallian.&&       Irene Koller, ""Sul fronte gallico"""
 3840;15096;40;;Lieutenant Welkin Gunther, step forward!;Tenente Welkin Gunther, un passo avanti!
 3856;15144;4;;Sir!;Signore!
 3872;15156;68;;For excellence in valor and deed,&you are hereby awarded this honor.;Per l'eccellenza nel valore e nelle azioni, ti viene&conferito questo onore.
@@ -213,6 +213,6 @@
 4336;16788;74;;Welkin, this hurts.&It's painfully obvious how shaky Gallia's standing is.;Bene, questo fa male. E' dolorosamente ovvio quanto sia&precaria la posizione di Gallia.
 4352;16868;78;;I know the world's history is an endless&chain of big fish eating little fish.;So che la storia del mondo > una catena infinita di pesci&grossi che mangiano pesci piccoli.
 4368;16952;73;;Both of us know the weak bow to the strong.&It's history and it's nature.;Entrambi sappiamo che il debole si inchina al forte. E' la&sua storia e la sua natura.
-4384;17032;87;;A minor nation like ours is an easy mark,&even before you add the rift within our army.;Una nazione piccola come la nostra > un bersaglio facile,&ancor prima di aggiungere la frattura all'interno del nostro esercito.
-4400;17124;58;;Welkin...&No offense, but I hope nature's wrong this time.;Welkin...&Nessuna offesa, ma spero che questa volta la&natura si sbagli.
+4384;17032;87;;A minor nation like ours is an easy mark,&even before you add the rift within our army.;Una nazione piccola come la nostra > un facile bersaglio,&come prima che aggiungessi il tuo fucile alla nostra armata.
+4400;17124;58;;Welkin...&No offense, but I hope nature's wrong this time.;Welkin...&Nessun offesa, ma spero che la natura si sbagli questa volta
 4416;17188;37;;I don't know what to tell you Faldio.;Non so cosa dirti, Faldio.
