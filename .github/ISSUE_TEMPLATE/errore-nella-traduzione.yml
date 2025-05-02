@@ -43,12 +43,12 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: save-file
     attributes:
       label: Allega file salvataggio della porzione del gioco dove è presente l'errore.
       description: Allega il file del salvataggio del gioco, per permettermi di analizzare più facilmente l'errore. I salvataggi del gioco sono presenti in "steamapps\common\Valkyria Chronicles\savedata".
-      placeholder: "Allega"
+      placeholder: "Allega file..."
     validations:
       required: false
 
