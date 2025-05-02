@@ -1,4 +1,3 @@
----
 name: Errore nella traduzione
 about: Crea una segnalazione per una errata traduzione/adattamento del gioco
 title: "[Errore Traduzione] - "
@@ -42,7 +41,7 @@ body:
         - Descrizione Oggetti / Abilità
         - Altro (specifica nelle Info Extra)
     validations:
-      required: false # Mettilo a true se vuoi che sia obbligatorio
+      required: false 
 
   - type: textarea
     id: info-extra
@@ -57,4 +56,3 @@ body:
     attributes:
       value: |
         **Allegati:** Ricorda di allegare screenshot o altri file utili trascinandoli nell'area sottostante o cliccando su 'Attach files'.
----
