@@ -40,8 +40,6 @@ body:
         - Dialoghi / Sottotitoli
         - Descrizione Oggetti / Abilità
         - Altro (specifica nelle Info Extra)
-    validations:
-      required: true 
 
     - type: textarea
     id: save-file
