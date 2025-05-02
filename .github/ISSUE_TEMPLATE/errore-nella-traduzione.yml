@@ -43,7 +43,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: save-file
     attributes:
       label: Allega file salvataggio della porzione del gioco dove è presente l'errore.
