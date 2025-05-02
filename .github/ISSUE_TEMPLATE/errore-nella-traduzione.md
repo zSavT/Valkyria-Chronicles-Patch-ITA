@@ -1,3 +1,4 @@
+---
 name: Errore nella traduzione
 about: Crea una segnalazione per una errata traduzione/adattamento del gioco
 title: "[Errore Traduzione] - "
@@ -56,3 +57,4 @@ body:
     attributes:
       value: |
         **Allegati:** Ricorda di allegare screenshot o altri file utili trascinandoli nell'area sottostante o cliccando su 'Attach files'.
+---
