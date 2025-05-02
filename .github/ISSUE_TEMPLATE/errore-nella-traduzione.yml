@@ -41,7 +41,16 @@ body:
         - Descrizione Oggetti / Abilità
         - Altro (specifica nelle Info Extra)
     validations:
-      required: false 
+      required: true 
+
+    - type: textarea
+    id: save-file
+    attributes:
+      label: Allega file salvataggio della porzione del gioco dove è presente l'errore.
+      description: Allega il file del salvataggio del gioco, per permettermi di analizzare più facilmente l'errore. I salvataggi del gioco sono presenti in "steamapps\common\Valkyria Chronicles\savedata".
+      placeholder: "Allega"
+    validations:
+      required: false
 
   - type: textarea
     id: info-extra
