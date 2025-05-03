@@ -122,7 +122,7 @@ Successivamente bisogna riportare tutte le informazioni richieste per poter corr
 Stesso discorso per la segnalazione dei crash/bug del gioco.
 
 ## VIDEO DIMOSTRATIVO
-[![Video dimostrativo versione pre-alpha](https://img.youtube.com/vi/MNjeAes6j74/0.jpg)](https://youtu.be/MNjeAes6j74?si=MNjeAes6j74)
+[![Video dimostrativo versione pre-alpha](https://img.youtube.com/vi/BSpE67GH0fU/hqdefault.jpg)](https://youtu.be/BSpE67GH0fU?si=g56Jf9WjaD7H9fdJ)
 
 
 ## SCREEN PROGETTO
