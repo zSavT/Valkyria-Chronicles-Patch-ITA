@@ -107,7 +107,7 @@ I file _DDS_ bisogna modificarli seguendo le linee guida indicate in questa [iss
 - [x] Comprendere il funzionamento e logica dietro i file mlx
 - [x] Comprendere il funzionamento e logica dietro i file htx
 - [ ] Comprendere il funzionamento e logica dietro i file esr
-- [ ] Tradurre e adattare tutti i testi mpt
+- [x] Tradurre e adattare tutti i testi mpt
 - [ ] Tradurre e adattare tutti i testi mxe
 - [ ] Tradurre e adattare tutti i testi esr
 - [ ] Rifinire
@@ -130,6 +130,7 @@ Stesso discorso per la segnalazione dei crash/bug del gioco.
 ![](img/1.jpg)
 ![](img/2.jpg)
 ![](img/3.jpg)
+![](img/4.jpg)
 
 ## CREDITI
 
