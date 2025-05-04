@@ -23,11 +23,16 @@
       - [COME CONVERTIRE I CSV NEI FILE MXE e MTP](#come-convertire-i-csv-nei-file-mxe-e-mtp)
     - [HTX - MLX - DDS](#htx---mlx---dds)
       - [COME CONVERTIRE I FILE HTX e MLX](#come-convertire-i-file-htx-e-mlx)
+- [Funzionamento installer](#funzionamento-installer)
+  - [Creazione dell'eseguibile](#creazione-delleseguibile)
+    - [Windows](#windows)
+    - [Linux (Steam Deck)](#linux-steam-deck)
   - [TO DO](#to-do)
   - [COME SEGNALARE ERRORI NELLA TRADUZIONE/BUG](#come-segnalare-errori-nella-traduzionebug)
   - [VIDEO DIMOSTRATIVO](#video-dimostrativo)
   - [SCREEN PROGETTO](#screen-progetto)
   - [CREDITI](#crediti)
+
 
 ## STRUTTURA DEI FILE
 
@@ -99,6 +104,61 @@ I file _DDS_ bisogna modificarli seguendo le linee guida indicate in questa [iss
   - In alternativa si possono utillizzare i commandi tramite CLI indicati nella guida.
 ![Tool](img/toolHTX-MLX.gif)
 
+
+# Funzionamento installer
+
+Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella "_data_". Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
+
+## Creazione dell'eseguibile
+
+Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__pyinstaller__" e generare l'eseguibile con i comandi in base al sistema operativo di arrivo.
+
+### Windows
+
+Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+Nella cartella "_dist_", è presente l'eseguibile.
+### Linux (Steam Deck)
+
+Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
+Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+```ps
+python3 -m venv venv
+```
+Se non fosse presente la funzione nell'ambiente, si può installare tramite il seguente comando:
+```ps
+sudo apt-get install -y python3-venv
+```
+Con il comando seguente, attiviamo l'ambiente:
+```ps
+source venv/bin/activate
+```
+Dopo aver attivato l'ambiente bisogna installare pyinstaller con il comando:
+```ps
+pip3 install pyinstaller
+```
+Se pip non è presente nell'ambiente, bisogna installarlo con il comando:
+```ps
+sudo apt install -y python3-pip
+```
+Successivamente bisogna installare tutte le librerie utilizzate, presenti nel file requirements.txt, che in ogni caso sono:
+
+- PyQt6
+- pyzipper
+
+Successivamente bisogna avviare il comando per la creazione del file eseguibile:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+
+Una volta terminato, si può disattivare l'ambiente con il commando:
+```ps
+deactivate
+```
+
+Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
 ## TO DO
 
