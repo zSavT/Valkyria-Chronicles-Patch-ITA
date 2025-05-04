@@ -30,7 +30,7 @@
 4308;40220;33;;View a list of battle statistics.;Visualizza un elenco delle statistiche di battaglia.
 4388;40260;34;;View a list of decorations earned.;Visualizza l'elenco delle decorazioni ottenute.
 4468;40300;43;;Listen to the music of Valkyria Chronicles.;Ascolta la musica di Valkyria Chronicles.
-4548;40348;10;;Ch. Select;Cap. Selezionare
+4548;40348;10;;Ch. Select;Selezione Cap.
 4628;40364;12;;Headquarters;Sede centrale
 4708;40384;9;;Personnel;Personale
 4788;40400;8;;Weaponry;Armi
@@ -39,236 +39,236 @@
 5028;40448;10;;Statistics;Statistiche
 5108;40464;11;;Decorations;Decorazioni
 5188;40480;5;;Music;Musica
-5268;40492;10;;Ch. Select;Cap. Selezionare
+5268;40492;10;;Ch. Select;Selezione Cap.
 5348;40508;10;;Tab Select;Seleziona scheda
 5428;40524;4;;Save;Salva
 5508;40536;7;;Options;Opzioni
-5588;40548;12;;Title Screen;Schermata del titolo
+5588;40548;12;;Title Screen;Menu iniziale
 5668;40568;5;;Close;Chiudi
 5748;40580;67;;        Choose the chapter you wish to read and continue the story.;Scegli il capitolo che desideri leggere e continua la storia.
 5828;40652;63;;            Choose a tab within Book Mode to view its contents.;Seleziona una scheda nella Modalit= Libro per visualizzarne il contenuto.
 5908;40720;59;;                 Save your progress to the hard disk drive.;Salva i tuoi progressi sul disco rigido.
 5988;40784;55;;                    Make changes to your game settings.;Apporta modifiche alle impostazioni del gioco.
-6068;40844;68;;          Return to the Title Screen. Unsaved progress will be lost.;Ritorna alla schermata del titolo. I progressi non salvatiandranno persi.
-6148;40920;47;;                                Close the Menu.;Chiudere il menu.
+6068;40844;68;;          Return to the Title Screen. Unsaved progress will be lost.;Ritorna al menu iniziale. I progressi non salvatiandranno persi.
+6148;40920;47;;                                Close the Menu.;Chiudi il menu.
 6228;40972;9;;Turn Page;Gira pagina
 6308;40988;11;;Switch Tabs;Cambia scheda
 6388;41004;3;;???;???
-6468;41012;56;;         Prologue: Gallia, to Arms!     �Europan War II�;Prologo: Gallia, alle armi!     �Seconda Guerra d'Europa�
-6548;41076;51;;         Prologue: Gallia, to Arms!     �A Meeting�;Prologo: Gallia, alle armi! �Un incontro�
-6628;41132;61;;         Prologue: Gallia, to Arms!     �The Imperial Attack�;Prologo: Gallia, alle armi! �L'attacco imperiale�
-6708;41200;60;;         Prologue: Gallia, to Arms!     �Encounter at Bruhl�;Prologo: Gallia, alle armi! �Incontro a Bruhl�
-6788;41268;59;;         Prologue: Gallia, to Arms!     �A Hilltop Promise�;Prologo: Gallia, alle armi! �Una promessa sulla cima diuna collina�
+6468;41012;56;;         Prologue: Gallia, to Arms!     "Europan War II";Prologo: Gallia, alle armi!     "Seconda Guerra d'Europa"
+6548;41076;51;;         Prologue: Gallia, to Arms!     "A Meeting";Prologo: Gallia, alle armi!     "Un incontro"
+6628;41132;61;;         Prologue: Gallia, to Arms!     "The Imperial Attack";Prologo: Gallia, alle armi!     "L'attacco imperiale"
+6708;41200;60;;         Prologue: Gallia, to Arms!     "Encounter at Bruhl";Prologo: Gallia, alle armi!     "Incontro a Bruhl"
+6788;41268;59;;         Prologue: Gallia, to Arms!     "A Hilltop Promise";Prologo: Gallia, alle armi!     "Una promessa sulla cima di una collina"
 6868;41332;40;;         Prologue: Gallia, to Arms!     ;Prologo: Gallia, alle armi!
 6948;41380;40;;         Prologue: Gallia, to Arms!     ;Prologo: Gallia, alle armi!
-7028;41428;46;;         Ch. 1: In Defense of Bruhl     �Home�;Cap. 1: In difesa di Bruhl �Home�
-7108;41480;54;;         Ch. 1: In Defense of Bruhl     �Home, part 2�;Cap. 1: In difesa di Bruhl �Home, parte 2�
-7188;41540;60;;         Ch. 1: In Defense of Bruhl     �Family Resemblance�;Cap. 1: In difesa di Bruhl �Somiglianza di famiglia�
-7268;41608;60;;         Ch. 1: In Defense of Bruhl     �The Windmill Tower�;Cap. 1: In difesa di Bruhl �La torre del mulino a vento�
-7348;41676;68;;         Ch. 1: In Defense of Bruhl     �The Windmill Tower, part 2�;Cap. 1: In difesa di Bruhl �La torre del mulino a vento,parte 2�
-7428;41752;68;;         Ch. 1: In Defense of Bruhl     �The Windmill Tower, part 3�;Cap. 1: In difesa di Bruhl �La torre del mulino a vento,parte 3�
-7508;41828;58;;         Ch. 1: In Defense of Bruhl     �Defense of Bruhl�;Cap. 1: In difesa di Bruhl �Difesa di Bruhl�
-7588;41892;65;;         Ch. 1: In Defense of Bruhl     �The Metal Hounds of War�;Cap. 1: In difesa di Bruhl �I segugi di metallo dellaguerra�
-7668;41964;47;;          Ch. 2: Escape from Bruhl     �Rescue�;Cap. 2: Fuga da Bruhl �Rescue�
-7748;42016;66;;          Ch. 2: Escape from Bruhl     �The Legacy of Our Fathers�;Cap. 2: Fuga da Bruhl �L'eredit= dei nostri padri�
-7828;42088;59;;          Ch. 2: Escape from Bruhl     �Retreat from Bruhl�;Cap. 2: Fuga da Bruhl �Ritirata da Bruhl�
-7908;42152;63;;          Ch. 2: Escape from Bruhl     �With Home at Our Backs�;Cap. 2: Fuga da Bruhl �Con casa alle nostre spalle�
-7988;42220;48;;        Ch. 3: Vasel Urban Warfare     �Summons�;Cap. 3: Vasel Urban Warfare �Evocazione�
-8068;42276;56;;        Ch. 3: Vasel Urban Warfare     �Summons, part 2�;Cap. 3: Vasel Urban Warfare �Convocazione, parte 2�
-8148;42340;56;;        Ch. 3: Vasel Urban Warfare     �Summons, part 3�;Cap. 3: Vasel Urban Warfare �Convocazione, parte 3�
-8228;42404;56;;        Ch. 3: Vasel Urban Warfare     �Summons, part 4�;Cap. 3: Vasel Urban Warfare �Convocazione, parte 4�
-8308;42468;56;;        Ch. 3: Vasel Urban Warfare     �Squad 7 is Born�;Cap. 3: Vasel Urban Warfare �Nasce la Squadra 7�
-8388;42532;54;;        Ch. 3: Vasel Urban Warfare     �The Flare Gun�;Cap. 3: Vasel Urban Warfare �La pistola lanciarazzi�
-8468;42592;53;;        Ch. 3: Vasel Urban Warfare     �The First Op�;cap. 3: Vasel Urban Warfare�Prima Op�
-8548;42652;61;;        Ch. 3: Vasel Urban Warfare     �The First Op, part 2�;cap. 3: Vasel Urban Warfare �La prima operazione, parte 2�
-8628;42720;61;;        Ch. 3: Vasel Urban Warfare     �The First Op, part 3�;cap. 3: Vasel Urban Warfare �La prima operazione, parte 3�
-8708;42788;64;;        Ch. 3: Vasel Urban Warfare     �West Bank of Vasel City�;Cap. 3: Guerra urbana di Vasel � Riva occidentale dellacitt= di Vasel �
-8788;42860;65;;        Ch. 3: Vasel Urban Warfare     �Ellet, War Correspondent�;Cap. 3: Vasel Urban Warfare �Ellet, corrispondente diguerra�
-8868;42932;49;;        Ch. 3: Vasel Urban Warfare     �Distrust�;Cap. 3: Vasel Urban Warfare �Distrust�
-8948;42988;66;;           Report: Ellet Embedded      �Let the Interviews Begin!�;Report: Ellet Embedded �Che le interviste abbiano inizio!�
-9028;43060;56;;           Report: Ellet Embedded      �Largo and Rosie�;Segnala: Ellet Embedded �Largo e Rosie�
-9108;43124;46;;           Report: Ellet Embedded      �Isara�;Rapporto: Ellet incorporato �Isara�
-9188;43176;58;;           Report: Ellet Embedded      �Welkin and Alicia�;Segnala: Ellet Embedded �Welkin e Alicia�
-9268;43240;56;;        Ch. 4: Operation Cloudburst    �Internal Strife�;Cap. 4: Operazione Cloudburst �Conflitti interni�
-9348;43304;55;;        Ch. 4: Operation Cloudburst    �Welkin's Boast�;Cap. 4: Operazione Cloudburst �Welkin's Boast�
-9428;43364;49;;        Ch. 4: Operation Cloudburst    �The Plan�;Cap. 4: Operazione Cloudburst �Il piano�
-9508;43420;53;;        Ch. 4: Operation Cloudburst    �The Crossing�;Cap. 4: Operazione Cloudburst �The Crossing�
-9588;43480;61;;        Ch. 4: Operation Cloudburst    �The Crossing, part 2�;Cap. 4: Operazione Cloudburst �The Crossing, parte 2�
-9668;43548;62;;        Ch. 4: Operation Cloudburst    �Battle for the Bridge�;Cap. 4: Operazione Cloudburst �Battaglia per il ponte�
-9748;43616;56;;        Ch. 4: Operation Cloudburst    �Drawbridge Away�;Cap. 4: Operazione Cloudburst �Drawbridge Away�
-9828;43680;56;;        Ch. 4: Operation Cloudburst    �After the Storm�;Cap. 4: Operazione Cloudburst �Dopo la tempesta�
-9908;43744;55;;        Ch. 4: Operation Cloudburst    �A Parting Wish�;Cap. 4: Operazione Cloudburst �Un desiderio d'addio�
-9988;43804;64;;           Report: Largo's Passion      �Secure the Trade Route�;Report: La passione di Largo �Proteggere la rottacommerciale�
-10068;43876;66;;           Report: Largo's Passion      �Vegetable Route Incident�;Segnalazione: Largo's Passion �Incidente sulla rotta delleverdure�
-10148;43948;55;;           Report: Largo's Passion      �Largo's Dream�;Reportage: La passione di Largo �Il sogno di Largo�
-10228;44008;64;;        Ch. 5: The Kloden Wildwood    �Severing the Supply Line�;Cap. 5: La foresta selvaggia di Kloden �Tagliare la lineadi rifornimento�
-10308;44080;68;;        Ch. 5: The Kloden Wildwood    �Maximilian and the Triumviri�;Cap. 5: Il Kloden Wildwood �Massimiliano e i Triumviri�
-10388;44156;56;;        Ch. 5: The Kloden Wildwood    �A Path Uncovered�;Cap. 5: La foresta selvaggia di Kloden �Un sentieroscoperto�
-10468;44220;61;;        Ch. 5: The Kloden Wildwood    �Countless Tiny Losses�;Cap. 5: The Kloden Wildwood �Innumerevoli piccole perdite�
-10548;44288;66;;        Ch. 5: The Kloden Wildwood    �Wildwood Warfare at Kloden�;Cap. 5: La foresta selvaggia di Kloden �La guerra nellaforesta selvaggia a Kloden�
-10628;44360;62;;        Ch. 5: The Kloden Wildwood    �Taking the Supply Base�;Cap. 5: La foresta selvaggia di Kloden �Prendere la basedi rifornimento�
-10708;44428;59;;          Report: A Taste of Home     �An Unexpected Visit�;Reportage: Un assaggio di casa �Una visita inaspettata�
-10788;44492;62;;          Report: A Taste of Home     �Tea for Two and a Half�;Reportage: Un assaggio di casa �T> per due e mezzo�
-10868;44560;57;;          Report: A Taste of Home     �Alicia's Ambition�;Reportage: Un assaggio di casa �L'ambizione di Alicia�
-10948;44624;58;;         Ch. 6: A Desert Encounter     �Into the Badlands�;Cap. 6: Un incontro nel deserto �Nelle terre desolate�
-11028;44688;58;;         Ch. 6: A Desert Encounter     �Jaeger and Gregor�;Cap. 6: Un incontro nel deserto �Jaeger e Gregor�
-11108;44752;65;;         Ch. 6: A Desert Encounter     �Battle of Barious Desert�;Cap. 6: Un incontro nel deserto �Battaglia del deserto diBarious�
-11188;44824;57;;         Ch. 6: A Desert Encounter     �The Desert Ruins�;Cap. 6: Un incontro nel deserto �Le rovine del deserto�
-11268;44888;63;;         Ch. 6: A Desert Encounter     �Visitors at the Temple�;Cap. 6: Un incontro nel deserto �Visitatori al tempio�
-11348;44956;59;;        Ch. 7: The Battle at Barious    �A History Unfolds�;Cap. 7: La battaglia di Barious �Una storia si dipana�
-11428;45020;62;;        Ch. 7: The Battle at Barious    �The Darcsen Calamity�;Cap. 7: La battaglia di Barious �La calamit= di Darcsen�
-11508;45088;59;;        Ch. 7: The Battle at Barious    �Inside the Spiral�;Cap. 7: La battaglia di Barious �All'interno della spirale�
-11588;45152;55;;        Ch. 7: The Battle at Barious    �First Contact�;Cap. 7: La battaglia di Barious �Primo contatto�
-11668;45212;69;;        Ch. 7: The Battle at Barious    �Desert Duel with Maximilian�;Cap. 7: La battaglia di Barious �Duello nel deserto conMassimiliano�
-11748;45288;50;;        Ch. 7: The Battle at Barious    �Valkyria�;Cap. 7: La battaglia di Barious �Valkyria�
-11828;45344;64;;        Ch. 7: The Battle at Barious    �The Valkyria Withdraws�;Cap. 7: La battaglia di Barious �La Valchiria si ritira�
-11908;45416;57;;        Ch. 7: The Battle at Barious    �A Legend Reborn�;Cap. 7: La battaglia di Barious �Una leggenda rinata�
-11988;45480;58;;         Report: Signs of Awakening    �Barious Once More�;Rapporto: Segnali di risveglio �Bariosi ancora una volta�
-12068;45544;69;;         Report: Signs of Awakening    �Taking the Barious Highlands�;Report: Segnali di risveglio �Conquista degli altopianibariosi�
-12148;45620;55;;         Report: Signs of Awakening    �Alicia Wounded�;Rapporto: Segnali di risveglio �Alicia ferita�
-12228;45680;56;;         Report: Signs of Awakening    �Unearthly Light�;Rapporto: Segnali di Risveglio �Luce ultraterrena�
-12308;45744;46;;         Report: Signs of Awakening    �Signs�;Rapporto: Segnali di risveglio �Segnali�
-12388;45796;55;;         Ch. 8: The Woodland Snare    �Surprise Attack�;Cap. 8: La trappola del bosco �Attacco a sorpresa�
-12468;45856;63;;         Ch. 8: The Woodland Snare    �Surprise Attack, part 2�;Cap. 8: La trappola del bosco �Attacco a sorpresa, parte 2�
-12548;45924;64;;         Ch. 8: The Woodland Snare    �Escape from Forest Snare�;Cap. 8: La trappola del bosco �Fuga dalla trappola delbosco�
-12628;45996;48;;         Ch. 8: The Woodland Snare    �Memories�;Cap. 8: La trappola del bosco �Ricordi�
-12708;46052;44;;         Ch. 8: The Woodland Snare    �Life�;Cap. 8: La trappola del bosco �Life�
-12788;46104;57;;         Ch. 8: The Woodland Snare    �Those Left Behind�;Cap. 8: La trappola del bosco �Quelli rimasti indietro�
-12868;46168;52;;         Ch. 8: The Woodland Snare    �One in Death�;Cap. 8: La trappola del bosco �Uno nella morte�
-12948;46228;60;;         Ch. 8: The Woodland Snare    �One in Death, part 2�;Cap. 8: La trappola del bosco �Uno nella morte, parte 2�
-13028;46296;61;;         Ch. 8: The Woodland Snare    �Reunion in the Forest�;Cap. 8: La trappola del bosco �Riunione nella foresta�
-13108;46364;45;;         Ch. 8: The Woodland Snare    �Bonds�;Cap. 8: La trappola del bosco �Bonds�
-13188;46416;58;;  Report: For Whom Destiny Unfolds    �In Search of Truth�;Reportage: Per chi si dispiega il destino �Alla ricercadella verit=�
-13268;46480;57;;  Report: For Whom Destiny Unfolds    �Cordelia's Secret�;Reportage: Per chi si dispiega il destino �Il segreto diCordelia�
-13348;46544;62;;  Report: For Whom Destiny Unfolds    �Journalistic Integrity�;Reportage: Per chi si dispiega il destino �Integrit=giornalistica�
-13428;46612;54;;        Ch. 9: A Midsummer Incident   �The Invitation�;Cap. 9: Un incidente di mezza estate �L'invito�
-13508;46672;55;;        Ch. 9: A Midsummer Incident   �Castle Randgriz�;Cap. 9: Un incidente di mezza estate �Castle Randgriz�
-13588;46732;64;;        Ch. 9: A Midsummer Incident   �Far from the Battlefield�;Cap. 9: Un incidente di mezza estate �Lontano dal campo dibattaglia�
-13668;46804;63;;        Ch. 9: A Midsummer Incident   �The Valkyrian Bloodline�;Cap. 9: Un incidente di mezza estate �La stirpe delleValchirie�
-13748;46872;57;;        Ch. 9: A Midsummer Incident   �Dreams of the Sky�;Cap. 9: Un incidente di mezza estate �Sogni del cielo�
-13828;46936;62;;        Ch. 9: A Midsummer Incident   �Kidnapping of Cordelia�;Cap. 9: Un incidente di mezza estate �Il rapimento diCordelia�
-13908;47004;56;;        Ch. 9: A Midsummer Incident   �On Will and Fate�;Cap. 9: Un incidente di mezza estate �Su volont= e destino�
-13988;47068;58;;        Ch. 9: A Midsummer Incident   �The Award Ceremony�;Cap. 9: Un incidente di mezza estate �La cerimonia dipremiazione�
-14068;47132;58;;        Ch. 9: A Midsummer Incident   �Fears of a Patriot�;Cap. 9: Un incidente di mezza estate �Paura di un patriota�
-14148;47196;60;;           Report: Squad 7's RR       �A Warrior's Respite�;Rapporto: RR della Squadra 7 �Un sollievo per i guerrieri�
-14228;47264;60;;           Report: Squad 7's RR       �A Beachside Holiday�;Report: RR �A Beachside Holiday� della Squadra 7
-14308;47332;58;;           Report: Squad 7's RR       �Days Forever Gone�;Report: RR �Days Forever Gone� della Squadra 7
-14388;47396;56;;           Report: Squad 7's RR       �An Awkward Pair�;Report: RR della Squadra 7 �Una coppia imbarazzante�
-14468;47460;62;;        Ch. 10: Liberation of Fouzen    �The Fouzen Operation�;Cap. 10: Liberazione di Fouzen �L'operazione Fouzen�
-14548;47528;64;;        Ch. 10: Liberation of Fouzen    �The Concentration Camp�;Cap. 10: Liberazione di Fouzen �Il campo di concentramento�
-14628;47600;64;;        Ch. 10: Liberation of Fouzen    �Infiltration of Fouzen�;Cap. 10: Liberazione di Fouzen �Infiltrazione di Fouzen�
-14708;47672;56;;        Ch. 10: Liberation of Fouzen    �The Inside Man�;Cap. 10: Liberazione di Fouzen �The Inside Man�
-14788;47736;64;;        Ch. 10: Liberation of Fouzen    �The Inside Man, part 2�;Cap. 10: Liberazione di Fouzen �The Inside Man, parte 2�
-14868;47808;62;;        Ch. 10: Liberation of Fouzen    �The True Face of War�;Cap. 10: Liberazione di Fouzen �Il vero volto della guerra�
-14948;47876;62;;        Ch. 10: Liberation of Fouzen    �Liberation of Fouzen�;Cap. 10: Liberazione di Fouzen �Liberazione di Fouzen�
-15028;47944;60;;        Ch. 10: Liberation of Fouzen    �Liberation Eternal�;Cap. 10: Liberazione di Fouzen �Liberazione Eterna�
-15108;48012;55;;        Ch. 10: Liberation of Fouzen    �A New Comrade�;Cap. 10: Liberazione di Fouzen �Un nuovo compagno�
-15188;48072;57;;     Report: What Lies Beyond Hate    �Varrot's Vendetta�;Report: Cosa c'> oltre l'odio �La vendetta di Varrot�
-15268;48136;64;;     Report: What Lies Beyond Hate    �Hostage Rescue Operation�;Rapporto: Cosa c'> oltre l'odio �Operazione di salvataggiodegli ostaggi�
-15348;48208;49;;     Report: What Lies Beyond Hate    �Vengeance�;Report: Cosa c'> oltre l'odio �Vendetta�
-15428;48264;62;;     Report: What Lies Beyond Hate    �The Wages of Cowardice�;Rapporto: Cosa c'> oltre l'odio �Il salario della codardia�
-15508;48332;58;;     Report: What Lies Beyond Hate    �A New Step Forward�;Report: Cosa c'> oltre l'odio �Un nuovo passo avanti�
-15588;48396;63;;        Ch. 11: The Marberry Shore     �Peril on the Coastline�;Cap. 11: La costa di Marberry �Pericolo sulla costa�
-15668;48464;65;;        Ch. 11: The Marberry Shore     �The Feast of All Spirits�;Cap. 11: La riva di Marberry �La festa di tutti glispiriti�
-15748;48536;54;;        Ch. 11: The Marberry Shore     �Alicia's Gift�;cap. 11: La costa di Marberry �Il regalo di Alicia�
-15828;48596;49;;        Ch. 11: The Marberry Shore     �Tomorrow�;Cap. 11: La riva di Marberry �Domani�
-15908;48652;59;;        Ch. 11: The Marberry Shore     �Isara's Commitment�;Cap. 11: La costa di Marberry �L'impegno di Isara�
-15988;48716;65;;        Ch. 11: The Marberry Shore     �Battle at Marberry Shore�;cap. 11: La costa di Marberry �Battaglia a Marberry Shore�
-16068;48788;60;;        Ch. 11: The Marberry Shore     �A Dream Interrupted�;Cap. 11: La riva di Marberry �Un sogno interrotto�
-16148;48856;50;;        Ch. 11: The Marberry Shore     �Farewells�;cap. 11: La costa di Marberry �Addio�
-16228;48912;56;;       Report: War Without Weapons    �The Darcsen Hunt�;Reportage: Guerra senza armi �La caccia a Darcsen�
-16308;48976;65;;       Report: War Without Weapons    �An End to Darcsen Hunting�;Report: Guerra senza armi �Fine della caccia a Darcsen�
-16388;49048;61;;       Report: War Without Weapons    �For Every Wish, a Way�;Report: Guerra senza armi �Per ogni desiderio, una via�
-16468;49116;51;;       Report: War Without Weapons    �Checking In�;Report: Guerra senza armi �Check-in�
-16548;49172;58;;        Ch. 12: The Fight for Bruhl     �A Kindred Spirit�;Cap. 12: La lotta per Bruhl �Uno spirito affine�
-16628;49236;57;;        Ch. 12: The Fight for Bruhl     �Jaeger's Reason�;Cap. 12: La lotta per la ragione di Bruhl Jaeger
-16708;49300;57;;        Ch. 12: The Fight for Bruhl     �Return to Bruhl�;Cap. 12: La lotta per Bruhl �Ritorno a Bruhl�
-16788;49364;62;;        Ch. 12: The Fight for Bruhl     �Return to the Temple�;Cap. 12: La lotta per Bruhl �Ritorno al Tempio�
-16868;49432;60;;        Ch. 12: The Fight for Bruhl     �Recapture of Bruhl�;Cap. 12: La lotta per Bruhl �Riconquista di Bruhl�
-16948;49500;64;;        Ch. 12: The Fight for Bruhl     �Hope Amid the Wreckage�;Cap. 12: La lotta per Bruhl �La speranza tra le macerie�
-17028;49572;63;;        Ch. 12: The Fight for Bruhl     �The Approaching Clash�;Cap. 12: La lotta per Bruhl �Lo scontro imminente�
-17108;49640;62;;        Ch. 12: The Fight for Bruhl     �Once the War is Over�;Cap. 12: La lotta per Bruhl �Una volta finita la guerra�
-17188;49708;61;;       Ch. 13: The Clash at Naggiar    �On the Eve of Battle�;Cap. 13: Lo scontro a Naggiar �Alla vigilia dellabattaglia�
-17268;49776;69;;       Ch. 13: The Clash at Naggiar    �On the Eve of Battle, part 2�;Cap. 13: Lo scontro a Naggiar �Alla vigilia dellabattaglia, parte 2�
-17348;49852;65;;       Ch. 13: The Clash at Naggiar    �The Iron-Willed Valkyria�;cap. 13: Lo scontro a Naggiar �La Valchiria dalla volont=di ferro�
-17428;49924;60;;       Ch. 13: The Clash at Naggiar    �Selvaria, Destroyer�;cap. 13: Lo scontro a Naggiar�Selvaria, Distruttore�
-17508;49992;64;;       Ch. 13: The Clash at Naggiar    �Showdown at Naggiar (1)�;cap. 13: Lo scontro a Naggiar �Resa dei conti a Naggiar(1)�
-17588;50064;63;;       Ch. 13: The Clash at Naggiar    �A Bullet from the Blue�;Cap. 13: Lo scontro a Naggiar �Un proiettile dal cielo�
-17668;50132;62;;    Report: Flower of the Battlefield    �A Leader Distraught�;Reportage: Il fiore del campo di battaglia �Un leadersconvolto�
-17748;50200;68;;    Report: Flower of the Battlefield    �Guarding the Refugee Camp�;Reportage: Il fiore del campo di battaglia �A guardia delcampo profughi�
-17828;50276;66;;    Report: Flower of the Battlefield    �The Language of Flowers�;Reportage: Fiore del campo di battaglia �Il linguaggio deifiori�
-17908;50348;59;;    Report: Flower of the Battlefield    �Unbending Spirit�;Report: Fiore del campo di battaglia �Spirito inflessibile�
-17988;50412;62;;        Ch. 14: Loss Within Victory    �At the Field Hospital�;Cap. 14: La sconfitta nella vittoria �All'ospedale dacampo�
-18068;50480;58;;        Ch. 14: Loss Within Victory    �Clashing Opinions�;Cap. 14: Sconfitta nella vittoria �Opinioni contrastanti�
-18148;50544;50;;        Ch. 14: Loss Within Victory    �Awakening�;Cap. 14: Perdita nella vittoria �Risveglio�
-18228;50600;54;;        Ch. 14: Loss Within Victory    �Twin Valkyrur�;Cap. 14: Sconfitta nella vittoria �Twin Valkyrur�
-18308;50660;64;;        Ch. 14: Loss Within Victory    �Showdown at Naggiar (2)�;cap. 14: Perdita nella vittoria �Resa dei conti a Naggiar(2)�
-18388;50732;63;;        Ch. 14: Loss Within Victory    �At What Price Victory?�;Cap. 14: Perdita nella vittoria �A quale prezzo lavittoria?�
-18468;50800;39;;        Ch. 14: Loss Within Victory    ;Cap. 14: La sconfitta nella vittoria
-18548;50844;39;;        Ch. 14: Loss Within Victory    ;Cap. 14: La sconfitta nella vittoria
-18628;50888;51;;            Report: Parting Ways        �Suspicion�;Segnalazione: Separazione �Sospetto�
-18708;50944;47;;            Report: Parting Ways        �Truth�;Rapporto: Strade separate �Verit=�
-18788;50996;55;;            Report: Parting Ways        �Confrontation�;Rapporto: Separazione �Confronto�
-18868;51056;59;;         Ch. 15: Citadel Ghirlandaio    �To Fell a Citadel�;cap. 15: Cittadella Ghirlandaio �Abbattere una Cittadella�
-18948;51120;60;;         Ch. 15: Citadel Ghirlandaio    �The Cruelest Order�;cap. 15: Cittadella del Ghirlandaio �L'Ordine Crudele�
-19028;51188;68;;         Ch. 15: Citadel Ghirlandaio    �The Cruelest Order, part 2�;Cap. 15: Cittadella Ghirlandaio �L'Ordine piu' Crudele,parte 2�
-19108;51264;60;;         Ch. 15: Citadel Ghirlandaio    �Bracing for Battle�;cap. 15: Cittadella del Ghirlandaio �Prepararsi allabattaglia�
-19188;51332;48;;         Ch. 15: Citadel Ghirlandaio    �Doubts�;cap. 15: Cittadella Ghirlandaio�Dubbi�
-19268;51388;63;;         Ch. 15: Citadel Ghirlandaio    �Fight for Ghirlandaio�;cap. 15: Cittadella del Ghirlandaio �Lotta per ilGhirlandaio�
-19348;51456;62;;         Ch. 15: Citadel Ghirlandaio    �One Human's Struggle�;cap. 15: Cittadella Ghirlandaio �La lotta di un essereumano�
-19428;51524;63;;         Ch. 15: Citadel Ghirlandaio    �Selvaria's Last Stand�;cap. 15: Cittadella del Ghirlandaio �L'Ultima Resistenzadi Selvaria�
-19508;51592;61;;         Ch. 15: Citadel Ghirlandaio    �For Whom, for What?�;Cap. 15: Cittadella Ghirlandaio �Per chi, per cosa?�
-19588;51660;62;;         Ch. 15: Citadel Ghirlandaio    �The Valkyria's Flame�;cap. 15: Cittadella del Ghirlandaio�La Fiamma dellaValchiria�
-19668;51728;70;;         Ch. 15: Citadel Ghirlandaio    �The Valkyria's Flame, part 2�;Cap. 15: Cittadella Ghirlandaio �La Fiamma dellaValchiria, parte 2�
-19748;51804;70;;         Ch. 15: Citadel Ghirlandaio    �The Valkyria's Flame, part 3�;Cap. 15: Cittadella Ghirlandaio �La Fiamma dellaValchiria, parte 3�
-19828;51880;52;;        Ch. 16: The Maiden's Shield    �The Marmota�;Cap. 16: Lo scudo della fanciulla �La Marmota�
-19908;51940;60;;        Ch. 16: The Maiden's Shield    �The Marmota, part 2�;Cap. 16: Lo scudo della fanciulla �La Marmota, parte 2�
-19988;52008;66;;        Ch. 16: The Maiden's Shield    �Operation Maiden's Shield�;Cap. 16: Lo scudo della fanciulla �Operazione Scudo dellafanciulla�
-20068;52080;57;;        Ch. 16: The Maiden's Shield    �Cordelia's Stand�;Cap. 16: Lo scudo della fanciulla �Il supporto di Cordelia�
-20148;52144;62;;        Ch. 16: The Maiden's Shield    �Diverting the Marmota�;Cap. 16: Lo scudo della fanciulla �Deviare la Marmota�
-20228;52212;54;;        Ch. 16: The Maiden's Shield    �Into the Fire�;Cap. 16: Lo scudo della fanciulla �Nel fuoco�
-20308;52272;45;;        Ch. 16: The Maiden's Shield    �Love�;Cap. 16: Lo scudo della fanciulla �Love�
-20388;52324;53;;        Ch. 16: The Maiden's Shield    �Love, part 2�;Cap. 16: Lo scudo della fanciulla �Amore, parte 2�
-20468;52384;53;;        Ch. 16: The Maiden's Shield    �Love, part 3�;Cap. 16: Lo scudo della fanciulla �Amore, parte 3�
-20548;52444;58;;        Ch. 16: The Maiden's Shield    �Squad 7 Moves Out�;Cap. 16: Lo scudo della fanciulla �La squadra 7 si sposta�
-20628;52508;64;;        Ch. 17: The Bridge to Hope     �Champion of a Lost Land�;Cap. 17: Il ponte verso la speranza �Campione di una terraperduta�
-20708;52580;58;;        Ch. 17: The Bridge to Hope     �A Friendship Lost�;Cap. 17: Il ponte verso la speranza �Un'amicizia perduta�
-20788;52644;68;;        Ch. 17: The Bridge to Hope     �Breaching Jaeger's Blockade�;Cap. 17: Il ponte verso la speranza �Rompere il blocco diJaeger�
-20868;52720;54;;        Ch. 17: The Bridge to Hope     �True Strength�;Cap. 17: Il ponte verso la speranza �La vera forza�
-20948;52780;58;;        Ch. 17: The Bridge to Hope     �The Capital Falls�;Cap. 17: Il ponte verso la speranza �La capitale cade�
-21028;52844;66;;        Ch. 17: The Bridge to Hope     �The Capital Falls, Part 2�;Cap. 17: Il ponte verso la speranza �La capitale cade,parte 2�
-21108;52916;58;;      Finale: Shadow of the Valkyrur   �The Real Cordelia�;Finale: L'ombra della Valchiria �La vera Cordelia�
-21188;52980;66;;      Finale: Shadow of the Valkyrur   �The Real Cordelia, Part 2�;Finale: L'ombra della Valchiria �La vera Cordelia, parte 2�
-21268;53052;66;;      Finale: Shadow of the Valkyrur   �The Real Cordelia, Part 3�;Finale: L'ombra della Valchiria �La vera Cordelia, parte 3�
-21348;53124;50;;      Finale: Shadow of the Valkyrur   �Jailbreak�;Finale: L'ombra della Valchiria �Jailbreak�
-21428;53180;59;;      Finale: Shadow of the Valkyrur   �Final Preparations�;Finale: Shadow of the Valkyrur �Preparativi finali�
-21508;53244;49;;      Finale: Shadow of the Valkyrur   �Stowaway�;Finale: L'ombra della Valchiria �Stowaway�
-21588;53300;52;;      Finale: Shadow of the Valkyrur   �Faith Alive�;Finale: L'ombra della Valchiria �Faith Alive�
-21668;53360;62;;      Finale: Shadow of the Valkyrur   �The Marmota's Purpose�;Finale: L'ombra del Valkyrur �Lo scopo della Marmota�
-21748;53428;51;;      Finale: Shadow of the Valkyrur   �The Valkof�;Finale: L'ombra del Valkyrur �Il Valkof�
-21828;53484;59;;      Finale: Shadow of the Valkyrur   �The Valkof, Part 2�;Finale: L'ombra del Valkyrur �Il Valkof, Parte 2�
-21908;53548;59;;      Finale: Shadow of the Valkyrur   �The Valkof, Part 3�;Finale: L'ombra del Valkyrur �Il Valkof, Parte 3�
-21988;53612;54;;      Finale: Shadow of the Valkyrur   �Marmota's End�;Finale: L'ombra della Valchiria �La fine di Marmota�
-22068;53672;66;;      Finale: Shadow of the Valkyrur   �Maximilian's Final Gambit�;Finale: L'ombra della Valchiria �L'ultimo gambetto diMassimiliano�
-22148;53744;60;;      Finale: Shadow of the Valkyrur   �Maximilian's Vision�;Finale: L'ombra del Valkyrur �La visione di Maximilian�
-22228;53812;55;;      Finale: Shadow of the Valkyrur   �Final Showdown�;Finale: Shadow of the Valkyrur �Scontro finale�
-22308;53872;58;;      Finale: Shadow of the Valkyrur   �Ambition Thwarted�;Finale: Shadow of the Valkyrur �Ambizione frustrata�
-22388;53936;66;;      Finale: Shadow of the Valkyrur   �Ambition Thwarted, part 2�;Finale: Shadow of the Valkyrur �Ambition Thwarted, parte 2�
-22468;54008;47;;      Finale: Shadow of the Valkyrur   �Escape�;Finale: L'ombra della Valchiria �Fuga�
-22548;54060;39;;      Finale: Shadow of the Valkyrur   ;Finale: L'ombra della Valchiria
-22628;54104;39;;      Finale: Shadow of the Valkyrur   ;Finale: L'ombra della Valchiria
-22708;54148;56;;                   Epilogue              �What Lives On�;Epilogo �Cio' che sopravvive�
+7028;41428;46;;         Ch. 1: In Defense of Bruhl     "Home";Cap. 1: In difesa di Bruhl "Home"
+7108;41480;54;;         Ch. 1: In Defense of Bruhl     "Home, part 2";Cap. 1: In difesa di Bruhl "Home, parte 2"
+7188;41540;60;;         Ch. 1: In Defense of Bruhl     "Family Resemblance";Cap. 1: In difesa di Bruhl "Somiglianza di famiglia"
+7268;41608;60;;         Ch. 1: In Defense of Bruhl     "The Windmill Tower";Cap. 1: In difesa di Bruhl "La torre del mulino a vento"
+7348;41676;68;;         Ch. 1: In Defense of Bruhl     "The Windmill Tower, part 2";Cap. 1: In difesa di Bruhl "La torre del mulino a vento,parte 2"
+7428;41752;68;;         Ch. 1: In Defense of Bruhl     "The Windmill Tower, part 3";Cap. 1: In difesa di Bruhl "La torre del mulino a vento,parte 3"
+7508;41828;58;;         Ch. 1: In Defense of Bruhl     "Defense of Bruhl";Cap. 1: In difesa di Bruhl "Difesa di Bruhl"
+7588;41892;65;;         Ch. 1: In Defense of Bruhl     "The Metal Hounds of War";Cap. 1: In difesa di Bruhl "I segugi di metallo della guerra"
+7668;41964;47;;          Ch. 2: Escape from Bruhl     "Rescue";Cap. 2: Fuga da Bruhl "Rescue"
+7748;42016;66;;          Ch. 2: Escape from Bruhl     "The Legacy of Our Fathers";Cap. 2: Fuga da Bruhl "L'eredit= dei nostri padri"
+7828;42088;59;;          Ch. 2: Escape from Bruhl     "Retreat from Bruhl";Cap. 2: Fuga da Bruhl "Ritirata da Bruhl"
+7908;42152;63;;          Ch. 2: Escape from Bruhl     "With Home at Our Backs";Cap. 2: Fuga da Bruhl "Con casa alle nostre spalle"
+7988;42220;48;;        Ch. 3: Vasel Urban Warfare     "Summons";Cap. 3: Guerriglia Urbana a Vasel "Evocazione"
+8068;42276;56;;        Ch. 3: Vasel Urban Warfare     "Summons, part 2";Cap. 3: Guerriglia Urbana a Vasel "Convocazione, parte 2"
+8148;42340;56;;        Ch. 3: Vasel Urban Warfare     "Summons, part 3";Cap. 3: Guerriglia Urbana a Vasel "Convocazione, parte 3"
+8228;42404;56;;        Ch. 3: Vasel Urban Warfare     "Summons, part 4";Cap. 3: Guerriglia Urbana a Vasel "Convocazione, parte 4"
+8308;42468;56;;        Ch. 3: Vasel Urban Warfare     "Squad 7 is Born";Cap. 3: Guerriglia Urbana a Vasel "Nasce la Squadra 7"
+8388;42532;54;;        Ch. 3: Vasel Urban Warfare     "The Flare Gun";Cap. 3: Guerriglia Urbana a Vasel "La pistola lanciarazzi"
+8468;42592;53;;        Ch. 3: Vasel Urban Warfare     "The First Op";Cap. 3: Guerriglia Urbana a Vasel "Prima Op"
+8548;42652;61;;        Ch. 3: Vasel Urban Warfare     "The First Op, part 2";Cap. 3: Guerriglia Urbana a Vasel "La prima operazione, parte 2"
+8628;42720;61;;        Ch. 3: Vasel Urban Warfare     "The First Op, part 3";Cap. 3: Guerriglia Urbana a Vasel "La prima operazione, parte 3"
+8708;42788;64;;        Ch. 3: Vasel Urban Warfare     "West Bank of Vasel City";Cap. 3: Guerra urbana di Vasel " Riva occidentale dellacitt= di Vasel"
+8788;42860;65;;        Ch. 3: Vasel Urban Warfare     "Ellet, War Correspondent";Cap. 3: Guerriglia Urbana a Vasel "Ellet, corrispondente di guerra"
+8868;42932;49;;        Ch. 3: Vasel Urban Warfare     "Distrust";Cap. 3: Guerriglia Urbana a Vasel "Distrust"
+8948;42988;66;;           Report: Ellet Embedded      "Let the Interviews Begin!";Report: Nella Morsa di Ellet "Che le interviste abbiano inizio!"
+9028;43060;56;;           Report: Ellet Embedded      "Largo and Rosie";Segnala: Nella Morsa di Ellet "Largo e Rosie"
+9108;43124;46;;           Report: Ellet Embedded      "Isara";Report: Nella Morsa di Ellet "Isara"
+9188;43176;58;;           Report: Ellet Embedded      "Welkin and Alicia";Segnala: Nella Morsa di Ellet "Welkin e Alicia"
+9268;43240;56;;        Ch. 4: Operation Cloudburst    "Internal Strife";Cap. 4: Operazione Cloudburst "Conflitti interni"
+9348;43304;55;;        Ch. 4: Operation Cloudburst    "Welkin's Boast";Cap. 4: Operazione Cloudburst "Welkin's Boast"
+9428;43364;49;;        Ch. 4: Operation Cloudburst    "The Plan";Cap. 4: Operazione Cloudburst "Il piano"
+9508;43420;53;;        Ch. 4: Operation Cloudburst    "The Crossing";Cap. 4: Operazione Cloudburst "The Crossing"
+9588;43480;61;;        Ch. 4: Operation Cloudburst    "The Crossing, part 2";Cap. 4: Operazione Cloudburst "The Crossing, parte 2"
+9668;43548;62;;        Ch. 4: Operation Cloudburst    "Battle for the Bridge";Cap. 4: Operazione Cloudburst "Battaglia per il ponte"
+9748;43616;56;;        Ch. 4: Operation Cloudburst    "Drawbridge Away";Cap. 4: Operazione Cloudburst "Drawbridge Away"
+9828;43680;56;;        Ch. 4: Operation Cloudburst    "After the Storm";Cap. 4: Operazione Cloudburst "Dopo la tempesta"
+9908;43744;55;;        Ch. 4: Operation Cloudburst    "A Parting Wish";Cap. 4: Operazione Cloudburst "Un desiderio d'addio"
+9988;43804;64;;           Report: Largo's Passion      "Secure the Trade Route";Report: La Passione di Largo "Proteggere la rotta commerciale"
+10068;43876;66;;           Report: Largo's Passion      "Vegetable Route Incident";Report: La Passione di Largo "Incidente sulla rotta delle verdure"
+10148;43948;55;;           Report: Largo's Passion      "Largo's Dream";Report: La Passione di Largo "Il sogno di Largo"
+10228;44008;64;;        Ch. 5: The Kloden Wildwood    "Severing the Supply Line";Cap. 5: La Foresta di Kloden "Tagliare la lineadi rifornimento"
+10308;44080;68;;        Ch. 5: The Kloden Wildwood    "Maximilian and the Triumviri";Cap. 5: La Foresta di Kloden "Maximilian e i Triumviri"
+10388;44156;56;;        Ch. 5: The Kloden Wildwood    "A Path Uncovered";Cap. 5: La Foresta di Kloden "Un sentiero scoperto"
+10468;44220;61;;        Ch. 5: The Kloden Wildwood    "Countless Tiny Losses";Cap. 5: La Foresta di Kloden "Innumerevoli piccole perdite"
+10548;44288;66;;        Ch. 5: The Kloden Wildwood    "Wildwood Warfare at Kloden";Cap. 5: La Foresta di Kloden "La guerra nella foresta selvaggia a Kloden"
+10628;44360;62;;        Ch. 5: The Kloden Wildwood    "Taking the Supply Base";Cap. 5: La Foresta di Kloden "Prendere la base di rifornimento"
+10708;44428;59;;          Report: A Taste of Home     "An Unexpected Visit";Report: Un Assaggio di Casa "Una visita inaspettata"
+10788;44492;62;;          Report: A Taste of Home     "Tea for Two and a Half";Report: Un Assaggio di Casa "T> per due e mezzo"
+10868;44560;57;;          Report: A Taste of Home     "Alicia's Ambition";Report: Un Assaggio di Casa "L'ambizione di Alicia"
+10948;44624;58;;         Ch. 6: A Desert Encounter     "Into the Badlands";Cap. 6: Un Incontro nel Deserto "Nelle terre desolate"
+11028;44688;58;;         Ch. 6: A Desert Encounter     "Jaeger and Gregor";Cap. 6: Un Incontro nel Deserto "Jaeger e Gregor"
+11108;44752;65;;         Ch. 6: A Desert Encounter     "Battle of Barious Desert";Cap. 6: Un Incontro nel Deserto "Battaglia del deserto di Barious"
+11188;44824;57;;         Ch. 6: A Desert Encounter     "The Desert Ruins";Cap. 6: Un Incontro nel Deserto "Le rovine del deserto"
+11268;44888;63;;         Ch. 6: A Desert Encounter     "Visitors at the Temple";Cap. 6: Un Incontro nel Deserto "Visitatori al tempio"
+11348;44956;59;;        Ch. 7: The Battle at Barious    "A History Unfolds";Cap. 7: La Battaglia di Barious "Una storia si dipana"
+11428;45020;62;;        Ch. 7: The Battle at Barious    "The Darcsen Calamity";Cap. 7: La Battaglia di Barious "La calamit= di Darcsen"
+11508;45088;59;;        Ch. 7: The Battle at Barious    "Inside the Spiral";Cap. 7: La Battaglia di Barious "All'interno della spirale"
+11588;45152;55;;        Ch. 7: The Battle at Barious    "First Contact";Cap. 7: La Battaglia di Barious "Primo contatto"
+11668;45212;69;;        Ch. 7: The Battle at Barious    "Desert Duel with Maximilian";Cap. 7: La Battaglia di Barious "Duello nel deserto con Maximilian"
+11748;45288;50;;        Ch. 7: The Battle at Barious    "Valkyria";Cap. 7: La Battaglia di Barious "Valkyria"
+11828;45344;64;;        Ch. 7: The Battle at Barious    "The Valkyria Withdraws";Cap. 7: La Battaglia di Barious "La Valkyrur si ritira"
+11908;45416;57;;        Ch. 7: The Battle at Barious    "A Legend Reborn";Cap. 7: La Battaglia di Barious "Una leggenda rinata"
+11988;45480;58;;         Report: Signs of Awakening    "Barious Once More";Report: Segnali del Risveglio "Barious ancora una volta"
+12068;45544;69;;         Report: Signs of Awakening    "Taking the Barious Highlands";Report: Segnali del Risveglio "Conquista degli altopiani Barious"
+12148;45620;55;;         Report: Signs of Awakening    "Alicia Wounded";Report: Segnali del Risveglio "Alicia ferita"
+12228;45680;56;;         Report: Signs of Awakening    "Unearthly Light";Report: Segnali del Risveglio "Luce ultraterrena"
+12308;45744;46;;         Report: Signs of Awakening    "Signs";Report: Segnali del Risveglio "Segnali"
+12388;45796;55;;         Ch. 8: The Woodland Snare    "Surprise Attack";Cap. 8: La Trappola nel Bosco "Attacco a sorpresa"
+12468;45856;63;;         Ch. 8: The Woodland Snare    "Surprise Attack, part 2";Cap. 8: La Trappola nel Bosco "Attacco a sorpresa, parte 2"
+12548;45924;64;;         Ch. 8: The Woodland Snare    "Escape from Forest Snare";Cap. 8: La Trappola nel Bosco "Fuga dalla trappola del bosco"
+12628;45996;48;;         Ch. 8: The Woodland Snare    "Memories";Cap. 8: La Trappola nel Bosco "Ricordi"
+12708;46052;44;;         Ch. 8: The Woodland Snare    "Life";Cap. 8: La Trappola nel Bosco "Life"
+12788;46104;57;;         Ch. 8: The Woodland Snare    "Those Left Behind";Cap. 8: La Trappola nel Bosco "Quelli rimasti indietro"
+12868;46168;52;;         Ch. 8: The Woodland Snare    "One in Death";Cap. 8: La Trappola nel Bosco "Uno nella morte"
+12948;46228;60;;         Ch. 8: The Woodland Snare    "One in Death, part 2";Cap. 8: La Trappola nel Bosco "Uno nella morte, parte 2"
+13028;46296;61;;         Ch. 8: The Woodland Snare    "Reunion in the Forest";Cap. 8: La Trappola nel Bosco "Riunione nella foresta"
+13108;46364;45;;         Ch. 8: The Woodland Snare    "Bonds";Cap. 8: La Trappola nel Bosco "Bonds"
+13188;46416;58;;  Report: For Whom Destiny Unfolds    "In Search of Truth";Report: Per Chi Si Svela il Destino "Alla ricerca della verit="
+13268;46480;57;;  Report: For Whom Destiny Unfolds    "Cordelia's Secret";Report: Per Chi Si Svela il Destino "Il segreto di Cordelia"
+13348;46544;62;;  Report: For Whom Destiny Unfolds    "Journalistic Integrity";Report: Per Chi Si Svela il Destino "Integrit= giornalistica"
+13428;46612;54;;        Ch. 9: A Midsummer Incident   "The Invitation";Cap. 9: Un Incidente di Mezza Estate "L'invito"
+13508;46672;55;;        Ch. 9: A Midsummer Incident   "Castle Randgriz";Cap. 9: Un Incidente di Mezza Estate "Castle Randgriz"
+13588;46732;64;;        Ch. 9: A Midsummer Incident   "Far from the Battlefield";Cap. 9: Un Incidente di Mezza Estate "Lontano dal campo di battaglia"
+13668;46804;63;;        Ch. 9: A Midsummer Incident   "The Valkyrian Bloodline";Cap. 9: Un Incidente di Mezza Estate "La stirpe delle Valchirie"
+13748;46872;57;;        Ch. 9: A Midsummer Incident   "Dreams of the Sky";Cap. 9: Un Incidente di Mezza Estate "Sogni del cielo"
+13828;46936;62;;        Ch. 9: A Midsummer Incident   "Kidnapping of Cordelia";Cap. 9: Un Incidente di Mezza Estate "Il rapimento di Cordelia"
+13908;47004;56;;        Ch. 9: A Midsummer Incident   "On Will and Fate";Cap. 9: Un Incidente di Mezza Estate "Su volont= e destino"
+13988;47068;58;;        Ch. 9: A Midsummer Incident   "The Award Ceremony";Cap. 9: Un Incidente di Mezza Estate "La cerimonia di premiazione"
+14068;47132;58;;        Ch. 9: A Midsummer Incident   "Fears of a Patriot";Cap. 9: Un Incidente di Mezza Estate "Paura di un patriota"
+14148;47196;60;;           Report: Squad 7's RR       "A Warrior's Respite";Report: RR della Squadra 7 "Un sollievo per i guerrieri"
+14228;47264;60;;           Report: Squad 7's RR       "A Beachside Holiday";Report: RR della Squadra 7 "A Beachside Holiday" della Squadra 7
+14308;47332;58;;           Report: Squad 7's RR       "Days Forever Gone";Report: RR della Squadra 7 "Days Forever Gone" della Squadra 7
+14388;47396;56;;           Report: Squad 7's RR       "An Awkward Pair";Report: RR della Squadra 7 "Una coppia imbarazzante"
+14468;47460;62;;        Ch. 10: Liberation of Fouzen    "The Fouzen Operation";Cap. 10: La Liberazione di Fouzen "L'operazione Fouzen"
+14548;47528;64;;        Ch. 10: Liberation of Fouzen    "The Concentration Camp";Cap. 10: La Liberazione di Fouzen "Il campo di concentramento"
+14628;47600;64;;        Ch. 10: Liberation of Fouzen    "Infiltration of Fouzen";Cap. 10: La Liberazione di Fouzen "Infiltrazione di Fouzen"
+14708;47672;56;;        Ch. 10: Liberation of Fouzen    "The Inside Man";Cap. 10: La Liberazione di Fouzen "The Inside Man"
+14788;47736;64;;        Ch. 10: Liberation of Fouzen    "The Inside Man, part 2";Cap. 10: La Liberazione di Fouzen "The Inside Man, parte 2"
+14868;47808;62;;        Ch. 10: Liberation of Fouzen    "The True Face of War";Cap. 10: La Liberazione di Fouzen "Il vero volto della guerra"
+14948;47876;62;;        Ch. 10: Liberation of Fouzen    "Liberation of Fouzen";Cap. 10: La Liberazione di Fouzen "La Liberazione di Fouzen"
+15028;47944;60;;        Ch. 10: Liberation of Fouzen    "Liberation Eternal";Cap. 10: La Liberazione di Fouzen "Liberazione Eterna"
+15108;48012;55;;        Ch. 10: Liberation of Fouzen    "A New Comrade";Cap. 10: La Liberazione di Fouzen "Un nuovo compagno"
+15188;48072;57;;     Report: What Lies Beyond Hate    "Varrot's Vendetta";Report: Cosa Si Nasconde Oltre l'Odio "La vendetta di Varrot"
+15268;48136;64;;     Report: What Lies Beyond Hate    "Hostage Rescue Operation";Report: Cosa Si Nasconde Oltre l'Odio "Operazione salvataggio degli ostaggi"
+15348;48208;49;;     Report: What Lies Beyond Hate    "Vengeance";Report: Cosa Si Nasconde Oltre l'Odio "Vendetta"
+15428;48264;62;;     Report: What Lies Beyond Hate    "The Wages of Cowardice";Report: Cosa Si Nasconde Oltre l'Odio "Il prezzo della codardia"
+15508;48332;58;;     Report: What Lies Beyond Hate    "A New Step Forward";Report: Cosa Si Nasconde Oltre l'Odio "Un nuovo passo avanti"
+15588;48396;63;;        Ch. 11: The Marberry Shore     "Peril on the Coastline";Cap. 11: La Spiaggia di Marberry "Pericolo sulla costa"
+15668;48464;65;;        Ch. 11: The Marberry Shore     "The Feast of All Spirits";Cap. 11: La Spiaggia di Marberry "La festa di tutti gli spiriti"
+15748;48536;54;;        Ch. 11: The Marberry Shore     "Alicia's Gift";Cap. 11: La Spiaggia di Marberry "Il regalo di Alicia"
+15828;48596;49;;        Ch. 11: The Marberry Shore     "Tomorrow";Cap. 11: La Spiaggia di Marberry "Domani"
+15908;48652;59;;        Ch. 11: The Marberry Shore     "Isara's Commitment";Cap. 11: La Spiaggia di Marberry "L'impegno di Isara"
+15988;48716;65;;        Ch. 11: The Marberry Shore     "Battle at Marberry Shore";Cap. 11: La Spiaggia di Marberry "Battaglia a Marberry Shore"
+16068;48788;60;;        Ch. 11: The Marberry Shore     "A Dream Interrupted";Cap. 11: La Spiaggia di Marberry "Un sogno interrotto"
+16148;48856;50;;        Ch. 11: The Marberry Shore     "Farewells";Cap. 11: La Spiaggia di Marberry "Addio"
+16228;48912;56;;       Report: War Without Weapons    "The Darcsen Hunt";Report: Guerra Senza Armi "La caccia a Darcsen"
+16308;48976;65;;       Report: War Without Weapons    "An End to Darcsen Hunting";Report: Guerra Senza Armi "Fine della caccia a Darcsen"
+16388;49048;61;;       Report: War Without Weapons    "For Every Wish, a Way";Report: Guerra Senza Armi "Per ogni desiderio, una via"
+16468;49116;51;;       Report: War Without Weapons    "Checking In";Report: Guerra Senza Armi "Check-in"
+16548;49172;58;;        Ch. 12: The Fight for Bruhl     "A Kindred Spirit";Cap. 12: La Lotta per Bruhl "Uno spirito affine"
+16628;49236;57;;        Ch. 12: The Fight for Bruhl     "Jaeger's Reason";Cap. 12: La Lotta per Bruhl "La ragione di Jaeger"
+16708;49300;57;;        Ch. 12: The Fight for Bruhl     "Return to Bruhl";Cap. 12: La Lotta per Bruhl "Ritorno a Bruhl"
+16788;49364;62;;        Ch. 12: The Fight for Bruhl     "Return to the Temple";Cap. 12: La Lotta per Bruhl "Ritorno al Tempio"
+16868;49432;60;;        Ch. 12: The Fight for Bruhl     "Recapture of Bruhl";Cap. 12: La Lotta per Bruhl "Riconquista di Bruhl"
+16948;49500;64;;        Ch. 12: The Fight for Bruhl     "Hope Amid the Wreckage";Cap. 12: La Lotta per Bruhl "La speranza tra le macerie"
+17028;49572;63;;        Ch. 12: The Fight for Bruhl     "The Approaching Clash";Cap. 12: La Lotta per Bruhl "Lo scontro imminente"
+17108;49640;62;;        Ch. 12: The Fight for Bruhl     "Once the War is Over";Cap. 12: La Lotta per Bruhl "Una volta finita la guerra"
+17188;49708;61;;       Ch. 13: The Clash at Naggiar    "On the Eve of Battle";Cap. 13: Lo Scontro di Naggiar "Alla vigilia della battaglia"
+17268;49776;69;;       Ch. 13: The Clash at Naggiar    "On the Eve of Battle, part 2";Cap. 13: Lo Scontro di Naggiar "Alla vigilia della battaglia, parte 2"
+17348;49852;65;;       Ch. 13: The Clash at Naggiar    "The Iron-Willed Valkyria";Cap. 13: Lo Scontro di Naggiar "La Valkyrur dalla volont=di ferro"
+17428;49924;60;;       Ch. 13: The Clash at Naggiar    "Selvaria, Destroyer";Cap. 13: Lo Scontro di Naggiar"Selvaria, Distruttore"
+17508;49992;64;;       Ch. 13: The Clash at Naggiar    "Showdown at Naggiar (1)";Cap. 13: Lo Scontro di Naggiar "Resa dei conti a Naggiar(1)"
+17588;50064;63;;       Ch. 13: The Clash at Naggiar    "A Bullet from the Blue";Cap. 13: Lo Scontro di Naggiar "Un proiettile dal cielo"
+17668;50132;62;;    Report: Flower of the Battlefield    "A Leader Distraught";Report: Il fiore del campo di battaglia "Un leader sconvolto"
+17748;50200;68;;    Report: Flower of the Battlefield    "Guarding the Refugee Camp";Report: Il fiore del campo di battaglia "A guardia del campo profughi"
+17828;50276;66;;    Report: Flower of the Battlefield    "The Language of Flowers";Report: Fiore del campo di battaglia "Il linguaggio dei fiori"
+17908;50348;59;;    Report: Flower of the Battlefield    "Unbending Spirit";Report: Fiore del campo di battaglia "Spirito inflessibile"
+17988;50412;62;;        Ch. 14: Loss Within Victory    "At the Field Hospital";Cap. 14: Sconfitta nella Vittoria "All'ospedale da campo"
+18068;50480;58;;        Ch. 14: Loss Within Victory    "Clashing Opinions";Cap. 14: Sconfitta nella vittoria "Opinioni contrastanti"
+18148;50544;50;;        Ch. 14: Loss Within Victory    "Awakening";Cap. 14: Sconfitta nella Vittoria "Risveglio"
+18228;50600;54;;        Ch. 14: Loss Within Victory    "Twin Valkyrur";Cap. 14: Sconfitta nella vittoria "Gemelle Valkyrur"
+18308;50660;64;;        Ch. 14: Loss Within Victory    "Showdown at Naggiar (2)";Cap. 14: Sconfitta nella Vittoria "Resa dei conti a Naggiar(2)"
+18388;50732;63;;        Ch. 14: Loss Within Victory    "At What Price Victory?";Cap. 14: Sconfitta nella Vittoria "A quale prezzo la vittoria?"
+18468;50800;39;;        Ch. 14: Loss Within Victory    ;Cap. 14: Sconfitta nella Vittoria
+18548;50844;39;;        Ch. 14: Loss Within Victory    ;Cap. 14: Sconfitta nella Vittoria
+18628;50888;51;;            Report: Parting Ways        "Suspicion";Report: Strade Che Si Separano "Sospetto"
+18708;50944;47;;            Report: Parting Ways        "Truth";Report: Strade Che Si Separano "Verit="
+18788;50996;55;;            Report: Parting Ways        "Confrontation";Report: Strade Che Si Separano "Confronto"
+18868;51056;59;;         Ch. 15: Citadel Ghirlandaio    "To Fell a Citadel";Cap. 15: La Cittadella Ghirlandaio "Abbattere una Cittadella"
+18948;51120;60;;         Ch. 15: Citadel Ghirlandaio    "The Cruelest Order";Cap. 15: La Cittadella Ghirlandaio "L'Ordine Crudele"
+19028;51188;68;;         Ch. 15: Citadel Ghirlandaio    "The Cruelest Order, part 2";Cap. 15: La Cittadella Ghirlandaio "L'Ordine piu' Crudele, parte 2"
+19108;51264;60;;         Ch. 15: Citadel Ghirlandaio    "Bracing for Battle";Cap. 15: La Cittadella Ghirlandaio "Prepararsi alla battaglia"
+19188;51332;48;;         Ch. 15: Citadel Ghirlandaio    "Doubts";Cap. 15: La Cittadella Ghirlandaio "Dubbi"
+19268;51388;63;;         Ch. 15: Citadel Ghirlandaio    "Fight for Ghirlandaio";Cap. 15: La Cittadella Ghirlandaio "Lotta per il Ghirlandaio"
+19348;51456;62;;         Ch. 15: Citadel Ghirlandaio    "One Human's Struggle";Cap. 15: La Cittadella Ghirlandaio "La lotta di un essere umano"
+19428;51524;63;;         Ch. 15: Citadel Ghirlandaio    "Selvaria's Last Stand";Cap. 15: La Cittadella Ghirlandaio "L'Ultima Resistenza di Selvaria"
+19508;51592;61;;         Ch. 15: Citadel Ghirlandaio    "For Whom, for What?";Cap. 15: La Cittadella Ghirlandaio "Per chi, per cosa?"
+19588;51660;62;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame";Cap. 15: La Cittadella Ghirlandaio "La Fiamma della Valkyrur"
+19668;51728;70;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame, part 2";Cap. 15: La Cittadella Ghirlandaio "La Fiamma della Valkyrur, parte 2"
+19748;51804;70;;         Ch. 15: Citadel Ghirlandaio    "The Valkyria's Flame, part 3";Cap. 15: La Cittadella Ghirlandaio "La Fiamma della Valkyrur, parte 3"
+19828;51880;52;;        Ch. 16: The Maiden's Shield    "The Marmota";Cap. 16: Lo scudo della fanciulla "La Marmota"
+19908;51940;60;;        Ch. 16: The Maiden's Shield    "The Marmota, part 2";Cap. 16: Lo scudo della fanciulla "La Marmota, parte 2"
+19988;52008;66;;        Ch. 16: The Maiden's Shield    "Operation Maiden's Shield";Cap. 16: Lo scudo della fanciulla "Operazione Scudo della fanciulla"
+20068;52080;57;;        Ch. 16: The Maiden's Shield    "Cordelia's Stand";Cap. 16: Lo scudo della fanciulla "Il supporto di Cordelia"
+20148;52144;62;;        Ch. 16: The Maiden's Shield    "Diverting the Marmota";Cap. 16: Lo scudo della fanciulla "Deviare la Marmota"
+20228;52212;54;;        Ch. 16: The Maiden's Shield    "Into the Fire";Cap. 16: Lo scudo della fanciulla "Nel fuoco"
+20308;52272;45;;        Ch. 16: The Maiden's Shield    "Love";Cap. 16: Lo scudo della fanciulla "Love"
+20388;52324;53;;        Ch. 16: The Maiden's Shield    "Love, part 2";Cap. 16: Lo scudo della fanciulla "Amore, parte 2"
+20468;52384;53;;        Ch. 16: The Maiden's Shield    "Love, part 3";Cap. 16: Lo scudo della fanciulla "Amore, parte 3"
+20548;52444;58;;        Ch. 16: The Maiden's Shield    "Squad 7 Moves Out";Cap. 16: Lo scudo della fanciulla "La squadra 7 si sposta"
+20628;52508;64;;        Ch. 17: The Bridge to Hope     "Champion of a Lost Land";Cap. 17: Il Ponte della Speranza "Campione di una terra perduta"
+20708;52580;58;;        Ch. 17: The Bridge to Hope     "A Friendship Lost";Cap. 17: Il Ponte della Speranza "Un'amicizia perduta"
+20788;52644;68;;        Ch. 17: The Bridge to Hope     "Breaching Jaeger's Blockade";Cap. 17: Il Ponte della Speranza "Rompere il blocco di Jaeger"
+20868;52720;54;;        Ch. 17: The Bridge to Hope     "True Strength";Cap. 17: Il Ponte della Speranza "La vera forza"
+20948;52780;58;;        Ch. 17: The Bridge to Hope     "The Capital Falls";Cap. 17: Il Ponte della Speranza "La capitale cade"
+21028;52844;66;;        Ch. 17: The Bridge to Hope     "The Capital Falls, Part 2";Cap. 17: Il Ponte della Speranza "La capitale cade, parte 2"
+21108;52916;58;;      Finale: Shadow of the Valkyrur   "The Real Cordelia";Finale: L'Ombra della Valkyrur "La vera Cordelia"
+21188;52980;66;;      Finale: Shadow of the Valkyrur   "The Real Cordelia, Part 2";Finale: L'Ombra della Valkyrur "La vera Cordelia, parte 2"
+21268;53052;66;;      Finale: Shadow of the Valkyrur   "The Real Cordelia, Part 3";Finale: L'Ombra della Valkyrur "La vera Cordelia, parte 3"
+21348;53124;50;;      Finale: Shadow of the Valkyrur   "Jailbreak";Finale: L'Ombra della Valkyrur "Jailbreak"
+21428;53180;59;;      Finale: Shadow of the Valkyrur   "Final Preparations";Finale: L'Ombra della Valkyrur "Preparativi finali"
+21508;53244;49;;      Finale: Shadow of the Valkyrur   "Stowaway";Finale: L'Ombra della Valkyrur "Stowaway"
+21588;53300;52;;      Finale: Shadow of the Valkyrur   "Faith Alive";Finale: L'Ombra della Valkyrur "Faith Alive"
+21668;53360;62;;      Finale: Shadow of the Valkyrur   "The Marmota's Purpose";Finale: L'ombra del Valkyrur "Lo scopo della Marmota"
+21748;53428;51;;      Finale: Shadow of the Valkyrur   "The Valkof";Finale: L'ombra del Valkyrur "Il Valkof"
+21828;53484;59;;      Finale: Shadow of the Valkyrur   "The Valkof, Part 2";Finale: L'ombra del Valkyrur "Il Valkof, Parte 2"
+21908;53548;59;;      Finale: Shadow of the Valkyrur   "The Valkof, Part 3";Finale: L'ombra del Valkyrur "Il Valkof, Parte 3"
+21988;53612;54;;      Finale: Shadow of the Valkyrur   "Marmota's End";Finale: L'Ombra della Valkyrur "La fine di Marmota"
+22068;53672;66;;      Finale: Shadow of the Valkyrur   "Maximilian's Final Gambit";Finale: L'Ombra della Valkyrur "L'ultimo gambetto di Maximilian"
+22148;53744;60;;      Finale: Shadow of the Valkyrur   "Maximilian's Vision";Finale: L'ombra del Valkyrur "La visione di Maximilian"
+22228;53812;55;;      Finale: Shadow of the Valkyrur   "Final Showdown";Finale: L'Ombra della Valkyrur "Scontro finale"
+22308;53872;58;;      Finale: Shadow of the Valkyrur   "Ambition Thwarted";Finale: L'Ombra della Valkyrur "Ambizione frustrata"
+22388;53936;66;;      Finale: Shadow of the Valkyrur   "Ambition Thwarted, part 2";Finale: L'Ombra della Valkyrur "Ambition Thwarted, parte 2"
+22468;54008;47;;      Finale: Shadow of the Valkyrur   "Escape";Finale: L'Ombra della Valkyrur "Fuga"
+22548;54060;39;;      Finale: Shadow of the Valkyrur   ;Finale: L'Ombra della Valkyrur
+22628;54104;39;;      Finale: Shadow of the Valkyrur   ;Finale: L'Ombra della Valkyrur
+22708;54148;56;;                   Epilogue              "What Lives On";Epilogo "Cio' che sopravvive"
 22788;54212;4;;EASY;FACILE
 22868;54224;6;;NORMAL;NORMALE
 22948;54236;4;;HARD;DIFFICILE
-23028;54248;67;;         This difficulty is suited to those not yet used to combat.;Questa difficolt= > adatta a chi non > ancora abituato acombattere.
+23028;54248;67;;         This difficulty is suited to those not yet used to combat.;Questa difficolt= > adatta a chi non > ancora abituato a combattere.
 23108;54320;66;;          This difficulty is suited to those accustomed to combat.;Questa difficolt= > adatta a chi > abituato a combattere.
-23188;54392;68;;        This difficulty is suited to those who have mastered combat.;Questa difficolt= > adatta a chi ha gi= padroneggiato ilcombattimento.
+23188;54392;68;;        This difficulty is suited to those who have mastered combat.;Questa difficolt= > adatta a chi ha gi= padroneggiato il combattimento.
 23268;54468;27;;Fight in a skirmish battle?;Combattere in una battaglia di scaramuccia?
 23348;54500;48;;                              Outskirts of Bruhl;Periferia di Bruhl
 23428;54556;46;;                               Vasel Riverside;Lungofiume Vasel
 23508;54608;45;;                              Kloden Wildwood;Bosco selvaggio di Kloden
-23588;54660;46;;                                Barious Desert;Deserto barilotto
+23588;54660;46;;                                Barious Desert;Deserto Barious
 23668;54712;45;;                                 Upper Fouzen;Fouzen superiore
 23748;54764;46;;                                Marberry Shore;Riva di Marberry
 23828;54816;46;;                                Windmill Plaza;Piazza del mulino a vento
@@ -281,12 +281,12 @@
 24388;55072;21;;Battle for the Bridge;Battaglia per il ponte
 24468;55100;26;;Wildwood Warfare at Kloden;Guerra di Wildwood a Kloden
 24548;55132;24;;Battle of Barious Desert;Battaglia del deserto di Barious
-24628;55164;27;;Desert Duel with Maximilian;Duello nel deserto con Massimiliano
+24628;55164;27;;Desert Duel with Maximilian;Duello nel deserto con Maximilian
 24708;55196;24;;Escape from Forest Snare;Fuga dalla trappola della foresta
 24788;55228;21;;Reunion in the Forest;Riunione nella foresta
 24868;55256;22;;Kidnapping of Cordelia;Rapimento di Cordelia
 24948;55284;22;;Infiltration of Fouzen;Infiltrazione di Fouzen
-25028;55312;20;;Liberation of Fouzen;Liberazione di Fouzen
+25028;55312;20;;Liberation of Fouzen;La Liberazione di Fouzen
 25108;55340;24;;Battle at Marberry Shore;Battaglia a Marberry Shore
 25188;55372;18;;Recapture of Bruhl;Riconquista di Bruhl
 25268;55396;23;;Showdown at Naggiar (1);Scontro a Naggiar (1)
@@ -298,8 +298,8 @@
 25748;55568;13;;Marmota's End;La fine di Marmota
 25828;55588;14;;Final Showdown;Scontro finale
 25908;55608;24;;Vegetable Route Incident;Incidente sulla rotta delle verdure
-25988;55640;28;;Taking the Barious Highlands;Prendendo gli altopiani bariosi
-26068;55676;24;;Hostage Rescue Operation;Operazione di salvataggio degli ostaggi
+25988;55640;28;;Taking the Barious Highlands;Prendendo gli altopiani Barious
+26068;55676;24;;Hostage Rescue Operation;Operazione salvataggio degli ostaggi
 26148;55708;25;;An End to Darcsen Hunting;La fine della caccia a Darcsen
 26228;55740;25;;Guarding the Refugee Camp;A guardia del campo profughi
 26308;55772;23;;Outskirts of Bruhl EASY;Periferia di Bruhl FACILE
@@ -311,8 +311,8 @@
 26788;55944;20;;Kloden Wildwood EASY;Kloden Wildwood FACILE
 26868;55972;22;;Kloden Wildwood NORMAL;Kloden Wildwood NORMALE
 26948;56000;20;;Kloden Wildwood HARD;Kloden Wildwood DURO
-27028;56028;19;;Barious Desert EASY;Deserto barilotto FACILE
-27108;56052;21;;Barious Desert NORMAL;Deserto barilotto NORMALE
+27028;56028;19;;Barious Desert EASY;Deserto Barious FACILE
+27108;56052;21;;Barious Desert NORMAL;Deserto Barious NORMALE
 27188;56080;19;;Barious Desert HARD;Deserto baricentrico DIFFICILE
 27268;56104;17;;Upper Fouzen EASY;Fouzen superiore FACILE
 27348;56128;19;;Upper Fouzen NORMAL;Fouzen superiore NORMALE
@@ -332,65 +332,65 @@
 28468;56492;27;;Return to the Title Screen?;Tornare alla schermata del titolo?
 28548;56524;44;;                                 Squad 7 Log;Registro della squadra 7
 28628;56576;8;;Prologue;Prologo
-28708;56592;5;;Ch. 1;Capitolo 1
-28788;56604;5;;Ch. 2;Capitolo 2
-28868;56616;5;;Ch. 3;Capitolo 3
-28948;56628;5;;Ch. 4;Capitolo 4
-29028;56640;5;;Ch. 5;Capitolo 5
-29108;56652;5;;Ch. 6;Capitolo 6
-29188;56664;5;;Ch. 7;Capitolo 7
-29268;56676;5;;Ch. 8;Capitolo 8
-29348;56688;5;;Ch. 9;Capitolo 9
-29428;56700;6;;Ch. 10;Capitolo 10
-29508;56712;6;;Ch. 11;Capitolo 11
-29588;56724;6;;Ch. 12;Capitolo 12
-29668;56736;6;;Ch. 13;Capitolo 13
-29748;56748;6;;Ch. 14;Capitolo 14
-29828;56760;6;;Ch. 15;Capitolo 15
-29908;56772;6;;Ch. 16;Capitolo 16
-29988;56784;6;;Ch. 17;Capitolo 17
+28708;56592;5;;Ch. 1;Cap. 1
+28788;56604;5;;Ch. 2;Cap. 2
+28868;56616;5;;Ch. 3;Cap. 3
+28948;56628;5;;Ch. 4;Cap. 4
+29028;56640;5;;Ch. 5;Cap. 5
+29108;56652;5;;Ch. 6;Cap. 6
+29188;56664;5;;Ch. 7;Cap. 7
+29268;56676;5;;Ch. 8;Cap. 8
+29348;56688;5;;Ch. 9;Cap. 9
+29428;56700;6;;Ch. 10;Cap. 10
+29508;56712;6;;Ch. 11;Cap. 11
+29588;56724;6;;Ch. 12;Cap. 12
+29668;56736;6;;Ch. 13;Cap. 13
+29748;56748;6;;Ch. 14;Cap. 14
+29828;56760;6;;Ch. 15;Cap. 15
+29908;56772;6;;Ch. 16;Cap. 16
+29988;56784;6;;Ch. 17;Cap. 17
 30068;56796;6;;Finale;Finale
 30148;56808;6;;Finale;Finale
-30228;56820;1;; ;
-30308;56828;6;;Report;Rapporto
-30388;56840;6;;Report;Rapporto
-30468;56852;6;;Report;Rapporto
-30548;56864;6;;Report;Rapporto
-30628;56876;6;;Report;Rapporto
-30708;56888;6;;Report;Rapporto
-30788;56900;6;;Report;Rapporto
-30868;56912;6;;Report;Rapporto
-30948;56924;6;;Report;Rapporto
-31028;56936;6;;Report;Rapporto
+30228;56820;1;;;
+30308;56828;6;;Report;Report
+30388;56840;6;;Report;Report
+30468;56852;6;;Report;Report
+30548;56864;6;;Report;Report
+30628;56876;6;;Report;Report
+30708;56888;6;;Report;Report
+30788;56900;6;;Report;Report
+30868;56912;6;;Report;Report
+30948;56924;6;;Report;Report
+31028;56936;6;;Report;Report
 31108;56948;16;;Gallia, to Arms!;Gallia, alle armi!
 31188;56972;19;;In Defense of Bruhl;In difesa di Bruhl
 31268;56996;17;;Escape from Bruhl;Fuga da Bruhl
-31348;57020;19;;Vasel Urban Warfare;Guerra urbana di Vasel
+31348;57020;19;;Vasel Urban Warfare;Guerriglia Urbana a Vasel
 31428;57044;20;;Operation Cloudburst;Operazione Cloudburst
-31508;57072;19;;The Kloden Wildwood;La foresta selvaggia di Kloden
-31588;57096;18;;A Desert Encounter;Un incontro nel deserto
-31668;57120;21;;The Battle at Barious;La battaglia di Barious
-31748;57148;18;;The Woodland Snare;La trappola del bosco
-31828;57172;20;;A Midsummer Incident;Un incidente di mezza estate
-31908;57200;20;;Liberation of Fouzen;Liberazione di Fouzen
-31988;57228;18;;The Marberry Shore;La riva di Marberry
-32068;57252;19;;The Fight for Bruhl;La lotta per Bruhl
-32148;57276;20;;The Clash at Naggiar;Lo scontro a Naggiar
-32228;57304;19;;Loss Within Victory;Perdita nella vittoria
-32308;57328;19;;Citadel Ghirlandaio;Cittadella Ghirlandaio
+31508;57072;19;;The Kloden Wildwood;La Foresta di Kloden
+31588;57096;18;;A Desert Encounter;Un Incontro nel Deserto
+31668;57120;21;;The Battle at Barious;La Battaglia di Barious
+31748;57148;18;;The Woodland Snare;La Trappola nel Bosco
+31828;57172;20;;A Midsummer Incident;Un Incidente di Mezza Estate
+31908;57200;20;;Liberation of Fouzen;La Liberazione di Fouzen
+31988;57228;18;;The Marberry Shore;La Spiaggia di Marberry
+32068;57252;19;;The Fight for Bruhl;La Lotta per Bruhl
+32148;57276;20;;The Clash at Naggiar;Lo Scontro di Naggiar
+32228;57304;19;;Loss Within Victory;Sconfitta nella Vittoria
+32308;57328;19;;Citadel Ghirlandaio;La Cittadella Ghirlandaio
 32388;57352;19;;The Maiden's Shield;Lo scudo della fanciulla
-32468;57376;18;;The Bridge to Hope;Il ponte verso la speranza
-32548;57400;22;;Shadow of the Valkyrur;L'ombra della Valchiria
+32468;57376;18;;The Bridge to Hope;Il Ponte della Speranza
+32548;57400;22;;Shadow of the Valkyrur;L'ombra della Valkyrur
 32628;57428;26;;Shadow of the Valkyrur (2);L'ombra del Valkyrur (2)
 32708;57460;8;;Epilogue;Epilogo
-32788;57476;14;;Ellet Embedded;Ellet incorporato
-32868;57496;15;;Largo's Passion;La passione di Largo
-32948;57516;15;;A Taste of Home;Un assaggio di casa
-33028;57536;18;;Signs of Awakening;Segnali di risveglio
+32788;57476;14;;Ellet Embedded;Nella Morsa di Ellet
+32868;57496;15;;Largo's Passion;La Passione di Largo
+32948;57516;15;;A Taste of Home;Un Assaggio di Casa
+33028;57536;18;;Signs of Awakening;Segnali del Risveglio
 33108;57560;13;;Squad 7's RR;RR della Squadra 7
-33188;57580;21;;What Lies Beyond Hate;Cosa c'> oltre l'odio
-33268;57608;24;;For Whom Destiny Unfolds;Per chi si dispiega il destino
-33348;57640;19;;War Without Weapons;Guerra senza armi
+33188;57580;21;;What Lies Beyond Hate;Cosa Si Nasconde Oltre l'Odio
+33268;57608;24;;For Whom Destiny Unfolds;Per Chi Si Svela il Destino
+33348;57640;19;;War Without Weapons;Guerra Senza Armi
 33428;57664;25;;Flower of the Battlefield;Fiore del campo di battaglia
 33508;57696;12;;Parting Ways;Separarsi
 33588;57716;14;;Episode Select;Selezione episodio
@@ -405,33 +405,33 @@
 34308;57864;26;;Prologue: Gallia, to Arms!;Prologo: Gallia, alle armi!
 34388;57896;26;;Ch. 1: In Defense of Bruhl;Cap. 1: In difesa di Bruhl
 34468;57928;24;;Ch. 2: Escape from Bruhl;Cap. 2: Fuga da Bruhl
-34548;57960;26;;Ch. 3: Vasel Urban Warfare;Cap. 3: Guerra urbana di Vasel
+34548;57960;26;;Ch. 3: Vasel Urban Warfare;Cap. 3: Guerriglia Urbana a Vasel
 34628;57992;27;;Ch. 4: Operation Cloudburst;Cap. 4: Operazione Cloudburst
-34708;58024;26;;Ch. 5: The Kloden Wildwood;Capitolo 5: La foresta selvaggia di Kloden
-34788;58056;25;;Ch. 6: A Desert Encounter;Cap. 6: Un incontro nel deserto
-34868;58088;28;;Ch. 7: The Battle at Barious;Cap. 7: La battaglia di Barious
-34948;58124;25;;Ch. 8: The Woodland Snare;Capitolo 8: La trappola del bosco
-35028;58156;27;;Ch. 9: A Midsummer Incident;Capitolo 9: Un incidente di mezza estate
-35108;58188;28;;Ch. 10: Liberation of Fouzen;Cap. 10: Liberazione di Fouzen
-35188;58224;26;;Ch. 11: The Marberry Shore;Capitolo 11: La costa di Marberry
-35268;58256;27;;Ch. 12: The Fight for Bruhl;Cap. 12: La lotta per Bruhl
-35348;58288;28;;Ch. 13: The Clash at Naggiar;Cap. 13: Lo scontro a Naggiar
-35428;58324;27;;Ch. 14: Loss Within Victory;Cap. 14: La sconfitta nella vittoria
-35508;58356;27;;Ch. 15: Citadel Ghirlandaio;Cap. 15: Cittadella Ghirlandaio
+34708;58024;26;;Ch. 5: The Kloden Wildwood;Cap 5: La Foresta di Kloden
+34788;58056;25;;Ch. 6: A Desert Encounter;Cap. 6: Un Incontro nel Deserto
+34868;58088;28;;Ch. 7: The Battle at Barious;Cap. 7: La Battaglia di Barious
+34948;58124;25;;Ch. 8: The Woodland Snare;Cap 8: La Trappola nel Bosco
+35028;58156;27;;Ch. 9: A Midsummer Incident;Cap 9: Un Incidente di Mezza Estate
+35108;58188;28;;Ch. 10: Liberation of Fouzen;Cap. 10: La Liberazione di Fouzen
+35188;58224;26;;Ch. 11: The Marberry Shore;Cap 11: La Spiaggia di Marberry
+35268;58256;27;;Ch. 12: The Fight for Bruhl;Cap. 12: La Lotta per Bruhl
+35348;58288;28;;Ch. 13: The Clash at Naggiar;Cap. 13: Lo Scontro di Naggiar
+35428;58324;27;;Ch. 14: Loss Within Victory;Cap. 14: Sconfitta nella Vittoria
+35508;58356;27;;Ch. 15: Citadel Ghirlandaio;Cap. 15: La Cittadella Ghirlandaio
 35588;58388;27;;Ch. 16: The Maiden's Shield;Cap. 16: Lo scudo della fanciulla
-35668;58420;26;;Ch. 17: The Bridge to Hope;Cap. 17: Il ponte verso la speranza
-35748;58452;30;;Finale: Shadow of the Valkyrur;Finale: L'ombra della Valchiria
+35668;58420;26;;Ch. 17: The Bridge to Hope;Cap. 17: Il Ponte della Speranza
+35748;58452;30;;Finale: Shadow of the Valkyrur;Finale: L'Ombra della Valkyrur
 35828;58488;8;;Epilogue;Epilogo
-35908;58504;22;;Report: Ellet Embedded;Segnala: Ellet incorporato
-35988;58532;23;;Report: Largo's Passion;Reportage: La passione di Largo
-36068;58560;23;;Report: A Taste of Home;Reportage: Un assaggio di casa
-36148;58588;26;;Report: Signs of Awakening;Rapporto: Segnali di risveglio
-36228;58620;21;;Report: Squad 7's RR;Rapporto: R%R della Squadra 7
-36308;58648;29;;Report: What Lies Beyond Hate;Report: cosa c'> oltre l'odio
-36388;58684;32;;Report: For Whom Destiny Unfolds;Reportage: Per chi si dispiega il destino
-36468;58724;27;;Report: War Without Weapons;Reportage: Guerra senza armi
-36548;58756;33;;Report: Flower of the Battlefield;Reportage: Fiore del campo di battaglia
-36628;58796;20;;Report: Parting Ways;Rapporto: Strade di separazione
+35908;58504;22;;Report: Ellet Embedded;Report: Nella Morsa di Ellet
+35988;58532;23;;Report: Largo's Passion;Report: La Passione di Largo
+36068;58560;23;;Report: A Taste of Home;Report: Un Assaggio di Casa
+36148;58588;26;;Report: Signs of Awakening;Report: Segnali del Risveglio
+36228;58620;21;;Report: Squad 7's RR;Report: RR della Squadra 7
+36308;58648;29;;Report: What Lies Beyond Hate;Report: Cosa Si Nasconde Oltre l'Odio
+36388;58684;32;;Report: For Whom Destiny Unfolds;Report: Per Chi Si Svela il Destino
+36468;58724;27;;Report: War Without Weapons;Report: Guerra Senza Armi
+36548;58756;33;;Report: Flower of the Battlefield;Report: Fiore del campo di battaglia
+36628;58796;20;;Report: Parting Ways;Report: Strade Che Si Separano
 36708;58824;0;;;
 36788;58832;0;;;
 36868;58840;0;;;

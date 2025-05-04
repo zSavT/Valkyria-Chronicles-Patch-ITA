@@ -3,14 +3,14 @@
 576;2604;88;;Our rear guard and Gallia's primary force were&both caught in the blast and obliterated!;La nostra retroguardia e le forze principali della Gallia&furono entrambe colpite dall'esplosione e annientate!
 592;2700;46;;I see...&Then Selvaria has performed her duty.;Capisco...Allora Selvaria ha fatto il suo dovere.
 608;2752;80;;Now nothing remains to stay Our hand.&Continue the march to the Gallian capital!;Ora non resta piu' nulla che possa fermare la Nostra mano.&Continuiamo la marcia verso la capitale della Gallia!
-624;2840;213;;The Empire's ultimate weapon passed unhindered&through the thick of Kloden's woods, said to&be impenetrable to all but bird and beast, and&continued its juggernaut march north towards&the gates of Castle Randgriz.;L'arma definitiva dell'Impero passo' senza ostacoli&attraverso il fitto dei boschi di Kloden, si dice che&essere impenetrabile a tutti tranne che agli uccelli e alle bestie, e&ha continuato la sua marcia verso nord&i cancelli del Castello Randgriz.
-640;3060;173;;"Leaving the former site of the citadel at&Ghirlandaio behind, the militia raced to the&capital's southern gates to intercept it.&&       Irene Koller, ""On the Gallian Front""";"Lasciando l'ex sito della cittadella a&Ghirlandaio alle spalle, la milizia corse verso il&porte meridionali della capitale per intercettarlo.&Irene Koller, ""Sul fronte gallico"""
+624;2840;213;;The Empire's ultimate weapon passed unhindered&through the thick of Kloden's woods, said to&be impenetrable to all but bird and beast, and&continued its juggernaut march north towards&the gates of Castle Randgriz.;L'arma definitiva dell'Impero passo' senza ostacoli&attraverso il fitto dei boschi di Kloden, si dice che&essere impenetrabile a tutti tranne che agli uccelli e&alle bestie, eha continuato la sua marcia verso nord&i cancelli del Castello Randgriz.
+640;3060;173;;"Leaving the former site of the citadel at&Ghirlandaio behind, the militia raced to the&capital's southern gates to intercept it.&&       Irene Koller, ""On the Gallian Front""";"Lasciando l'ex sito della cittadella a&Ghirlandaio alle spalle, la milizia corse verso il&porte meridionali della capitale per intercettarlo.&&       Irene Koller, ""On the Gallian Front"""
 656;3240;83;;Everyone, we've received intelligence on the&weapon coming through Kloden's forest.;Ragazzi, abbiamo ricevuto informazioni sull'arma che sta&attraversando la foresta di Kloden.
 672;3328;83;;The report identifies it as one of their&most tightly guarded development projects.;Il rapporto lo identifica come uno dei progetti di&sviluppo piu' strettamente sorvegliati.
 688;3416;66;;"It closely matches plans for a terrestrial dreadnought,&""Marmota.""";"Corrisponde molto bene ai piani di una corazzata&terrestre, la ""Marmota""."
 704;3488;88;;It's heavily armored, and carries a host of&large-caliber cannons. A battleship on legs.;E' pesantemente corazzata e trasporta una schiera di&cannoni di grosso calibro. Una corazzata su gambe.
 720;3584;83;;Leave it to the Imps...&It's one ridiculous tank after the other from these people!;Lascia fare agli Imps... e questa gente produce un carro&armato ridicolo dopo l'altro!
-736;3672;74;;Furthermore, it is likely that Maximilian is&aboard the Marmota in person.;Inoltre, > probabile che Massimiliano sia personalmente a&bordo della Marmota.
+736;3672;74;;Furthermore, it is likely that Maximilian is&aboard the Marmota in person.;Inoltre, > probabile che Maximilian sia personalmente a&bordo della Marmota.
 752;3752;48;;Are you serious?&How'd he get there so quickly?!;Dici sul serio? Come ha fatto ad arrivare li cosi in&fretta?!
 768;3808;73;;Regardless, we need to stop that thing,&or the capital will be in danger.;In ogni caso, dobbiamo fermare quella cosa, altrimenti la&capitale sar= in pericolo.
 784;3888;76;;Oh, sure, just gotta stop it.&It's a battleship, boss. How we gonna stop it?;Oh, certo, dobbiamo solo fermarlo. E' una corazzata, capo.&Come possiamo fermarla?
@@ -57,7 +57,7 @@
 1440;6208;35;;Wait a minute, where are you going?;Aspetta un attimo, dove stai andando?
 1456;6248;21;;Forgive me, Welkin...;Perdonami, Welkin...
 1472;6276;56;;I shouldn't have just left. &Not without saying goodbye.;Non avrei dovuto andarmene cosi, e non senza salutarti.
-1488;6340;90;;I've been thinking this whole time Welkin.&Wondering why I was born like I am, a Valkyria.;"Per tutto questo tempo ho pensato: ""Welkin"" e mi sono&chiesto perch< sono nato come sono, una Valchiria."
+1488;6340;90;;I've been thinking this whole time Welkin.&Wondering why I was born like I am, a Valkyria.;"Per tutto questo tempo ho pensato: ""Welkin"" e mi sono&chiesto perch< sono nato come sono, una Valkyrur."
 1504;6436;88;;If only I weren't a Valkyria, things would be&just like they were before, wouldn't they?;Se solo non fossi una Valkyria, le cose sarebbero&esattamente come erano prima, non > vero?
 1520;6532;103;;But no, that is one way. But I have found another.&I know how I can give my life as a Valkyria meaning.;Ma no, questo > un modo. Ma ne ho trovato un altro. E so&come posso dare un senso alla mia vita da Valkyria.
 1536;6640;42;;I can use my power, I can stop this thing.;Posso usare il mio potere, posso fermare questa cosa.
@@ -86,7 +86,7 @@
 1904;7444;68;;You could destroy them with your power,&but that's not real victory.;Potresti distruggerli con il tuo potere, ma questa non >&una vera vittoria.
 1920;7520;87;;Real victory... is something we must claim for&ourselves without relying on your power.;La vera vittoria... > qualcosa che dobbiamo rivendicare&per noi stessi, senza fare affidamento sul vostro potere.
 1936;7612;8;;I can't.;Non posso.
-1952;7628;80;;Welkin, I can't. Valkyrian blood runs in my veins.&I-I'm not human like you are.;Welkin, non posso. Il sangue valchiriano scorre nelle mie&vene.&I-io non sono umano come te.
+1952;7628;80;;Welkin, I can't. Valkyrian blood runs in my veins.&I-I'm not human like you are.;Welkin, non posso. Il sangue Valkyrur scorre nelle mie&vene.I-io non sono umano come te.
 1968;7716;64;;You're right.&It's true that you have powers that we don't have.;Hai ragione. E' vero che hai poteri che noi non abbiamo.
 1984;7788;42;;But so what, you're still yourself Alicia.;Ma allora sei sempre te stessa, Alicia.
 2000;7836;62;;Kind, bright, a future baker.&Alicia, has any of that changed?;Gentile, intelligente, una futura fornaia. E Alicia,&qualcosa > cambiato?

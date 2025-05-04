@@ -2,7 +2,7 @@
 452;1900;19;;Sir, may I come in?;Signore, posso entrare?
 468;1924;60;;Kreis...&Any results on that thing I asked you to look into?;Kreis...&Ci sono risultati su quella cosa che ti ho&chiesto di approfondire?
 484;1992;51;;Yes, sir. &For starters, this bullet you gave me...;Si, signore. E per cominciare, questo proiettile che mi&hai dato...
-500;2048;91;;Its shape and markings perfectly match rounds&used by an experimental Gallian sniper rifle.;La sua forma e le sue marcature si adattano perfettamente ai round&utilizzato da un fucile da cecchino sperimentale Gallian.
+500;2048;91;;Its shape and markings perfectly match rounds&used by an experimental Gallian sniper rifle.;La sua forma e le marcature corrispondono perfettamente&ai proiettili di un fucile da cecchino Gallian sperimentale
 516;2144;71;;I see... So Alicia really was shot by someone&inside the Gallian force.;Capisco... Quindi Alicia > stata davvero colpita da&qualcuno all'interno delle forze Galliane.
 532;2220;30;;So, any leads on who fired it?;Allora, c'> qualche indizio su chi l'ha sparato?
 548;2256;18;;...Yes, sir. It...;...Si, signore. E'...
@@ -30,33 +30,33 @@
 900;3548;92;;Though I doubted my eyes, I never once doubted&that that light was the Valkyrian blue flame.;Sebbene dubitassi dei miei occhi, non ho mai dubitato che&quella luce fosse la fiamma blu delle Valchirie.
 916;3648;85;;Ultimately I had no choice but to accept the&simple truth that Alicia is one of them.;Alla fine non ho avuto altra scelta che accettare la&semplice verit= che Alicia > una di loro.
 932;3740;41;;I'd already begun to question all I knew.;Avevo gi= cominciato a mettere in discussione tutto quello&che sapevo.
-948;3788;111;;The walls of the temple sanctum were inscribed&with the Valkyrur's account of history.&History as it truly was.;Le pareti del santuario del tempio recavano incise le iscri-&ioni del racconto storico delle Valchirie, la vera storia.
+948;3788;111;;The walls of the temple sanctum were inscribed&with the Valkyrur's account of history.&History as it truly was.;Le pareti del sancta sanctorum del tempio erano incise con&il resoconto della storia secondo i Valkyrur.&La storia cosi' com'era veramente.
 964;3904;91;;We are all taught of the Darcsen Calamity, and&how their actions forever scorched the land.;Ci > stato insegnato tutto sulla calamit= di Darcsen e su&come le loro azioni abbiano bruciato per sempre la terra.
 980;4000;40;;But this account told a different story.;Ma questo racconto racconta una storia diversa.
-996;4048;98;;The Valkyrur invaded this land from the north,&slaying the indigenous Darcsen people as they&came.;Le Valkyrur invasero questa terra da nord, uccidendo gli&indigeni Darcsen lungo il loro cammino.
+996;4048;98;;The Valkyrur invaded this land from the north,&slaying the indigenous Darcsen people as they&came.;Le Valkyrur invasero questa terra da nord,&uccidendo gli indigeni Darcsen&lungo il loro cammino.
 1012;4152;74;;Their grasp of ragnite technology and&the art of war were vastly superior.;La loro conoscenza della tecnologia ragnite e dell'arte&della guerra era di gran lunga superiore.
 1028;4232;85;;They trained the destructive power of ragnite&on the Darcsens' land, burned it to ash;Hanno esercitato il potere distruttivo della ragnite sulla&terra dei Darcsen, riducendola in cenere
-1044;4324;88;;then&had the gall to pass the blame for their&inhuman deeds off on their Darcsen slaves.;poi ebbero il coraggio di scaricare la colpa delle loro&azioni disumane sui loro schiavi Darcsen.
+1044;4324;88;;then&had the gall to pass the blame for their&inhuman deeds off on their Darcsen slaves.;poi&ebbero il coraggio di scaricare la colpa delle loro&azioni disumane sui loro schiavi Darcsen.
 1060;4420;86;;Darcsens have borne that stigma ever since,&while the Valkyrur became godlike saviors.;Da allora i Darcsen portarono con s< questo stigma, mentre&le Valkyrur divennero dei salvatori simili a degli dei.
 1076;4512;45;;The victors simply rewrote the history books.;I vincitori hanno semplicemente riscritto i libri di&storia.
 1092;4564;81;;The Barious ruins promulgate a lie to&all but their own descendants as hard fact.;Le rovine di Barious promulgano una bugia a tutti, tranne&che ai loro discendenti, come se fosse un fatto concreto.
 1108;4652;86;;"Reading about the Valkyrur's power, the true&face of these ""saviors,"" left me stunned.";"Leggere del potere delle Valkyrur e del vero volto di&questi ""salvatori"" mi ha lasciato sbalordito."
 1124;4744;83;;Yet, at the same time, I cannot help but think&of how useful it could be to us now.;Ma allo stesso tempo non posso fare a meno di pensare a&quanto potrebbe essere utile per noi adesso.
 1140;4832;81;;Since then, I've investigated every text and&report on the Valkyrur I could find.;Da allora ho esaminato tutti i testi e i resoconti sui&Valkyrur che ho potuto trovare.
-1156;4920;98;;They lead&me to believe that at least a few scions of&the Valkyrur must have survived to this day.;Mi hanno portato a credere che almeno alcuni discendenti&dei Valkyrur siano sopravvissuti fino ad oggi.
+1156;4920;98;;They lead&me to believe that at least a few scions of&the Valkyrur must have survived to this day.;Mi hanno portato&a credere che almeno alcuni discendenti&dei Valkyrur siano sopravvissuti fino ad oggi.
 1172;5024;83;;All across Europa, these rare individuals live&and die unaware of their own nature.;In tutta Europa, questi rari individui vivono e muoiono&inconsapevoli della propria natura.
 1188;5112;85;;But history has recorded rare cases of&individuals who have awakened to their powers.;Ma la storia ha registrato rari casi di individui che&hanno scoperto i propri poteri.
 1204;5204;90;;Their stories share one common thread: all of&them suffered grave wounds before awakening.;Le loro storie hanno un filo conduttore: tutti hanno&subito gravi ferite prima di risvegliarsi.
 1220;5300;88;;If those accounts are correct, the blood of&the Valkyrur stirs at the approach of death.;Se questi racconti sono corretti, il sangue delle&Valchirie si agita all'avvicinarsi della morte.
 1236;5396;84;;Their power, dormat for thousands of years,&bursts awake at one step shy of the end.;Il loro potere, latente da migliaia di anni, si risveglia&a un passo dalla fine.
-1252;5488;100;;Once awakened, if one of these individuals&takes hold of the refined ragnite arms of&their ancestors;Una volta risvegliati, se uno di questi individui&afferra&le raffinate braccia ragnite dei&loro antenati
+1252;5488;100;;Once awakened, if one of these individuals&takes hold of the refined ragnite arms of&their ancestors;Una volta risvegliati, se uno di questi individui&impugna le armi di ragnite raffinate&dei loro antenati
 1268;5596;62;;they make their mark on&history as one of the Valkyrur of old.;hanno lasciato il segno nella storia come uno degli&antichi Valkyrur.
-1284;5664;116;;I couldn't stop myself. I stole the Valkyrian&lance and shield out of the university archive&in the archeology wing.;Non sono riuscito a fermarmi. Ho rubato la Valchiria&lancia e scudo dall'archivio universitario&nell'ala dedicata all'archeologia.
+1284;5664;116;;I couldn't stop myself. I stole the Valkyrian&lance and shield out of the university archive&in the archeology wing.;Non riuscivo a fermarmi. Ho rubato la lancia&e lo scudo&Valkyriano dall'archivio universitario nell'ala archeologica
 1300;5788;69;;Supposedly their blood&serves to amplify the ragnite's natural power.;Si suppone che il loro sangue serva ad amplificare il&potere naturale dei ragniti.
-1316;5864;125;;I have no idea what science lies behind it.&Perhaps it's a consequence of their origins in&the ragnite-rich northern regions.;Non ho idea di quale scienza ci sia dietro.&Forse > una conseguenza delle loro origini in&le regioni settentrionali ricche di ragnite.
-1332;5996;97;;Regardless&of the reason, the Valkyria's life force&itself calls forth a reaction from the stone.;Qualunque sia il motivo, la forza vitale della Valkyria&provoca una reazione nella pietra.
+1316;5864;125;;I have no idea what science lies behind it.&Perhaps it's a consequence of their origins in&the ragnite-rich northern regions.;Non ho idea della scienza che c'> dietro.&Forse > una conseguenza delle loro origini&nelle regioni settentrionali ricche di ragnite.
+1332;5996;97;;Regardless&of the reason, the Valkyria's life force&itself calls forth a reaction from the stone.;Qualunque sia il motivo,&la forza vitale della Valkyria&provoca una reazione nella pietra.
 1348;6100;62;;The enemy Valkyria decimated our forces on the&Naggiar plains.;La Valkyria nemica decimo' le nostre forze nelle pianure di&Naggiar.
-1364;6168;102;;I cannot afford to stay my&hand on account of ethics...&I had the rifle. I'd steeled myself to use it.;Non posso permettermi di fermarmi per motivi&etici...&Avevo il fucile. Mi ero preparato a usarlo.
+1364;6168;102;;I cannot afford to stay my&hand on account of ethics...&I had the rifle. I'd steeled myself to use it.;Non posso permettermi di fermarmi&per ragioni etiche...&Avevo il fucile. Mi ero preparato a usarlo.
 1380;6276;77;;And then I shot her. I placed the lance and&shield on her unconscious form...;E poi le ho sparato. Ho piazzato la lancia e lo scudo&sulla sua forma priva di sensi...
 1396;6360;91;;I was wracked with insecurity and guilt, hands&red with the blood of my best friend's love.;Ero dilaniata dall'insicurezza e dal senso di colpa, con le-&mani rosse del sangue dell'amore della mia migliore amica.
 1412;6456;44;;But now I know.&The choice I made was right.;Ma ora lo so. La scelta che ho fatto > stata giusta.
