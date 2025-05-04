@@ -175,11 +175,10 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 ## COME SEGNALARE ERRORI NELLA TRADUZIONE/BUG
 
-Per segnalare errori nella traduzione, bisogna farlo, tramite la sezione "__issue__" della repo e selezionare il template "_Errori di traduzione_".
+Per segnalare errori nella traduzione, bisogna farlo, tramite la sezione "__issue__" della repo come nello screen.
 ![Errore1](img/Issue0.png)
 ![Errore2](img/Issue1.png)
-Successivamente bisogna riportare tutte le informazioni richieste per poter correggere l'errore.<br>
-Stesso discorso per la segnalazione dei crash/bug del gioco.
+Successivamente bisogna riportare tutte le informazioni richieste per poter correggere l'errore. Allegare un file di salvataggio, semplifica il testing del fix.
 
 ## VIDEO DIMOSTRATIVO
 [![Video dimostrativo versione pre-alpha](https://img.youtube.com/vi/BSpE67GH0fU/hqdefault.jpg)](https://youtu.be/BSpE67GH0fU?si=g56Jf9WjaD7H9fdJ)
