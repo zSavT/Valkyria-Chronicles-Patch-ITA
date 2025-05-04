@@ -162,12 +162,13 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 # TO DO
 
-- [x] Comprendere il funzionamento e logica dietro i file mtp
-- [ ] Comprendere il funzionamento e logica dietro i file mxe
-- [x] Comprendere il funzionamento e logica dietro i file mlx
-- [x] Comprendere il funzionamento e logica dietro i file htx
-- [ ] Comprendere il funzionamento e logica dietro i file esr
-- [x] Tradurre e adattare tutti i testi mpt
+- [x] Comprendere il funzionamento e logica dietro i file mtp [#3](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/issues/3)
+- [ ] Comprendere il funzionamento e logica dietro i file mxe [#4](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/issues/4)
+- [x] Comprendere il funzionamento e logica dietro i file mlx [#1](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/issues/1)
+- [x] Comprendere il funzionamento e logica dietro i file htx [#1](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/issues/1)
+- [ ] Comprendere il funzionamento e logica dietro i file esr [#5](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/issues/5)
+- [x] Tradurre e adattare tutti i testi mpt [#9](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/pull/9)
+- [ ] Tradurre tutte le texture del gioco [#2](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/pull/2)
 - [ ] Tradurre e adattare tutti i testi mxe
 - [ ] Tradurre e adattare tutti i testi esr
 - [ ] Rifinire
