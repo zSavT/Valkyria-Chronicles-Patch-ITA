@@ -17,26 +17,26 @@
 
 - [Valkyria Chronicles Patch ITA](#valkyria-chronicles-patch-ita)
 - [INDICE](#indice)
-  - [STRUTTURA DEI FILE](#struttura-dei-file)
-    - [MTP](#mtp)
-    - [MXE](#mxe)
-      - [COME CONVERTIRE I CSV NEI FILE MXE e MTP](#come-convertire-i-csv-nei-file-mxe-e-mtp)
-    - [HTX - MLX - DDS](#htx---mlx---dds)
-      - [COME CONVERTIRE I FILE HTX e MLX](#come-convertire-i-file-htx-e-mlx)
+- [STRUTTURA DEI FILE](#struttura-dei-file)
+  - [MTP](#mtp)
+  - [MXE](#mxe)
+    - [COME CONVERTIRE I CSV NEI FILE MXE e MTP](#come-convertire-i-csv-nei-file-mxe-e-mtp)
+  - [HTX - MLX - DDS](#htx---mlx---dds)
+    - [COME CONVERTIRE I FILE HTX e MLX](#come-convertire-i-file-htx-e-mlx)
 - [Funzionamento installer](#funzionamento-installer)
   - [Creazione dell'eseguibile](#creazione-delleseguibile)
     - [Windows](#windows)
     - [Linux (Steam Deck)](#linux-steam-deck)
-  - [TO DO](#to-do)
-  - [COME SEGNALARE ERRORI NELLA TRADUZIONE/BUG](#come-segnalare-errori-nella-traduzionebug)
-  - [VIDEO DIMOSTRATIVO](#video-dimostrativo)
-  - [SCREEN PROGETTO](#screen-progetto)
-  - [CREDITI](#crediti)
+- [TO DO](#to-do)
+- [COME SEGNALARE ERRORI NELLA TRADUZIONE/BUG](#come-segnalare-errori-nella-traduzionebug)
+- [VIDEO DIMOSTRATIVO](#video-dimostrativo)
+- [SCREEN PROGETTO](#screen-progetto)
+- [CREDITI](#crediti)
 
 
-## STRUTTURA DEI FILE
+# STRUTTURA DEI FILE
 
-### MTP
+## MTP
 
 Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggior parte dei testi delle cinematiche, dei dialoghi in battaglia e del menu\libro. In particolare:
 
@@ -70,11 +70,11 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
     - Eccezione: I messaggi dei box tutorial come per i slg, i caratteri max sono 42/43.
     - Carattere a capo: &
 
-### MXE
+## MXE
 
 Nella cartella "_Valkyria Chronicles\data\mx_" sono presenti tutti i file mxe che contengono tutto il testo restante (Impostazioni, nomi oggetti ecc...)<br>
 
-#### COME CONVERTIRE I CSV NEI FILE MXE e MTP
+### COME CONVERTIRE I CSV NEI FILE MXE e MTP
 
 Per poter convertire i file CSV nei file MTP, bisogna utilizzare il tool creato da dell'utente "__Feunoir__" postato [qui](https://www.jeuxvideo.com/forums/42-14107-38261510-1-0-1-0-traduction-du-jeu-aide-bienvenue.htm), presente nella repo nella cartella "Patch/Script/outil_csv_vers_mtp". Per convertire i file bisogna inserire nella stessa cartella dove è presente il file exe "_mtp_write.exe_", i file mtp originali e i relativi csv. <br>
 Nel file "_mtp_write.ini_" bisogna inserire il nome del file da convertire senza l'estensione (Esempio: convertire il file mtpa_adv_XX.mtp, nel file .ini si inserisce solo "_mtpa_adv_XX_"). Una volta impostato tutto, basta avviare il file exe. In questo modo viene creato un nuovo file "_mpt_" con l'aggiunta di "_new_" in coda al nome. Viene generato anche un file "_test.csv_", che contiene le info sulle lunghezze delle stringhe originali, quelle tradotte e la loro differenza.<p>Questo processo bisogna farlo per ogni file. Se bisogna convertire tanti file, per velocizzare il processo, ho creato uno script python "__mtpConverterAutomatico.py__" (L'autore ha rilasciato anche il codice sorgente del programma, ma son pigro e non mi andava di debbuggare per capire come modificarlo per automatizzarlo per tutti i file). L'unica prerogativa è inserire tutti i file originali e csv nella cartella dell'eseguibile.
@@ -86,7 +86,7 @@ Si, ho dimenticato di resettare il colore della shell a fine esecuzione, son pig
 
 
 
-### HTX - MLX - DDS
+## HTX - MLX - DDS
 
 I file "_htx_" contengono le texture del gioco, dove sono presenti anche le gui del gioco e alcuni testi (come per esempio il messaggio di ending del gioco). Anche i file "_mlx_" contengono le texture per gli ambienti, personaggi ecc... All'interno dei file HTX e MLX sono presenti i file DSS delle texture.<br>
 I file _DDS_ bisogna modificarli seguendo le linee guida indicate in questa [issue](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA/issues/1).
@@ -96,7 +96,7 @@ I file _DDS_ bisogna modificarli seguendo le linee guida indicate in questa [iss
     - I file delle immagini sono direttamente nel formato "_dds_".
 - Nella cartella "_Valkyria Chronicles\data\resource_" nelle varie sottocartella, sono presenti tutti i file HTX e MLX.
 
-#### COME CONVERTIRE I FILE HTX e MLX
+### COME CONVERTIRE I FILE HTX e MLX
   - Per poter modificare questi due tipologie di file, bisogna utilizzare il [tool](https://steamcommunity.com/sharedfiles/filedetails/?id=343016567) di "__FluffyQuack__". 
   - Per estrarre le texture bisogna trascinare il file della texture sul .bat "_extract.bat_". In questo modo viene creata una cartella con lo stesso nome del file contenente tutte le texture presenti in formato .dds da dover modificare.
   - Per ri-compattare il file, bisogna inserire nella cartella (__Con il nome originale della cartella__), le texture modificate (__Con il nome del file originale della texture__). Bisogna trascinare il file originale sul .bat "_replace.bat_". In questo modo verrà modificato.
@@ -160,7 +160,7 @@ deactivate
 
 Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
-## TO DO
+# TO DO
 
 - [x] Comprendere il funzionamento e logica dietro i file mtp
 - [ ] Comprendere il funzionamento e logica dietro i file mxe
@@ -173,25 +173,25 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 - [ ] Rifinire
 - [ ] Test completo del gioco
 
-## COME SEGNALARE ERRORI NELLA TRADUZIONE/BUG
+# COME SEGNALARE ERRORI NELLA TRADUZIONE/BUG
 
 Per segnalare errori nella traduzione, bisogna farlo, tramite la sezione "__issue__" della repo come nello screen.
 ![Errore1](img/Issue0.png)
 ![Errore2](img/Issue1.png)
 Successivamente bisogna riportare tutte le informazioni richieste per poter correggere l'errore. Allegare un file di salvataggio, semplifica il testing del fix.
 
-## VIDEO DIMOSTRATIVO
+# VIDEO DIMOSTRATIVO
 [![Video dimostrativo versione pre-alpha](https://img.youtube.com/vi/BSpE67GH0fU/hqdefault.jpg)](https://youtu.be/BSpE67GH0fU?si=g56Jf9WjaD7H9fdJ)
 
 
-## SCREEN PROGETTO
+# SCREEN PROGETTO
 
 ![](img/1.jpg)
 ![](img/2.jpg)
 ![](img/3.jpg)
 ![](img/4.jpg)
 
-## CREDITI
+# CREDITI
 
 Si ringrazia per tutto lo sfrozo di analisi dell'utente "__Feunoir__" postato [qui](https://www.jeuxvideo.com/forums/42-14107-38261510-1-0-1-0-traduction-du-jeu-aide-bienvenue.htm), per i csv di partenza per la traduzione e per i software di conversione da csv a mtpa e mxe.<br>
 Si ringrazia l'utente Steam "__FluffyQuack__" per il tool di estrazione delle texture per i file htx e mlx [tool](https://steamcommunity.com/sharedfiles/filedetails/?id=343016567).
