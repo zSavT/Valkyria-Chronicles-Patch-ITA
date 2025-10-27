@@ -1,7 +1,7 @@
-452;1968;18;;Isara... Martha...;Isara... Marta...
-468;1992;15;;Please be okay.;Per favore, stai bene.
+452;1968;18;;Isara... Martha...;Isara... Martha!...
+468;1992;15;;Please be okay.;Spero stiate bene.
 484;2012;7;;Huh-uh.;Eh-eh.
-500;2024;7;;Martha!;Marta!
+500;2024;7;;Martha!;Martha!
 516;2036;12;;Nn... ngh...;Nn... ngh...
 532;2056;19;;What's her problem?;Qual > il suo problema?
 548;2080;26;;She pregnant, or just fat?;E' incinta o semplicemente grassa?
@@ -10,26 +10,26 @@
 596;2196;72;;See what she's wearing? Take a good look at that shawl.&She's a Darcsen.;Vedi cosa indossa? Guarda bene quello scialle. E' una&Darcsen.
 612;2276;22;;Then that explains it.;Allora questo spiega tutto.
 628;2304;47;;I thought this place stunk. Now I know it does.;Pensavo che questo posto puzzasse. Ora so che puzza.
-644;2356;49;;So, we got ourselves a fat one, and a stinky one.;Quindi, ce ne siamo presi uno grasso e uno puzzolente.
+644;2356;49;;So, we got ourselves a fat one, and a stinky one.;Quindi, abbiamo una grassa e una puzzolente.
 660;2412;41;;Pee-eew, it's a regular pig farm in here.;Pee-eew, qui dentro > un normale allevamento di maiali.
 676;2460;52;;I will thank you to watch your tongue in this house.;Vi sarei grato se steste attente a come parlate in questa&casa.
 692;2520;23;;You have to leave, now.;Devi andartene, adesso.
 708;2548;40;;That's a big gun for such a little girl.;E' un'arma colossale per una bambina cosi piccola.
 724;2596;8;;Drop it.;Lascia perdere.
-740;2612;6;;Isara!;Per piacere!
+740;2612;6;;Isara!;Isara!
 756;2624;4;;Huh?;Cosa?
 772;2636;20;;Hold it right there!;Aspetta un attimo!
-788;2664;7;;Gwaugh!;Accidenti!
-804;2676;4;;Die!;Morire!
+788;2664;7;;Gwaugh!;Gwaugh!
+804;2676;4;;Die!;Muori!
 820;2688;15;;Darcsen... pig.;Darcsen... maiale.
 836;2708;18;;Isara! Are you ok?;Isara! Stai bene?
 852;2732;50;;I'm ok thanks to you. But Martha, I think she's...;Sto bene grazie a te. Ma Martha, credo che lei sia...
-868;2788;7;;Martha!;Marta!
+868;2788;7;;Martha!;Martha!
 884;2800;16;;This isn't good.;Questo non va bene.
 900;2824;22;;She's gone into labor.;E' entrata in travaglio.
 916;2852;30;;Moving her would be dangerous.;Spostarla sarebbe pericoloso.
 932;2888;68;;Right... well... we can't just leave her here!&What are we gonna do?;Giusto... beh... non possiamo lasciarla qui! Cosa faremo?
-948;2964;42;;There are a lot of Imperials out there Is.;Ci sono un sacco di Imperiali l= fuori.
+948;2964;42;;There are a lot of Imperials out there Is.;Ci sono un sacco di Imperiali l= fuori, Is.
 964;3012;64;;It's only a matter of time before they take over&the Mill Plaza.;E' solo questione di tempo prima che prendano il controllo&di Mill Plaza.
 980;3084;35;;Welks, listen, the barn out back...;Welks, ascolta, il fienile l= fuori...
 996;3124;14;;What about it?;Che ne dici?
@@ -42,19 +42,19 @@
 1108;3480;79;;I wanted to make sure it would still operate, you know,&in case of emergencies.;Volevo essere sicuro che funzionasse ancora, sai, in caso&di emergenza.
 1124;3564;56;;I enrolled in a maintenance class given by the military.;Mi sono iscritto a un corso di manutenzione tenuto&dall'esercito.
 1140;3628;50;;I wanted to be able to do what my father could do.;Volevo essere in grado di fare quello che sapeva fare mio&padre.
-1156;3684;50;;Well that's great, but that's only a class, Isara.;Bene, > fantastico, ma questa > solo una lezione, Isara.
+1156;3684;50;;Well that's great, but that's only a class, Isara.;Bene, > fantastico, ma era solo un corso, Isara.
 1172;3740;58;;It really didn't need much, hardly any alterations at all.;In realt= non aveva bisogno di grandi modifiche, quasi&nessuna.
 1188;3804;92;;I just fitted it with a new turbine engine.&It really improves on the power-to-weight ratio.;L'ho appena dotata di un nuovo motore a turbina e il&rapporto peso/potenza > decisamente migliorato.
-1204;3904;29;;The Edelweiss is fieldworthy.;L'Edelweiss > una pianta adatta al terreno.
+1204;3904;29;;The Edelweiss is fieldworthy.;L'Edelweiss > pronto per il campo di battaglia.
 1220;3940;67;;Its firepower and mobility are more than&a match for recent models.;La sua potenza di fuoco e la sua mobilit= sono piu' che&all'altezza dei modelli piu' recenti.
 1236;4012;40;;Well assuming it does work, what's next?;Bene, supponendo che funzioni, cosa succeder= ora?
 1252;4060;63;;Alright.&Welks, you took the armored vehicle course didn't you?;Bene.&Welks, hai seguito il corso per veicoli blindati,&vero?
 1268;4128;34;;Yeah. Back in high school... once.;Si. Una volta, al liceo.
-1284;4168;94;;We'll bring Martha here. She'll be safe inside the tank,&and we can move to a better location.;Porteremo qui Martha. Sar= al sicuro dentro la vasca e&potremo spostarci in un posto migliore.
+1284;4168;94;;We'll bring Martha here. She'll be safe inside the tank,&and we can move to a better location.;Porteremo qui Martha. Sar= al sicuro dentro il carro e&potremo spostarci in un posto migliore.
 1300;4268;33;;Just leave the driving to me, ok?;Lascia che guidi io, ok?
 1316;4308;38;;All you have to do is give the orders.;Tutto quello che devi fare > dare gli ordini.
 1332;4352;24;;Isara, we ready to roll?;Isara, siamo pronti a partire?
-1348;4384;16;;Engaging engine.;Motore coinvolgente.
+1348;4384;16;;Engaging engine.;Avvio il motore.
 1364;4408;38;;The Edelweiss is ready for deployment.;L'Edelweiss > pronta per essere impiegata.
 1380;4452;84;;Alicia could still be out there dodging bullets,&buying time for people to evacuate.;Alicia potrebbe essere ancora l= fuori a schivare i proiett-&li e a guadagnare tempo per l'evacuazione della gente.
 1396;4544;64;;Here's the plan.&We're gonna pick up Alicia and get out of town.;Ecco il piano: andiamo a prendere Alicia e ce ne andiamo&dalla citt=.
@@ -67,7 +67,7 @@
 1508;4996;45;;It hurts, seeing my town overrun like this...;Mi fa male vedere la mia citt= invasa in questo modo...
 1524;5048;33;;Seeing all those people killed...;Vedere tutte quelle persone uccise...
 1540;5088;47;;It's just not right. How could all this happen?;Semplicemente non > giusto. Come > potuto succedere tutto&questo?
-1556;5140;22;;It isn't human Welkin.;Non > un umano, Welkin.
+1556;5140;22;;It isn't human Welkin.;Non > umano, Welkin.
 1572;5168;58;;We look at those birds and see how wild and free they are,;Guardiamo quegli uccelli e vediamo quanto sono selvaggi e&liberi,
 1588;5232;40;;but they all have their own territories.;ma ognuno ha il suo territorio.
 1604;5280;72;;If anything threatens their home,&they'll risk their lives to defend it.;Se qualcosa minaccia la loro casa, rischieranno la vita&per difenderla.

@@ -16,7 +16,7 @@
 752;3324;38;;This'll be our toughest operation yet.;Questa sar= la nostra operazione piu' dura finora.
 768;3368;84;;Maybe so, but deeper in the woods you have a&better chance of spotting rare foliage.;Forse > cosi, ma addentrandosi nei boschi si hanno&maggiori possibilit= di avvistare fogliame raro.
 784;3460;86;;There's one kind of insectivorous plant in&Kloden called the moondew that can suck a--;A Kloden c'> una specie di pianta insettivora chiamata&rugiada lunare che puo' succhiare un--
-800;3552;72;;All right, I get it! You really do have a one-track mind,&you know that?;Va bene, ho capito! Hai davvero una mente monotematica, e&lo sai?
+800;3552;72;;All right, I get it! You really do have a one-track mind,&you know that?;Va bene, ho capito!&Hai davvero una mente monotematica, lo sai?
 816;3632;85;;I'm saying nature isn't just a burden.&We might find the key to victory in the woods.;Voglio dire che la natura non > solo un peso. Potremmo&trovare la chiave della vittoria nei boschi.
 832;3724;72;;...All right. I'll keep a lookout for your&key while I'm slogging along.;...Va bene. Terro' d'occhio la tua&chiave mentre mi&trascino avanti.
 848;3804;41;;Hopefully your plant won't have eaten it.;Speriamo che la tua pianta non l'abbia mangiato.
@@ -42,7 +42,7 @@
 1168;4872;99;;Gregor, see to a... restructuring of our central forces,&then you will continue to press northward.;Gregor, provvedi a... ristrutturare le nostre forze&centrali, e poi continuerai a spingerti verso nord.
 1184;4976;4;;Sir!;Signore!
 1200;4988;24;;We will head to Barious.;Ci dirigeremo verso Barious.
-1216;5020;46;;Selvaria, be so kind as to accompany Us there.;Selvaria, per favore, accompagnaci l=.
+1216;5020;46;;Selvaria, be so kind as to accompany Us there.;Selvaria, abbi la compiacenza di accompagnarci.
 1232;5072;56;;With pleasure.&And to the ends of the Earth, Your Grace.;Con piacere. E fino ai confini della Terra, Vostra Grazia.
 1248;5136;75;;The Kloden base and supply lines, see to them Jaeger.&They need protecting.;La base di Kloden e le linee di rifornimento, assicuratevi&che siano protette, Jaeger.
 1264;5216;55;;Gallia may have already dispatched troops to the south.;E' possibile che la Gallia abbia gi= inviato truppe a sud.
@@ -58,7 +58,7 @@
 1424;5700;47;;Sure Welkin. What are these? Some kind of nuts?;Certo Welkin. Cosa sono queste? Una specie di noci?
 1440;5752;46;;No, actually they're Longbeard goat droppings.;No, in realt= sono escrementi di capra barbalunga.
 1456;5804;12;;Ahhh! Gross!;Ahhh! Che schifo!
-1472;5824;37;;You made me hold poo? Are you crazy?!;Mi hai fatto trattenere la cacca? Sei pazzo?!
+1472;5824;37;;You made me hold poo? Are you crazy?!;Mi hai fatto tenere in mano la cacca? Sei pazzo?!
 1488;5868;41;;Hey Welks, did you find something useful?;Ciao Welks, hai trovato qualcosa di utile?
 1504;5916;31;;Come here. Take a look at this.;Vieni qui. Dai un'occhiata a questo.
 1520;5952;50;;Hmm. The grass has been trampled down, looks like.;Hmm. Sembra che l'erba sia stata calpestata.
@@ -77,10 +77,10 @@
 1728;6712;86;;Ha! You paint a much prettier picture than it was.&I used to sing at a bar in my town.;Ah! Hai dipinto un quadro molto piu' bello di quello che&era.&Io cantavo in un bar della mia citt=.
 1744;6804;78;;Still, that song was really pretty.&I'd love to hear the whole thing sometime.;Comunque quella canzone era davvero carina e mi piacerebbe&molto ascoltarla per intero un giorno.
 1760;6888;55;;Heh. Maybe I'll put on a little show one of these days.;Eh. Forse faro' un piccolo spettacolo uno di questi giorni.
-1776;6948;21;;We're not alone here.;Non siamo soli in questa situazione.
+1776;6948;21;;We're not alone here.;Non siamo soli qui.
 1792;6976;20;;I'll go investigate.;Vado a indagare.
 1808;7004;26;;Put your hands in the air!;Alzate le mani!
-1824;7036;7;;Moink?!;Mamma mia!
+1824;7036;7;;Moink?!;Moink?!
 1840;7048;14;;It's... a pig?;E'... un maiale?
 1856;7068;33;;It looks like a porcavian piglet.;Sembra un maialino porcaviano.
 1872;7108;47;;What's your story?&Get separated from your mom?;Qual > la tua storia? Ti sei separato da tua madre?
@@ -92,7 +92,7 @@
 1968;7348;6;;......;......
 1984;7360;59;;Even all the way out here the war's still claimin' lives...;Anche qui la guerra continua a mietere vittime...
 2000;7424;60;;You lost your family too, huh, little guy?&Left all alone...;Anche tu hai perso la tua famiglia, eh, piccolino? E sei&rimasto tutto solo...
-2016;7492;8;;Moink...;Scusa...
+2016;7492;8;;Moink...;Moink...
 2032;7508;42;;Well Alicia, does he want to come with us?;Bene Alicia, vuole venire con noi?
 2048;7556;13;;What? Can we?;Cosa? Possiamo?
 2064;7576;55;;We're the militia!&Every Gallian has the right to join.;Noi siamo la milizia! Ogni galliano ha il diritto di&unirsi.
@@ -104,7 +104,7 @@
 2160;7888;63;;Way to go Hans.&First day on the job and you're already a hero!;Avanti cosi Hans! Primo giorno di lavoro e sei gi= un eroe!
 2176;7956;66;;Our success today was thanks to the animals&living in these woods.;Il nostro successo odierno > dovuto agli animali che&vivono in questi boschi.
 2192;8028;12;;Moink moink!;Moink moink!
-2208;8048;35;;So, uh...&Who named the bacon Hans?;Allora, ehm... Chi ha chiamato la pancetta Hans?
+2208;8048;35;;So, uh...&Who named the bacon Hans?;Allora, ehm...&Chi ha chiamato Hans la pancetta?
 2224;8088;70;;Captain Varrot,&I'd like to introduce Squad 7's newest addition, Hans.;Capitano Varrot, vorrei presentarvi il nuovo arrivato&nella Squadra 7, Hans.
 2240;8164;86;;Hans, I hear you performed admirably today.&I expect great things from you. Dismissed.;Hans, ho sentito che oggi ti sei comportato in modo&ammirevole. E mi aspetto grandi cose da te. Congedato.
-2256;8256;8;;Moioink!;Ciao!
+2256;8256;8;;Moioink!;Moioink!

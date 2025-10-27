@@ -1,9 +1,9 @@
 884;4128;86;;Thanks to the victory at Naggiar,&our forces have pushed the enemy back to the border.;Grazie alla vittoria di Naggiar, le nostre forze hanno&respinto il nemico fino al confine.;
 900;4220;67;;The Imperials are currently holed up in the&citadel at Ghirlandaio.;Gli Imperiali sono attualmente asserragliati nella&cittadella del Ghirlandaio.;
 916;4292;14;;Ghirlandaio...;Ghirlandaio...;
-932;4312;0;;A crucial checkpoint along the commerce&routes tying Gallia to the east since &midievel times, the pass at Ghirlandaio&had been fortified for ages.;Un punto di controllo cruciale lungo il commercio&rotte che collegano la Gallia all'oriente fin dal&medioevo, il passo del Ghirlandaio&era stata fortificata per secoli.;
+932;4312;0;;A crucial checkpoint along the commerce&routes tying Gallia to the east since &midievel times, the pass at Ghirlandaio&had been fortified for ages.;Un punto di controllo cruciale lungo le rotte commerciali&che collegano la Gallia all'oriente fin dal&medioevo, il passo del Ghirlandaio&era stata fortificata per secoli.;
 948;4464;0;;The existing structure was rebuilt as a&modern fortress during the First Europan&War, and its grounds were littered with&the casualties of war.;La struttura esistente > stata ricostruita come&fortezza moderna durante il primo Europan&Guerra, e i suoi terreni erano disseminati di&le vittime della guerra.;
-964;4612;0;;"In the current war, it housed the Empire's&command center, and now it stood as their&final stronghold.&&       Irene Koller, ""On the Gallian Front""7";"Nella guerra attuale, ospitava l'Impero&centro di comando, e ora si ergeva come il loro&roccaforte finale.&&       Irene Koller, ""On the Gallian Front""7";
+964;4612;0;;"In the current war, it housed the Empire's&command center, and now it stood as their&final stronghold.&&       Irene Koller, ""On the Gallian Front""7";"Nella guerra attuale, ospitava l'Impero&centro di comando, e ora si ergeva come il loro&roccaforte finale.&&       Irene Koller, ""Sul fronte Galliano""7";
 980;4764;55;;What's our strategy for attacking the citadel, Captain?;Qual > la nostra strategia per attaccare la cittadella,&capitano?;
 996;4824;73;;Hmm... I still haven't received any details&on our orders from above yet.;Hmm... Non ho ancora ricevuto alcun dettaglio sui nostri&ordini dall'alto.;
 1012;4904;75;;Oh, stop your worrying, Varrot.&I came here myself to give you your orders.;Oh, smettila di preoccuparti, Varrot. Sono venuto qui&personalmente per darti ordini.;
@@ -14,7 +14,7 @@
 1092;5220;69;;Here are your orders.&There's a supply line running into the citadel.;Ecco i tuoi ordini. C'> una linea di rifornimento che&arriva fino alla cittadella.;
 1108;5296;86;;We're sending a train car loaded down with&explosives along it to blow us an entrance.;Stiamo inviando un vagone ferroviario carico di esplosivi&per farci saltare un ingresso.;
 1124;5388;83;;The militia will run along the track ahead of it,&flipping the right rail switches.;La milizia correr= lungo i binari davanti a s<, azionando&gli scambi ferroviari giusti.;
-1140;5476;28;;Flipping rail switches, sir?;Sta azionando gli scambi ferroviari, signore?;
+1140;5476;28;;Flipping rail switches, sir?;Azionare gli scambi ferroviari, signore?;
 1156;5512;83;;This while dodging a hailstorm of bullets?&That sounds like a suicide mission, sir.;E tutto questo mentre si schiva una grandinata di&proiettili? Sembra una missione suicida, signore.;
 1172;5600;89;;Bah ha ha! What are you talking about?&It's the perfect challenge for your fearless crew!;Bah ha ha! Di cosa stai parlando? E' la sfida perfetta per&il tuo equipaggio impavido!;
 1188;5696;77;;If we succeed here, the Empire will finally&be forced out of Gallia for good.;Se avremo successo, l'Impero sar= definitivamente&costretto ad abbandonare la Gallia.;
@@ -35,7 +35,7 @@
 1428;6416;13;;Your Grace...;Vostra Grazia...;
 1444;6436;42;;Hmph... That incident grows old and stale.;Hmph... Quell'incidente sta diventando vecchio e stantio.;
 1460;6484;44;;Selvaria, what news have you from the front?;Selvaria, che novit= hai dal fronte?;
-1476;6536;112;;Sire. They seek to push our soldiers past the border. &And the total of their forces approach those of our own. ;Sire. Vogliono spingere i nostri soldati oltre il confine.&E il totale delle loro forze si avvicina a quello delle nostre.;
+1476;6536;112;;Sire. They seek to push our soldiers past the border. &And the total of their forces approach those of our own. ;Sire. Vogliono spingere i nostri soldati oltre il confine.&Il totale delle loro forze si avvicina a quello delle nostre;
 1492;6656;8;;I see...;Vedo...;
 1508;6672;56;;The advantage now begins to sway towards the other side.;Ora il vantaggio comincia a pendere dalla parte opposta.;
 1524;6736;94;;It seems the loss at Naggiar has ended our hopes of &strolling through the gates of Randgriz. ;Sembra che la sconfitta di Naggiar abbia messo fine alle&nostre speranze di varcare i cancelli di Randgriz.;
@@ -47,7 +47,7 @@
 1620;7032;16;;Dear Selvaria...;Cara Selvaria...;
 1636;7056;32;;Do you truly wish to be of help?;Vuoi davvero essere d'aiuto?;
 1652;7096;24;;Yes!&More than anything!;Si! E piu' di ogni altra cosa!;
-1668;7128;100;;From the time you save me Your Grace... I've...&known... that I love you more than I do my own life.;Da quando mi hai salvato, Vostra Grazia... ho...&saputo...&che ti amo piu' della mia stessa vita.;
+1668;7128;100;;From the time you save me Your Grace... I've...&known... that I love you more than I do my own life.;Da quando mi hai salvato, Vostra Grazia... ho...&saputo... che ti amo piu' della mia stessa vita.;
 1684;7236;51;;Sire, I want to work in the service of your dreams!;Sire, voglio lavorare al servizio dei tuoi sogni!;
 1700;7292;10;;Very well.;Ottimo.;
 1716;7308;79;;So Selvaria, you report that the strength of our&opponent now matches our own. ;Quindi Selvaria, tu riferisci che la forza del nostro&avversario ora > pari alla nostra.;
@@ -62,11 +62,11 @@
 1860;7872;6;;......;......;
 1876;7884;7;;Hmph...;Mmmh...;
 1892;7896;71;;Anyway, there's a messenger here for you&straight from Castle Randgriz.;Comunque, c'> un messaggero per te, direttamente dal&Castello di Randgriz.;
-1908;7972;69;;So there is. Let him wait. &I have no time for simple messengers now.;Quindi c'>. Lascialo aspettare. E non ho piu' tempo per&semplici messaggeri ora.;
+1908;7972;69;;So there is. Let him wait. &I have no time for simple messengers now.;Quindi c'>. Lascialo aspettare.&E non ho piu' tempo per semplici messaggeri ora.;
 1924;8048;83;;We are set to commence Operation Steel Scythe.&Jaeger, prepare to return back east.;Siamo pronti a dare il via all'Operazione Falce d'Acciaio.&Jaeger, preparatevi a tornare verso est.;
 1940;8136;44;;What?! Then it's...&The Marmota's finished?!;Cosa?! Allora >...&La Marmota > finita?!;
 1956;8188;57;;It is.&Word has come that it has completed its trial run.;Si, > vero. Ci > giunta notizia che la sua fase di prova >&stata completata.;
-1972;8252;71;;The Gallians are hasty to assume victory.&We shall see them gutted yet.;I Galli hanno fretta di presumere la vittoria. E li&vedremo presto distrutti.;
+1972;8252;71;;The Gallians are hasty to assume victory.&We shall see them gutted yet.;I Galli hanno fretta di presumere la vittoria.&E li vedremo presto sventrati.;
 1988;8328;6;;......;......;
 2004;8340;6;;......;......;
 2020;8352;13;;...I'm sorry.;...Mi dispiace.;
@@ -95,7 +95,7 @@
 2388;9628;38;;Makes you look like a real gentleman. ;Ti fa sembrare un vero gentiluomo.;
 2404;9672;21;;Uh... Well thank you.;Uh... beh, grazie.;
 2420;9700;6;;......;......;
-2436;9712;9;;Welkin...;Ben...;
+2436;9712;9;;Welkin...;Welkin...;
 2452;9728;38;;They said it was Faldio... Is it true?;Hanno detto che era Faldio... E' vero?;
 2468;9772;10;;Afraid so.;Temo di si.;
 2484;9788;87;;Then when I... When I walked through camp before,&some of them got down on their knees,;Poi quando io... Quando ho camminato attraverso&l'accampamento prima, alcuni di loro si sono inginocchiati,;
@@ -135,7 +135,7 @@
 3028;11564;6;;......;......;
 3044;11576;29;;Freeze right there war witch!;Fermo li, strega guerriera!;
 3060;11612;28;;Hands up! No funny business!;Mani in alto! Niente scherzi!;
-3076;11648;5;;Hrgh!;Oddio!;
+3076;11648;5;;Hrgh!;Hrgh!;
 3092;11660;6;;Gnngh!;Gnngh!;
 3108;11672;3;;Ah!;Ah!;
 3124;11680;14;;Baah ha ha ha!;Baah ah ah ah!;
@@ -151,8 +151,8 @@
 3284;12180;61;;Spare them...&and let the militia escort them to their fate. ;Risparmiateli... e lasciate che la milizia li scorti verso&il loro destino.;
 3300;12248;66;;Hmph, good idea. Rats escorting rats,&sounds like a perfect match.;Hmph, buona idea. Ratti che scortano ratti, e sembra un&abbinamento perfetto.;
 3316;12320;16;;Stand up, witch!;Alzati, strega!;
-3332;12344;6;;Ngh...;Adesso...;
-3348;12356;102;;I have found the purpose to justify my life.&I don't think there's much chance we'll be meeting again.;Ho trovato lo scopo per giustificare la mia vita.&Non credo che ci siano molte possibilit= che ci incontreremo di nuovo.;
+3332;12344;6;;Ngh...;Ngh...;
+3348;12356;102;;I have found the purpose to justify my life.&I don't think there's much chance we'll be meeting again.;Ho trovato lo scopo per giustificare la mia vita.&Non credo che ci saranno molte possibilità di rivederci.;
 3364;12464;35;;That said, I'll admit I am curious.;Detto questo, ammetto che sono curioso.;
 3380;12504;78;;When the time comes to make a choice,&what cause will your life finally serve?;Quando arriver= il momento di fare una scelta, a quale&causa servir= la tua vita?;
 3396;12588;9;;Farewell.;Addio.;

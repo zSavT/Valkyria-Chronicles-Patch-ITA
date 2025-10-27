@@ -11,9 +11,9 @@
 688;2964;26;;Any questions, Lieutenant?;Ci sono domande, tenente?
 704;2996;15;;...No, Captain.;...No, Capitano.
 720;3016;79;;I'm taking temporary personal leave,&but I wish you the best of luck out there.;Mi sto prendendo un congedo temporaneo per motivi&personali, ma vi auguro la migliore fortuna possibile.
-736;3100;73;;Also, I'd like to introduce the new tank&pilot assigned to the Edelweiss.;Inoltre, vorrei presentare il nuovo carrista e il nuovo&pilota assegnati all'Edelweiss.
+736;3100;73;;Also, I'd like to introduce the new tank&pilot assigned to the Edelweiss.;Inoltre, vorrei presentare il nuovo pilota di carro&assegnato all'Edelweiss.
 752;3180;30;;I'll do the best I can Welkin.;Faro' del mio meglio, Welkin.
-768;3216;6;;Kreis!;Circolo!
+768;3216;6;;Kreis!;Kreis!
 784;3228;75;;He recently volunteered to be a pilot.&I'm hereby assigning him to Squad 7.;Di recente si > offerto volontario come pilota e con la&presente lo assegno alla Squadra 7.
 800;3308;88;;Isara inherited the Edelweiss from her father.&I'd like to take over where she left off.;Isara ha ereditato l'Edelweiss da suo padre e vorrei&riprendere da dove lei aveva lasciato.
 816;3404;71;;I'm still nowhere near as skilled as she was,&but I'll do my very best.;Non sono ancora lontanamente all'altezza sua, ma faro' del&mio meglio.
@@ -25,10 +25,10 @@
 912;3816;72;;Their struggles since have bested the&detachments holding each location.;Da allora le loro lotte hanno avuto la meglio sui&distaccamenti che controllavano ogni localit=.
 928;3896;39;;Meaning... we reconcentrate our forces?;Vuol dire... riconcentriamo le nostre forze?
 944;3940;57;;Yes.&Send word to gather Our armies on the Naggiar plain.;Si. Manda a dire di radunare i nostri eserciti nella&pianura di Naggiar.
-960;4004;59;;Selvaria,&the time has come to show these rubes your power.;Selvaria, > giunto il momento di mostrare a questi rozzi&il tuo potere.
+960;4004;59;;Selvaria,&the time has come to show these rubes your power.;Selvaria,&> giunto il momento di mostrare a questi bifolchi&il tuo potere.
 976;4068;4;;Sir!;Signore!
 992;4080;70;;By my Valkyrian blood,&I swear the Gallian forces will bow before you!;Sul mio sangue Valkyrur, giuro che le forze galliche si&inchineranno davanti a te!
-1008;4156;61;;Heh, I believe it.&They won't last long once you get serious.;Eh, ci credo. E non dureranno a lungo una volta che&diventerai una persona seria.
+1008;4156;61;;Heh, I believe it.&They won't last long once you get serious.;Eh, ci credo. E non dureranno a lungo una volta che&farai sul serio.
 1024;4224;74;;And that's good news for me and the prospects&for Fhirald's reinstatement.;E questa > una buona notizia per me e per le prospettive&di reintegrazione di Fhirald.
 1040;4304;78;;Once We conquer Gallia,&you shall have independence for your homeland, Jaeger.;Una volta conquistata la Gallia, avrai l'indipendenza per&la tua patria, Jaeger.
 1056;4388;88;;But until then, you have no country of your own.&You shall serve Us with your very life.;Ma fino ad allora non avrai una patria tua e ci servirai&con la tua stessa vita.
@@ -56,17 +56,17 @@
 1408;5852;20;;...! No, it's not...;...! No, non >...
 1424;5880;61;;The chances of her... No.&But there's no other explanation...;Le probabilit= che lei... No. Ma non c'> altra&spiegazione...
 1440;5948;27;;She...&What should I do...?;Lei...&Cosa dovrei fare...?
-1456;5980;118;;Well that's it Welkin. No sign of the enemy here either. I&searched all over. Looks like they've cleared out of Bruhl.;Bene, > cosi, Welkin. Nemmeno qui c'> traccia del nemico.&Ho cercato dappertutto. Sembra che abbiano lasciato Bruhl.
+1456;5980;118;;Well that's it Welkin. No sign of the enemy here either. I&searched all over. Looks like they've cleared out of Bruhl.;Bene, > cosi, Welkin. Nemmeno qui c'> traccia del nemico.&Ho cercato dappertutto. Sembra che abbiano sgomberato Bruhl
 1472;6104;69;;That's good.&We've finally recovered possession of our old homestead.;Bene. Abbiamo finalmente ripreso possesso della nostra&vecchia casa.
 1488;6180;65;;Yeah... But if Isara saw it as it is now,&I think she'd feel sad.;Si... Ma se Isara la vedesse cosi com'> adesso, credo che&si sentirebbe triste.
 1504;6252;90;;I mean, look at it. Empty of all the people who lived here.&The mill just barely standing.;Voglio dire, guardalo. Vuoto di tutte le persone che ci&vivevano. E il mulino che sta a malapena in piedi.
 1520;6348;4;;...!;...!
 1536;6360;13;;Look at that!;Guarda un po'!
-1552;6380;7;;Welkin?;Cielo?
+1552;6380;7;;Welkin?;Welkin?
 1568;6392;28;;What is it? What do you see?;Che cos'>? Cosa vedi?
-1584;6428;5;;Look.;Aspetto.
+1584;6428;5;;Look.;Guarda.
 1600;6440;13;;A lion's paw.;La zampa di un leone.
-1616;6460;22;;Is it... the same one?;E'... la stessa cosa?
+1616;6460;22;;Is it... the same one?;E'... lo stesso?
 1632;6488;80;;Mm hmm. It's the flower that you planted that day,&when we first met each other.;Mm hmm. E' il fiore che hai piantato quel giorno, quando ci&siamo incontrati per la prima volta.
 1648;6576;62;;It took root and grew in this soil,&and now it's flourishing. ;Ha messo radici ed > cresciuto in questo terreno, e ora&sta fiorendo.
 1664;6644;15;;(Nods silently);(Annuisce silenziosamente)
@@ -90,14 +90,14 @@
 1952;7848;84;;It's very probable. This battle is going to&decide Gallia's fate one way or another.;E' molto probabile. Questa battaglia decider= il destino&della Gallia in un modo o nell'altro.
 1968;7940;52;;After a brief rest, the militia move out to Naggiar.;Dopo un breve riposo, la milizia si sposta a Naggiar.
 1984;8000;59;;I want all of you rested in the meantime.&You're dismissed.;Nel frattempo, voglio che vi riposiate tutti. Siete&congedati.
-2000;8064;113;;So what you're saying is the next battle is so critical&it could actually determine how the rest of the war goes.;Quindi quello che stai dicendo > che la prossima battaglia > cosi critica&potrebbe effettivamente determinare come andr= il resto della guerra.
+2000;8064;113;;So what you're saying is the next battle is so critical&it could actually determine how the rest of the war goes.;Quindi quello che stai dicendo > che la prossima battaglia&> cosi critica da determinare come andr= il resto&della guerra.
 2016;8184;5;;Yeah.;Si.
 2032;8196;81;;Both for us and them.&The opposing armies are assembling their forces at Naggiar.;Sia per noi che per loro. Gli eserciti avversari stanno&radunando le loro forze a Naggiar.
 2048;8284;76;;It'll be the biggest battle we've fought yet,&the biggest battle of the war.;Sar= la battaglia piu' grande che abbiamo mai combattuto e&la battaglia piu' grande dell'intera guerra.
 2064;8368;95;;That means more things we love will be destroyed,&more people we care about will be taken away.;Cio' significa che piu' cose che amiamo verranno distrutte e&piu' persone a cui teniamo verranno portate via.
 2080;8468;106;;There are some things we lose, that never get returned.&That's the world. Everything around us is in flux.;Ci sono cose che perdiamo e non ci vengono mai&restituite. Questo > il mondo, sempre in mutamento.
 2096;8580;74;;The old Bruhl, the town we used to know.&Isara... We've lost them forever.;La vecchia Bruhl, la citt= che conoscevamo.&Isara... Le&abbiamo perse per sempre.
-2112;8660;9;;Welkin...;Ben...
+2112;8660;9;;Welkin...;Welkin...
 2128;8676;72;;But, it's like you said, Alicia.&We build new things as we lose the old.;Ma > come hai detto tu, Alicia. Costruiamo cose nuove man&mano che perdiamo quelle vecchie.
 2144;8756;98;;If we can win this battle at Naggiar, we can push the Empire&all the way back to northeast Gallia.;Se riusciremo a vincere questa battaglia a Naggiar,&potremo respingere l'Impero fino al nord-est della Gallia.
 2160;8860;62;;If that happens,&then victory will be right around the corner.;Se cio' accadr=, la vittoria sar= dietro l'angolo.
