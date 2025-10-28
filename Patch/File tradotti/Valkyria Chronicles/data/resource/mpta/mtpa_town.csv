@@ -72,7 +72,7 @@
 6808;22860;15;;Engineer Elites;Ingegneri d'<lite
 6888;22880;13;;Sniper Elites;Cecchini d'<lite
 6968;22900;13;;Are you sure?;Sei sicuro?
-7048;22920;15;;Develop Weapons;Sviluppare armi
+7048;22920;15;;Develop Weapons;Sviluppa armi
 7128;22940;12;;Outfit Tanks;Carri armati
 7208;22960;6;;Rifles;Fucili
 7288;22972;12;;Machine Guns;Mitragliatrici
@@ -221,7 +221,7 @@
 18728;27692;101;;You learned @fcfff00000:Attack Boost@fci:.&This order raises one ally's anti-&personnel attack power.;Hai imparato @fcfff00000:Attack Boost@fci:.&Questo ordine aumenta il potere di&attacco anti-personale di un alleato.
 18808;27800;106;;You learned @fcfff00000:All Units Attack@fci:.&This order raises all allies' anti-&personnel attack power.;Hai imparato @fcfff00000:Tutte le unit= attaccano@fci:.&Questo ordine solleva l'antipatia di&tutti gli alleati potere di&attacco del personale.
 18888;27912;110;;You learned @fcfff00000:Neutralize@fci:.&This order protects one ally from being&counterattacked after firing.;Hai imparato @fcfff00000:Neutralize@fci:.&Questo ordine protegge un alleato&dal contrattacco dopo aver sparato.
-18968;28028;80;;You learned @fcfff00000:First Aid@fci:.&This order fully restores one ally's HP.;Hai imparato @fcfff00000:Primo soccorso@fci:.&Questo ordine ripristina completamente&i PV di un alleato.
+18968;28028;80;;You learned @fcfff00000:First Aid@fci:.&This order fully restores one ally's HP.;Hai imparato @fcfff00000:Primo soccorso@fci:.&Questo ordine ripristina completamente&i HP di un alleato.
 19048;28116;95;;You learned @fcfff00000:Damage Boost@fci:.&This order raises one ally's anti-tank&attack power.;Hai imparato @fcfff00000:Aumento danni@fci:.&Questo ordine aumenta il potere&anticarro e di attacco di un alleato.
 19128;28216;108;;You learned @fcfff00000:Demolition Boost@fci:.&This order greatly raises one ally's anti-&tank attack power.;Hai imparato @fcfff00000:Demolition Boost@fci:.&Questo ordine aumenta notevolmente&l'antipatia di un alleato&potenza di attacco del carro armato.
 19208;28332;112;;You learned @fcfff00000:Healing Boost@fci:.&This order increases the amount one ally&can heal using Ragnaid (S).;Hai imparato @fcfff00000:Potenziamento della guarigione@fci:.&Questo ordine aumenta la quantit= di&un alleato puo' curarsi usando Ragnaid (S)
