@@ -5,16 +5,16 @@
 516;2036;12;;Nn... ngh...;Nn... ngh...
 532;2056;19;;What's her problem?;Qual > il suo problema?
 548;2080;26;;She pregnant, or just fat?;E' incinta o semplicemente grassa?
-564;2112;57;;Who cares?&Not gonna make any difference when she's dead.;A chi importa? Non far= alcuna differenza quando sar=&morta.
-580;2176;14;;Stop this now.;Basta cosi, subito.
-596;2196;72;;See what she's wearing? Take a good look at that shawl.&She's a Darcsen.;Vedi cosa indossa? Guarda bene quello scialle. E' una&Darcsen.
+564;2112;57;;Who cares?&Not gonna make any difference when she's dead.;A chi importa?&Non far= alcuna differenza quando sar= morta.
+580;2176;14;;Stop this now.;Smettetela subito.
+596;2196;72;;See what she's wearing? Take a good look at that shawl.&She's a Darcsen.;Vedi cosa indossa? Guarda bene quello scialle.&E' una Darcsen.
 612;2276;22;;Then that explains it.;Allora questo spiega tutto.
-628;2304;47;;I thought this place stunk. Now I know it does.;Pensavo che questo posto puzzasse. Ora so che puzza.
+628;2304;47;;I thought this place stunk. Now I know it does.;Pensavo che questo posto puzzasse. Ora capisco perch<.
 644;2356;49;;So, we got ourselves a fat one, and a stinky one.;Quindi, abbiamo una grassa e una puzzolente.
 660;2412;41;;Pee-eew, it's a regular pig farm in here.;Pee-eew, qui dentro > un normale allevamento di maiali.
 676;2460;52;;I will thank you to watch your tongue in this house.;Vi sarei grato se steste attente a come parlate in questa&casa.
 692;2520;23;;You have to leave, now.;Devi andartene, adesso.
-708;2548;40;;That's a big gun for such a little girl.;E' un'arma colossale per una bambina cosi piccola.
+708;2548;40;;That's a big gun for such a little girl.;E' un'arma colossale per essere cosi piccina.
 724;2596;8;;Drop it.;Lascia perdere.
 740;2612;6;;Isara!;Isara!
 756;2624;4;;Huh?;Cosa?
@@ -31,13 +31,13 @@
 932;2888;68;;Right... well... we can't just leave her here!&What are we gonna do?;Giusto... beh... non possiamo lasciarla qui! Cosa faremo?
 948;2964;42;;There are a lot of Imperials out there Is.;Ci sono un sacco di Imperiali l= fuori, Is.
 964;3012;64;;It's only a matter of time before they take over&the Mill Plaza.;E' solo questione di tempo prima che prendano il controllo&di Mill Plaza.
-980;3084;35;;Welks, listen, the barn out back...;Welks, ascolta, il fienile l= fuori...
+980;3084;35;;Welks, listen, the barn out back...;Welks, ascolta, il fienile sul retro...
 996;3124;14;;What about it?;Che ne dici?
 1012;3144;81;;Our fathers have left us something,&something that might get us out of this mess.;I nostri padri ci hanno lasciato qualcosa, qualcosa che&potrebbe tirarci fuori da questo pasticcio.
 1028;3232;11;;Dad's tank!;Il carro armato di pap=!
 1044;3248;38;;Whoa, I can't believe it's still here.;Wow, non ci posso credere che sia ancora qui.
 1060;3292;99;;And it's one-of-a-kind. Here it is, the Edelweiss.&Theimer built it especially for General Gunther.;Ed > un pezzo unico. Eccolo, l'Edelweiss.&Theimer lo&costrui appositamente per il generale Gunther.
-1076;3396;30;;Yeah, and it worked great too.;Si, e ha funzionato benissimo.
+1076;3396;30;;Yeah, and it worked great too.;Gi=, e funzionava anche alla grande.
 1092;3432;43;;So, it's just been parked here in the barn?;Quindi > rimasta parcheggiata qui nel fienile?
 1108;3480;79;;I wanted to make sure it would still operate, you know,&in case of emergencies.;Volevo essere sicuro che funzionasse ancora, sai, in caso&di emergenza.
 1124;3564;56;;I enrolled in a maintenance class given by the military.;Mi sono iscritto a un corso di manutenzione tenuto&dall'esercito.
@@ -45,7 +45,7 @@
 1156;3684;50;;Well that's great, but that's only a class, Isara.;Bene, > fantastico, ma era solo un corso, Isara.
 1172;3740;58;;It really didn't need much, hardly any alterations at all.;In realt= non aveva bisogno di grandi modifiche, quasi&nessuna.
 1188;3804;92;;I just fitted it with a new turbine engine.&It really improves on the power-to-weight ratio.;L'ho appena dotata di un nuovo motore a turbina e il&rapporto peso/potenza > decisamente migliorato.
-1204;3904;29;;The Edelweiss is fieldworthy.;L'Edelweiss > pronto per il campo di battaglia.
+1204;3904;29;;The Edelweiss is fieldworthy.;L'Edelweiss > pronto a scendere in battaglia.
 1220;3940;67;;Its firepower and mobility are more than&a match for recent models.;La sua potenza di fuoco e la sua mobilit= sono piu' che&all'altezza dei modelli piu' recenti.
 1236;4012;40;;Well assuming it does work, what's next?;Bene, supponendo che funzioni, cosa succeder= ora?
 1252;4060;63;;Alright.&Welks, you took the armored vehicle course didn't you?;Bene.&Welks, hai seguito il corso per veicoli blindati,&vero?
@@ -57,9 +57,9 @@
 1348;4384;16;;Engaging engine.;Avvio il motore.
 1364;4408;38;;The Edelweiss is ready for deployment.;L'Edelweiss > pronta per essere impiegata.
 1380;4452;84;;Alicia could still be out there dodging bullets,&buying time for people to evacuate.;Alicia potrebbe essere ancora l= fuori a schivare i proiett-&li e a guadagnare tempo per l'evacuazione della gente.
-1396;4544;64;;Here's the plan.&We're gonna pick up Alicia and get out of town.;Ecco il piano: andiamo a prendere Alicia e ce ne andiamo&dalla citt=.
+1396;4544;64;;Here's the plan.&We're gonna pick up Alicia and get out of town.;Il piano > questo.&Andremo a prendere Alicia e ce ne andremo&dalla citt=.
 1412;4616;21;;All right, Edelweiss.;Va bene, Edelweiss.
-1428;4644;9;;Move out!;Andiamo via!
+1428;4644;9;;Move out!;All'attacco!
 1444;4660;75;;Two hours after the first shot was fired,&Bruhl was under imperial control.;Due ore dopo lo sparo del primo colpo, Bruhl era sotto il&controllo imperiale.
 1460;4740;0;;Though a mere skirmish by Empire standards, the raid on &Bruhl would mark Welkin Gunther's first taste of battle. &And begin his rise to a Gallian hero.	;Nonostante la scaramuccia, il raid su Bruhl fu il primo& assaggio di battaglia per Welkin Gunther.&E inizia la ascesa a un eroe galliano.
 1476;4900;9;;Alicia...;Alicia...
