@@ -1,6 +1,6 @@
 424;1828;79;;Heh heh heh... Now, dear Gallians,&flee or be crushed underfoot of the Batomys!;Heh heh heh... Ora, cari Galliani,&fuggite o sarete schiacciati dai piedi dei Batomys!
-440;1912;91;;Your Grace, I will eliminate the forces east of the temple,&then return to provide support.;Vostra Grazia, eliminero' le forze a est&del tempio e poi tornero' per fornire supporto.
-456;2008;91;;Your Grace, I will eliminate the forces east of the temple,&then return to provide support.;Vostra Grazia, eliminero' le forze a est&del tempio e poi tornero' per fornire supporto.
+440;1912;91;;Your Grace, I will eliminate the forces east of the temple,&then return to provide support.;Vostra Grazia, eliminero' le forze a est&del tempio, poi tornero' a fornire supporto.
+456;2008;91;;Your Grace, I will eliminate the forces east of the temple,&then return to provide support.;Vostra Grazia, eliminero' le forze a est&del tempio, poi tornero' a fornire supporto.
 472;2104;58;;Very well, though I doubt I shall require your assistance.;Molto bene, anche se dubito che avro' bisogno del tuo aiuto.
 488;2168;58;;Very well, though I doubt I shall require your assistance.;Molto bene, anche se dubito che avro' bisogno del tuo aiuto.
 504;2232;57;;The Batomys shall rest atop their riven camp before long.;Tra non molto i Batomys riposeranno in cima al loro accampamento devastato.
@@ -20,7 +20,7 @@
 728;3204;68;;Okay. We've got to take out the guns,&and get troops onto that tank!;Okay. Dobbiamo togliere le armi&e mandare le truppe su quel carro armato!
 744;3280;66;;Heh heh heh heh heh heh heh...&Capturing a camp is for the feeble.;Heh heh heh heh heh heh heh...&Conquistare un accampamento > da deboli.
 760;3352;50;;A needless bother when it can be crushed outright!;Un fastidio inutile quando puo' essere distrutto all'istante!
-776;3408;42;;Grr...&He's just gonna mow our camps down!;Grr...&Sta per falciare i nostri accampamenti!
+776;3408;42;;Grr...&He's just gonna mow our camps down!;Grr...&Falcer= tutti i nostri accampamenti!
 792;3456;78;;Keep your head, Lieutenant.&That desert is covered by parts of standing ruins.;Mantenga la calma, tenente.&Quel deserto > ricoperto da parti di rovine ancora in piedi.
 808;3540;78;;Keep your head, Lieutenant.&That desert is covered by parts of standing ruins.;Mantenga la calma, tenente.&Quel deserto > ricoperto da parti di rovine ancora in piedi.
 824;3624;84;;If you shell unstable walls,&fragments may fall and block the enemy's tank progress.;Se colpisci muri instabili,&i frammenti potrebbero cadere e bloccare l'avanzata del carro armato nemico.
@@ -53,15 +53,15 @@
 1256;5260;79;;Selvaria, plans for the Marmota must be&adjusted to account for these failures.;Selvaria, i piani per la Marmota devono&essere modificati per tenere conto di questi fallimenti.
 1272;5344;73;;In due time, Grace! You're in danger here.&My men will see you to safety.;A tempo debito, Grace! Qui sei in pericolo.&I miei uomini ti porteranno in salvo.
 1288;5424;40;;Yes!&We managed to beat that thing back!;Si!&Siamo riusciti a respingere quella cosa!
-1304;5472;90;;Nice work out there, Lieutenant!&I've sent the rest of the eastern team to join you there.;Ottimo lavoro, tenente!&Ho mandato il resto della squadra orientale ad unirsi a voi.
-1320;5568;90;;Nice work out there, Lieutenant!&I've sent the rest of the eastern team to join you there.;Ottimo lavoro, tenente!&Ho mandato il resto della squadra orientale ad unirsi a voi.
+1304;5472;90;;Nice work out there, Lieutenant!&I've sent the rest of the eastern team to join you there.;Ottimo lavoro, tenente!&Ho mandato il resto della squadra est ad unirsi a voi.
+1320;5568;90;;Nice work out there, Lieutenant!&I've sent the rest of the eastern team to join you there.;Ottimo lavoro, tenente!&Ho mandato il resto della squadra est ad unirsi a voi.
 1336;5664;46;;Welks, the enemy forces have begun to retreat.;Welks, le forze nemiche hanno iniziato a ritirarsi.
 1352;5716;61;;Then it's our turn to advance!&Don't let Maximilian get away!;Allora tocca a noi avanzare!&Non lasciamo che Maximilian scappi!
 1368;5784;43;;That leaves two radiators!&Keep it up, 7's!;Rimangono due radiatori!&Continuate cosi, 7!
 1384;5832;85;;Lieutenant, Squads 1 and 3 have suffered&heavy losses out east. I'm pulling them out.;Tenente, le squadre 1 e 3 hanno subito&pesanti perdite a est. Le sto ritirando.
 1400;5924;85;;Lieutenant, Squads 1 and 3 have suffered&heavy losses out east. I'm pulling them out.;Tenente, le squadre 1 e 3 hanno subito&pesanti perdite a est. Le sto ritirando.
-1416;6016;77;;Welkin... It's me, Faldio.&I'm sorry, but we couldn't do a thing against her.;Welkin... Sono io, Faldio.&Mi dispiace, ma non potevamo fare nulla contro di lei.
-1432;6100;77;;Welkin... It's me, Faldio.&I'm sorry, but we couldn't do a thing against her.;Welkin... Sono io, Faldio.&Mi dispiace, ma non potevamo fare nulla contro di lei.
+1416;6016;77;;Welkin... It's me, Faldio.&I'm sorry, but we couldn't do a thing against her.;Welkin... Sono io, Faldio.&Mi dispiace, ma non abbiamo potuto fare nulla contro di lei.
+1432;6100;77;;Welkin... It's me, Faldio.&I'm sorry, but we couldn't do a thing against her.;Welkin... Sono io, Faldio.&Mi dispiace, ma non abbiamo potuto fare nulla contro di lei.
 1448;6184;84;;She had a spiral lance and shield. They...&They were the arms of a Valkyria, Welkin.;Aveva una lancia a spirale e uno scudo.&Erano...Erano le armi di una Valkyria, Welkin.
 1464;6276;84;;She had a spiral lance and shield. They...&They were the arms of a Valkyria, Welkin.;Aveva una lancia a spirale e uno scudo.&Erano...Erano le armi di una Valkyria, Welkin.
 1480;6368;60;;It's likely her unit will be arriving there soon,&as backup.;E' probabile che la sua unit= arriver= presto,&come riserva.
