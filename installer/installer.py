@@ -64,8 +64,8 @@ YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
 VERSIONE = "Alpha-v1.0.1"
-ALT_SITE_NAME = "TBA"
-ALT_SITE_URL = "https://www.youtube.com/@zSavT"
+ALT_SITE_NAME = "Games Translator"
+ALT_SITE_URL = "https://www.gamestranslator.it/index.php?/file/931-valkyria-chronicles-patch-ita/"
 CREDITI = "Patch By SavT"
 LICENZA = """1) La presente patch va utilizzata esclusivamente sul  gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
