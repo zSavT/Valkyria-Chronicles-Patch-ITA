@@ -19,6 +19,7 @@
 - [INDICE](#indice)
 - [STRUTTURA DEI FILE](#struttura-dei-file)
   - [MTP](#mtp)
+  - [Modifica del font](#modifica-del-font)
   - [MXE](#mxe)
     - [COME CONVERTIRE I CSV NEI FILE MXE e MTP](#come-convertire-i-csv-nei-file-mxe-e-mtp)
   - [HTX - MLX - DDS](#htx---mlx---dds)
@@ -42,7 +43,7 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
 
 - __mtpa_adv_XX__, contiene i dialoghi presenti nelle cinematiche.
     - Limite massimo di caratteri: 120 (60 per riga)
-    - Eccezioni: Ci sono alcuni dialoghi che superano il limite dei 120 caratteri massimi, ma la singola riga non deve comunque superare i 60 caratteri. In questi casi, si segue la struttura del carattere a capo come nella stringa originale in inglese.
+    - Eccezioni: Ci sono alcuni dialoghi che superano il limite dei 120 caratteri massimi, ma la singola riga non deve comunque superare i 60 caratteri (Dove il 60° carattere è &). In questi casi, si segue la struttura del carattere a capo come nella stringa originale in inglese.
     - Carattere a capo: &
 - __mtpa_slg_XX__, contiene i dialoghi dei box presenti nelle battaglie.
     - Limite massimo di caratteri: 42/43
@@ -69,6 +70,24 @@ Nella cartella "_Valkyria Chronicles\data\resource\mtpa_" sono presenti la maggi
     - Limite massimo di caratteri: 59
     - Eccezione: I messaggi dei box tutorial come per i slg, i caratteri max sono 42/43.
     - Carattere a capo: &
+
+
+## Modifica del font
+
+Il font è stato modificato per supportare i caratteri accentati non disponibili nella versione originale del font. Qui di seguito la suddivisione attualmente presente (da eventualmente modificare in futuro):
+
+- `<` corrisponde a é (e acuta)
+- `>` corrisponde a è (e grave)
+- `=` corrisponde a à (a grave)
+
+I restanti caratteri accentati verrano gestiti come segue:
+
+- `i` (semplice) corrisponde a ì (i grave)
+- `o'` (o + apostrofo) corrisponde a ò (o grave)
+- `u'` (u + apostrofo) corrisponde a ù (u grave)
+- `I'` (I maiuscola + apostrofo) corrisponde a Ì (I grave maiuscola)
+- `E'` (E maiuscola + apostrofo) corrisponde a È (E grave maiuscola)
+
 
 ## MXE
 

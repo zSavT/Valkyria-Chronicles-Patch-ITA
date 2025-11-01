@@ -1,4 +1,4 @@
-640;2908;88;;Squad 7's suppression of the enemy camp on&the west bank gave us the foothold we needed.;La soppressione dell'accampamento nemico da parte della Squadra 7&la riva occidentale ci ha fornito il punto d'appoggio di cui avevamo bisogno.;
+640;2908;88;;Squad 7's suppression of the enemy camp on&the west bank gave us the foothold we needed.;La soppressione dell'accampamento nemico&sulla riva occidentale da parte della Squadra 7&ci ha fornito il punto d'appoggio di cui avevamo bisogno.;
 656;3004;90;;Now we'll join the army's Vasel Battalion in&Operation Cloudburst to take back the bridge.;Ora ci uniremo al battaglione Vasel dell'esercito&nell'operazione Cloudburst per riconquistare il ponte.;
 672;3100;87;;Militia forces will take the point, crossing the bridge&and attacking the eastern camp.;Le forze della milizia prenderanno il punto, attraversando&il ponte e attaccando l'accampamento orientale.;
 688;3192;67;;Captain, crossing that bridge means breaching&the enemy bridgehead.;Capitano, attraversare quel ponte significa violare la&testa di ponte nemica.;
@@ -11,15 +11,15 @@
 800;3712;36;;I'm not saying you're wrong, Faldio.;Non sto dicendo che ti sbagli, Faldio.;
 816;3756;68;;Breaching that bridgehead by ourselves is...&It's going to be tough.;Superare quella testa di ponte da soli >...&Sar= dura.;
 832;3832;60;;Captain Varrot, may I go observe the area&around the bridge?;Capitano Varrot, posso andare a osservare la zona attorno&al ponte?;
-848;3900;45;;Observe it? &I don't mind, but what do you...;Lo noti? A me non dispiace, ma cosa...;
-864;3952;7;;Welkin!;Bentornato!;
+848;3900;45;;Observe it? &I don't mind, but what do you...;Osservarla?&Per me va bene, ma cosa...;
+864;3952;7;;Welkin!;Welkin!;
 880;3964;31;;Sergeant Melchiott? What is it?;Sergente Melchiott? Che cos'>?;
 896;4000;40;;Oh, I... Sorry to interrupt the meeting.;Oh, io... Mi dispiace interrompere la riunione.;
 912;4048;72;;We're finished, it's fine. Now I assume&there's a reason for your visit?;Abbiamo finito, va bene. Ora suppongo che ci sia un motivo&per la tua visita?;
 928;4128;13;;Yes, Captain.;Si, capitano.;
-944;4148;85;;Welkin, ah, I mean, Lieutenant Gunther... the squad,&they're at each others' throats.;Bene, ah, voglio dire, il tenente Gunther... la squadra...&sono uno alla gola dell'altro.;Welkin, ah, je veux dire, Lieutenant Gunther... l'escouade,&il
+944;4148;85;;Welkin, ah, I mean, Lieutenant Gunther... the squad,&they're at each others' throats.;Welkin, ah, voglio dire, Tenente Gunther... la squadra...&si stanno sbranando a vicenda.;Welkin, ah, voglio dire, Tenente Gunther... la squadra...&si stanno sbranando a vicenda
 960;4240;5;;What?;Che cosa?;
-976;4252;59;;Please stop them, sir. &I tried to, but they... I couldn't.;Per favore, fermali, signore. & Ho provato a farlo, ma&loro... Non ci sono riuscito.;
+976;4252;59;;Please stop them, sir. &I tried to, but they... I couldn't.;Per favore, li fermi, signore. &Ci ho provato, ma&loro... Non ci sono riuscita.;
 992;4316;27;;You want me to break it up?;Vuoi che lo divida?;
 1008;4348;66;;I don't know... Maybe it'd be better to&just let them have it out.;Non lo so... Forse sarebbe meglio lasciarli semplicemente&sfogare.;
 1024;4420;49;;Let them have it out?&You can't just ignore them!;Lasciarli sfogare? Non puoi semplicemente ignorarli!;
@@ -31,12 +31,12 @@
 1120;4828;20;;H-Hey, I... Alicia?!;Ehi, io... Alicia?!;
 1136;4856;36;;Sounds like he's got his hands full.;Sembra che abbia le mani occupate.;
 1152;4900;35;;It's all part of growing as a team.;Tutto fa parte della crescita di una squadra.;
-1168;4940;8;;Hold on!;Aspettare!;
+1168;4940;8;;Hold on!;Aspettate!;
 1184;4956;27;;Okay, what's going on here?;Bene, cosa sta succedendo qui?;
 1200;4988;5;;Hmph.;Mmh.;
 1216;5000;35;;You really have to ask, Lieutenant?;Davvero ce lo chiede, tenente?;
 1232;5040;27;;It's either her or me, pal.;O lei o me, amico.;
-1248;5072;73;;Who let her in, anyway?&You really think I'm gonna work with a dark-hair?;Chi l'ha fatta entrare, comunque? Pensi davvero che&lavorerei con una mora?;
+1248;5072;73;;Who let her in, anyway?&You really think I'm gonna work with a dark-hair?;Chi l'ha fatta entrare, comunque? Pensi davvero che&lavorerei con una corvina?;
 1264;5152;62;;She'll blow us all up,&besides I can't stand the stink of her.;Ci far= saltare tutti in aria e poi non sopporto il suo&fetore.;
 1280;5220;88;;Her type's got a bad reputation and everybody knows it.&No Darcsens allowed. Ya hear me?;Il suo tipo ha una cattiva reputazione e tutti lo&sanno.&Non sono ammessi Darcsen. Mi hai sentito?;
 1296;5316;92;;Oh yes, I've heard everything you have to say.&But I'm still a human being, the same as you.;Oh si, ho sentito tutto quello che hai da dire. Ma sono&pur sempre un essere umano, come te.;
@@ -45,7 +45,7 @@
 1344;5572;23;;Stop it, that's enough.;Basta, basta.;
 1360;5600;14;;Okay boss-man.;Okay, capo.;
 1376;5620;74;;We won't fight alongside no Darcsen.&What about that can't you understand?;Non combatteremo al fianco di nessun Darcsen. Cosa non&riesci a capire?;
-1392;5700;74;;Another thing we ain't doing is taking orders from some&hotshot greenhorn.;Un'altra cosa che non faremo > prendere ordini da qualche&novellino.;
+1392;5700;74;;Another thing we ain't doing is taking orders from some&hotshot greenhorn.;Un'altra cosa che non faremo > prendere ordini da qualche&novellino che si d= arie.;
 1408;5780;41;;Alright fine. Now listen and listen good.;Va bene, bene. Ora ascolta e ascolta bene.;
 1424;5828;57;;I'll have that bridge back in Gallia's hands in 48 hours.;Entro 48 ore restituiro' quel ponte nelle mani di Gallia.;
 1440;5892;57;;Now, if my plan fails, which I doubt, then I'll resign...;Ora, se il mio piano fallisce, cosa di cui dubito, allora&mi dimettero'...;
@@ -53,10 +53,10 @@
 1472;5996;56;;But if my plan works, you'll take my orders and like it.;Ma se il mio piano funziona, accetterai i miei ordini e ti&piaceranno.;
 1488;6060;12;;Ha ha ha ha!;Ah ah ah ah!;
 1504;6080;44;;Your funeral, boss-man.&You sure about this?;Il tuo funerale, capo. Sei sicuro di questo?;
-1520;6132;9;;Yes I am.;Si, io sono.;
+1520;6132;9;;Yes I am.;Lo sono.;
 1536;6148;28;;But... wait a sec... Welkin?;Ma... aspetta un attimo... Welkin?;
 1552;6184;6;;......;......;
-1568;6196;7;;Welkin!;Bentornato!;
+1568;6196;7;;Welkin!;Welkin!;
 1584;6208;14;;Hm? What's up?;Hm? Che succede?;
 1600;6228;62;;What's up?! You just made an insane promise!&That's what's up!;Che succede?! Hai appena fatto una promessa folle! Ecco&cosa succede!;
 1616;6296;66;;I'm sorry, Welks, I shouldn't have argued...&This is all my fault.;Mi dispiace, Welks, non avrei dovuto discutere... E' tutta&colpa mia.;

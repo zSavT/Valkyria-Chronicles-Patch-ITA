@@ -1,7 +1,7 @@
 344;1428;65;;What do you mean we're deployin'?!&Alicia's been shot, remember?!;Cosa intendi quando dici che stiamo per partire?! E Alicia&> stata colpita, ricordi?!
 360;1500;83;;...An Imperial raiding party is approaching&via a long path around eastern Naggiar.;...Si sta avvicinando una squadra di razziatori imperiali&attraverso un lungo sentiero intorno a Naggiar orientale.
 376;1588;86;;If they manage to hit us in the flank in the&shape we're in now, things will get ugly.;Se dovessero riuscire a colpirci sul fianco, nella situazio-&e in cui siamo ora, la situazione si metterebbe male.
-392;1680;70;;Tch... It wouldn't kill the other side to show&a bit of consideration.;Tch... Non ucciderebbe l'altra parte se dimostrasse un po'&di riguardo.
+392;1680;70;;Tch... It wouldn't kill the other side to show&a bit of consideration.;Tch... Mostrare un po' di riguardo&non li ucciderebbe.
 408;1756;82;;The Naggiar battle hurt the militia just as&badly as the rest of the Gallian Army.;La battaglia di Naggiar danneggio' la milizia tanto quanto&il resto dell'esercito galliano.
 424;1844;77;;It pains me to send you back out there now,&but I need you to stop that raid.;Mi dispiace rimandarti l= fuori adesso, ma ho bisogno che&tu fermi quel raid.
 440;1928;86;;The enemy is approaching a refugee camp&housing evacuees from border towns like Bruhl.;Il nemico si sta avvicinando a un campo profughi che ospita-&gli sfollati provenienti da citt= di confine come Brhl.
@@ -14,11 +14,11 @@
 552;2408;24;;Oh, yes... Yes, Captain.;Oh, si... Si, Capitano.
 568;2440;87;;I know you're worried about her,&but times like this are when the squad needs you most.;So che sei preoccupato per lei, ma > proprio in momenti&come questo che la squadra ha piu' bisogno di te.
 584;2532;12;;Yes Captain.;Si, capitano.
-600;2552;55;;I look forward to a favorable report.&You're dismissed.;Attendo con ansia un resoconto favorevole.&Sei licenziato.
+600;2552;55;;I look forward to a favorable report.&You're dismissed.;Attendo con ansia un resoconto favorevole.&Potete andare.
 616;2612;6;;......;......
 632;2624;29;;Hey, boss... What's the plan?;Ehi, capo... Qual > il piano?
 648;2660;65;;Right, okay... Everybody, get yourselves ready.&I'll do the same.;Bene, okay... Preparatevi tutti. Faro' lo stesso.
-664;2732;43;;Welkin's taking this pretty hard, isn't he?;Welkin la sta prendendo parecchio sul serio, non > vero?
+664;2732;43;;Welkin's taking this pretty hard, isn't he?;elkin la sta prendendo piuttosto male, non > vero?
 680;2780;65;;I just hope he doesn't let that gloom slow&him down in the field.;Spero solo che non si lasci rallentare da questa tristezza&in campo.
 696;2852;26;;Alright, let's go do this.;Bene, andiamo a farlo.
 712;2884;65;;Everyone, your all safe now.&We've turned back the Imperial raid.;Ora siete tutti al sicuro. Abbiamo respinto l'incursione&imperiale.
@@ -29,7 +29,7 @@
 792;3168;13;;No problem...;Nessun problema...
 808;3188;51;;Ooh! It's a lion's paw! &That's my favorite flower!;Ooh! E' una zampa di leone! &Quello > il mio fiore&preferito!
 824;3244;72;;This girl from my orphanage told me about 'em.&She liked 'em a lot, too.;Me ne ha parlato questa ragazza del mio orfanotrofio.&Anche a lei sono piaciuti molto.
-840;3324;8;;Oh yeah?;O si?
+840;3324;8;;Oh yeah?;Oh si?
 856;3340;73;;Yeah! And she was really good at cooking.&I mean soups, fish, even bread!;Si! Ed era davvero brava a cucinare. E intendo zuppe,&pesce, persino il pane!
 872;3420;88;;Mmm, I wish I could eat her bread right now.&Good things always happened when she baked!;Mmm, vorrei poter mangiare il suo pane adesso. Quando&cucinava succedevano sempre cose belle!
 888;3516;24;;Lion's paw... and bread?;Zampa di leone... e pane?
@@ -40,7 +40,7 @@
 968;3740;63;;When they bloomed, she'd jump up and down,&cheering like crazy!;Quando sbocciavano, lei saltava su e giu' ed esultava come&una pazza!
 984;3808;33;;She did, huh? I didn't know that.;Davvero, eh? Non lo sapevo.
 1000;3848;73;;Um, hey! So do you know what lion's paw means&in the language of flowers?;Ehi, ehi! Allora sai cosa significa la zampa di leone nel&linguaggio dei fiori?
-1016;3928;41;;The language of... No, what does it mean?;La lingua di... No, cosa significa?
+1016;3928;41;;The language of... No, what does it mean?;Il linguaggio... No, cosa significa?
 1032;3976;41;;"It's supposed to mean ""unbending spirit!""";"Dovrebbe significare ""spirito inflessibile!"""
 1048;4024;86;;That's what Alicia told me the first day I&was at the orphanage. I was crying a lot...;Questo > quello che mi ha detto Alicia il primo giorno che&ero all'orfanotrofio. Piangevo molto...
 1064;4116;20;;Unbending... spirit.;Spirito... inflessibile.
@@ -58,7 +58,7 @@
 1256;4816;71;;Yeah, you owe us one, big time.&Be ready to pay up on that one someday.;Si, ci devi un grosso favore. E sii pronto a saldarlo un&giorno.
 1272;4892;17;;Ha ha ha... okay.;Ah ah ah... okay.
 1288;4916;32;;Then you're feeling better, huh?;Allora ti senti meglio, eh?
-1304;4956;40;;Yeah, I am. Alicia... She cheered me up.;Si, lo sono. Alicia... Mi ha tirato su il morale.
+1304;4956;40;;Yeah, I am. Alicia... She cheered me up.;Sì, mi sento meglio. Alicia... Mi ha tirato su il morale.
 1320;5004;16;;Alicia did, sir?;L'ha fatto Alicia, signore?
 1336;5028;25;;Yeah, from way back when.;Si, da molto tempo fa.
 1352;5060;66;;All this has helped me see just how&important she really is to me.;Tutto questo mi ha aiutato a capire quanto lei sia davvero&importante per me.

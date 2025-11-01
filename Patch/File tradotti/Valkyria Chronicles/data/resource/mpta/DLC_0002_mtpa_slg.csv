@@ -166,7 +166,7 @@
 14040;20884;4;;Load;Carico
 14120;20896;12;;Title Screen;Schermata del titolo
 14200;20916;44;;Retry the current battle from the beginning.;Riprova la battaglia attuale dall'inizio.
-14280;20968;54;;Retry the current battle from the unit position phase.;Riprova la battaglia in corso dalla fase di posizione&dell'unit=.
+14280;20968;54;;Retry the current battle from the unit position phase.;Riprova la battaglia in corso dalla fase di&schieramento dell'unit=.
 14360;21028;36;;Load Save Data from a previous save.;Carica i dati salvati da un salvataggio precedente.
 14440;21072;58;;Return to the Title Screen. Unsaved progress will be lost!;Ritorna alla schermata del titolo. I progressi non salvati&andranno persi!
 14520;21136;44;;Retry the current battle&from the beginning?;Riprovare la battaglia attuale dall'inizio?

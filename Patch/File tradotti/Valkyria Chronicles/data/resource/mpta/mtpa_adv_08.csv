@@ -1,8 +1,8 @@
-792;3668;116;;Having been driven back, the Empire retreated from Barious,&and Squad 7 began its return to the capital of Randgriz.;Dopo essere stato respinto, l'Impero si ritiro' da Barious&e la Squadra 7 inizio' il suo ritorno alla capitale Randgriz.
+792;3668;116;;Having been driven back, the Empire retreated from Barious,&and Squad 7 began its return to the capital of Randgriz.;Dopo essere stato respinto, l'Impero si ritiro' da Barious&e la Squadra 7 inizio' il suo ritorno&alla capitale Randgriz.
 808;3792;20;;I'm worried, boss...;Sono preoccupato, capo...
 824;3820;64;;The scouts were due back a long time ago.&Haven't heard a thing.;Gli esploratori sarebbero dovuti tornare molto tempo fa e&non abbiamo sentito nulla.
-840;3892;9;;Welkin...;Ben...
-856;3908;56;;We should look. The enemy could be closer than we think.;Dovremmo guardare. Il nemico potrebbe essere piu' vicino di&quanto pensiamo.
+840;3892;9;;Welkin...;Welkin...
+856;3908;56;;We should look. The enemy could be closer than we think.;Dovremmo dare un'occhiata. Il nemico potrebbe essere piu'&vicino di quanto pensiamo.
 872;3972;8;;Right...;Giusto...
 888;3988;3;;Mm?;Mm?
 904;3996;7;;Gwaugh!;Accidenti!
@@ -14,8 +14,8 @@
 1000;4068;6;;Aaugh!;Aa ...
 1016;4080;6;;Aaugh!;Aa ...
 1032;4092;6;;Aaugh!;Aa ...
-1048;4104;8;;Hold on!;Aspettare!
-1064;4120;6;;Welks!;Cavolo!
+1048;4104;8;;Hold on!;Aspetta!
+1064;4120;6;;Welks!;Welks!
 1080;4132;39;;Where are you going? Don't be an idiot!;Dove stai andando? Non fare l'idiota!
 1096;4176;43;;Who's gonna drive the tank if you get hurt?;Chi guider= il carro armato se ti fai male?
 1112;4224;38;;Largo, we've gotta move our butts now!;Largo, dobbiamo muovere il sedere adesso!
@@ -35,7 +35,7 @@
 1336;4700;85;;It's just a matter of time until they spot us here.&We should move as soon as we can.;E' solo questione di tempo prima che ci individuino qui.&Dovremmo muoverci il prima possibile.
 1352;4792;49;;Are you hurt anywhere?&Do you think you can walk?;Ti sei fatto male da qualche parte? Pensi di riuscire a&camminare?
 1368;4848;17;;I think I'm fine.;Penso di stare bene.
-1384;4872;62;;...Augh! Scratch that. &I think my ankle's sprained, actually.;...Augh! Cancella pure. E credo di essermi slogato la&caviglia, in realt=.
+1384;4872;62;;...Augh! Scratch that. &I think my ankle's sprained, actually.;...Augh! Anzi, no. Credo di essermi slogata la&caviglia, in realt=.
 1400;4940;50;;But I should be okay.&It's not too bad to walk on.;Ma dovrei stare bene. Non > poi cosi male camminarci sopra.
 1416;4996;58;;Sorry, I know it hurts but you gotta tough it out for now.;Mi dispiace, so che fa male, ma per ora devi resistere.
 1432;5060;10;;Of course.;Ovviamente.
@@ -44,8 +44,8 @@
 1480;5232;65;;How's your ankle holding up?&Sorry to make you walk so far on it.;Come sta la tua caviglia? Mi dispiace farti camminare cosi&tanto.
 1496;5304;34;;No, it's not too bad. Don't worry.;No, non > poi cosi male. Non preoccuparti.
 1512;5344;68;;That's good.&Still, let's get an herbal compress on it just in case.;Va bene. Comunque, per sicurezza, facciamo un impacco alle&erbe.
-1528;5420;47;;It just figures you'd know about herbs, Welkin.;Immagino che tu ne sappia di erbe, Welkin.
-1544;5472;73;;Heh, this here's called aloe severa.&It's a succulent in the lily family.;Ehi, questa qui si chiama aloe severa. E' una pianta&succulenta della famiglia delle liliacee.
+1528;5420;47;;It just figures you'd know about herbs, Welkin.;Me lo dovevo aspettare che ne sapessi di erbe, Welkin.
+1544;5472;73;;Heh, this here's called aloe severa.&It's a succulent in the lily family.;Heh, questa qui si chiama Aloe Vera. E' una pianta&succulenta della famiglia delle liliacee.
 1560;5552;71;;There's a jelly substance inside its leaves&that helps combat swelling.;All'interno delle sue foglie c'> una sostanza gelatinosa&che aiuta a combattere il gonfiore.
 1576;5628;52;;"Hee hee!&I should start calling you ""Doctor Nature.""";"Hee hee! Dovrei iniziare a chiamarti ""Dottor Natura""."
 1592;5688;49;;Very well, doc.&I entrust my ankle's care to you.;Molto bene, dottore. Affido a lei la cura della mia&caviglia.
@@ -69,15 +69,15 @@
 1880;6884;14;;I had no idea.;Non ne avevo idea.
 1896;6904;84;;But when he was out in the woods playing with me,&he was always so bright and happy.;Ma quando era fuori nel bosco a giocare con me, era sempre&cosi allegro e felice.
 1912;6996;87;;Maybe I fell in love with nature because it&always put the smile back on my dad's face.;Forse mi sono innamorato della natura perch< riportava&sempre il sorriso sul volto di mio padre.
-1928;7088;13;;Oh, Welkin...;Oh, cielo...
+1928;7088;13;;Oh, Welkin...;Oh, Welkin...
 1944;7108;25;;Alicia, someone's coming!;Alicia, sta arrivando qualcuno!
-1960;7140;7;;Freeze!;Congelare!
+1960;7140;7;;Freeze!;Fermi!
 1976;7152;14;;Augh... Nnh...;Augh... Nnh...
 1992;7172;20;;Ah! Welkin... What?!;Ah! Wellin... Cosa?!
 2008;7200;51;;He's badly wounded.&I'm surprised he can even walk.;E' gravemente ferito e mi sorprende che riesca anche solo a&camminare.
 2024;7256;13;;Help... me...;Aiutami...
-2040;7276;23;;Welkin... Do something!;Bentornato... fate qualcosa!
-2056;7304;8;;...Well?;...BENE?
+2040;7276;23;;Welkin... Do something!;Welkin... fa' qualcosa!
+2056;7304;8;;...Well?;...Bene?
 2072;7320;12;;It's no use.;E' inutile.
 2088;7340;25;;The wound's way too deep.;La ferita > troppo profonda.
 2104;7372;9;;It hurts.;Fa male.
@@ -144,7 +144,7 @@
 3080;10320;61;;Why then?&Explain to me the reasons you had to save his life.;Perch< allora? Spiegami i motivi per cui hai voluto&salvargli la vita.
 3096;10388;53;;He was delirious...&He was crying out for his mother.;Era delirante... e gridava chiamando sua madre.
 3112;10448;79;;We may be enemies in this war,&but we all have families waiting for us at home.;Potremmo essere nemici in questa guerra, ma abbiamo tutti&delle famiglie che ci aspettano a casa.
-3128;10532;96;;As a human being, I couldn't just sit by and watch a man in&pain without trying to do something.;Come essere umano, non potevo semplicemente stare seduto a guardare un uomo in&dolore senza cercare di fare qualcosa.
+3128;10532;96;;As a human being, I couldn't just sit by and watch a man in&pain without trying to do something.;Come essere umano, non potevo semplicemente stare seduto&a guardare un uomo in dolore senza cercare di fare qualcosa.
 3144;10636;50;;We always called him a mama's boy, sir, and now...;Lo chiamavamo sempre mammone, signore, e ora...
 3160;10692;53;;Sorry Fritz, I wish we could have been there for you.;Mi dispiace Fritz, avrei voluto che fossimo li per te.
 3176;10752;35;;And you, son? Do you have a family?;E tu, figliolo? Hai una famiglia?
