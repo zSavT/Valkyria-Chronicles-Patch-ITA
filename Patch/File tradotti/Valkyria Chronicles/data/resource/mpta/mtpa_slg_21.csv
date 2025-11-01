@@ -1,16 +1,16 @@
-200;708;84;;Rule one of hunting is to conserve your energy&while driving the prey into a corner.;La prima regola della caccia > quella di conservare le energie&mentre si spinge la preda all'angolo.
+200;708;84;;Rule one of hunting is to conserve your energy&while driving the prey into a corner.;La prima regola della caccia > conservare&le energie e spingere la preda all'angolo.
 216;800;76;;Enjoy wasting your strength struggling in vain&against my unassailable tank!;Divertiti a sprecare le tue forze lottando invano contro&il mio inattaccabile carro armato!
 232;884;80;;From the look of those defenses,&they really don't want us crossing that bridge.;A giudicare da quelle difese,&non vogliono proprio che attraversiamo quel ponte.
 248;972;44;;Yeah, they've set up a whole bunch of camps.;Si, hanno allestito un sacco di accampamenti.
 264;1024;69;;Plus, Jaeger's commanding them.&This one's not going to be easy, 7's.;Inoltre, Jaeger li comanda.&E questa non sar= una cosa facile, 7.
 280;1100;67;;Their attacks have damaged the plating.&Get on those repairs, fast!;I loro attacchi hanno danneggiato la placcatura.&Affrettatevi a ripararla!
 296;1172;20;;Sir! Leave it to me!;Signore! Lasci fare a me!
-312;1200;79;;Lieutenant, it appears the enemy camps have&facilities to repair Jaeger's tank.;Tenente, sembra che gli accampamenti nemici abbiano&le strutture per riparare il carro armato di Jaeger.
-328;1284;79;;Lieutenant, it appears the enemy camps have&facilities to repair Jaeger's tank.;Tenente, sembra che gli accampamenti nemici abbiano&le strutture per riparare il carro armato di Jaeger.
-344;1368;77;;Until you take the camps,&you won't be making any headway against that armor.;Finch< non conquisterete gli accampamenti,&non farete alcun progresso contro quell'armatura.
-360;1452;77;;Until you take the camps,&you won't be making any headway against that armor.;Finch< non conquisterete gli accampamenti,&non farete alcun progresso contro quell'armatura.
-376;1536;84;;It also seems they've requested backup troops.&Either way, those camps are bad news.;Sembra anche che abbiano richiesto truppe di rinforzo.&In ogni caso, quegli accampamenti sono una cattiva notizia.
-392;1628;84;;It also seems they've requested backup troops.&Either way, those camps are bad news.;Sembra anche che abbiano richiesto truppe di rinforzo.&In ogni caso, quegli accampamenti sono una cattiva notizia.
+312;1200;79;;Lieutenant, it appears the enemy camps have&facilities to repair Jaeger's tank.;Tenente, pare che i campi nemici abbiano&strutture per riparare il carro di Jaeger.
+328;1284;79;;Lieutenant, it appears the enemy camps have&facilities to repair Jaeger's tank.;Tenente, pare che i campi nemici abbiano&strutture per riparare il carro di Jaeger.
+344;1368;77;;Until you take the camps,&you won't be making any headway against that armor.;Finch< non prenderete i campi nemici,&non supererete quell'armatura.
+360;1452;77;;Until you take the camps,&you won't be making any headway against that armor.;Finch< non prenderete i campi nemici,&non supererete quell'armatura.
+376;1536;84;;It also seems they've requested backup troops.&Either way, those camps are bad news.;Pare abbiano richiesto anche dei rinforzi.&In ogni caso, quei campi sono un problema.
+392;1628;84;;It also seems they've requested backup troops.&Either way, those camps are bad news.;Pare abbiano richiesto anche dei rinforzi.&In ogni caso, quei campi sono un problema.
 408;1720;20;;Understood, Captain!;Capito, Capitano!
 424;1748;20;;Understood, Captain!;Capito, Capitano!
 440;1776;33;;Enemy camp successfully occupied!;Accampamento nemico occupato con successo!
@@ -24,9 +24,9 @@
 568;2276;56;;That leaves two more still to go.&Let's keep it up, 7's!;Ne mancano ancora due.&Continuiamo cosi, 7!
 584;2340;54;;There goes the third camp, sir! &That leaves just one!;Ecco che se ne va il terzo campo, signore!&E ne resta solo uno!
 600;2400;57;;All right, we're almost there. &We can do this, everyone!;Bene, ci siamo quasi.&E possiamo farcela, tutti quanti!
-616;2464;61;;We've done it, sir! &All Imperial camps are now in our hands!;Ce l'abbiamo fatta, signore!&Tutti gli accampamenti imperiali sono ora nelle nostre mani!
-632;2532;60;;All right,&now Jaeger can't repair damage done to that tank.;Bene,&ora Jaeger non puo' riparare i danni arrecati a quel carro armato.
+616;2464;61;;We've done it, sir! &All Imperial camps are now in our hands!;Ce l'abbiamo fatta, signore!&Tutti i campi Imperiali sono nostri!
+632;2532;60;;All right,&now Jaeger can't repair damage done to that tank.;Bene, ora Jaeger non puo' riparare&i danni fatti al suo carro armato.
 648;2600;64;;Now's our chance! &Everybody, concentrate fire on Jaeger's tank!;Adesso > il nostro momento!&Tutti quanti, concentrate il fuoco sul carro armato di Jaeger!
-664;2672;62;;Not half bad.&I'm impressed you got through this tank's armor.;Niente male.&Sono impressionato dal fatto che tu sia riuscito a superare la corazza di questo carro armato.
-680;2740;54;;I can see how you could've bested Gregor and Selvaria.;Capisco che avresti potuto avere la meglio su Gregor e Selvaria.
-696;2800;74;;But the guts of this tank are still untouched.&The real battle begins now!;Ma le viscere di questo carro armato sono ancora intatte.&La vera battaglia inizia ora!
+664;2672;62;;Not half bad.&I'm impressed you got through this tank's armor.;Niente male.&Sono colpito, hai superato la corazza di questo carro.
+680;2740;54;;I can see how you could've bested Gregor and Selvaria.;Capisco che avresti potuto avere&la meglio su Gregor e Selvaria.
+696;2800;74;;But the guts of this tank are still untouched.&The real battle begins now!;Ma il cuore di questo carro > ancora intatto.&La vera battaglia inizia ora!

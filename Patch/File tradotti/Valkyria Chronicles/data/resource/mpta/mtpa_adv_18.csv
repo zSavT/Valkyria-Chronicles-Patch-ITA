@@ -5,7 +5,7 @@
 1188;5572;74;;We'd expect no less from Europa's premier commander,&the Great Maximilian.;Non ci saremmo aspettati di meno dal principale comandante&di Europa, il Grande Maximilian.
 1204;5652;86;;To cross our sovereign border with such lightning speed...&your tactics are admirable.;Attraversare i nostri confini sovrani con una velocit=&cosi fulminea... e la vostra tattica > ammirevole.
 1220;5744;35;;And you are the one they call Borg.;E tu sei quello che chiamano Borg.
-1236;5784;115;;You attempt to ally yourself with the Federation. Then&you turn over a new leaf, and become the Empire's informant.;Tenti di allearti con la Federazione. Poi&volti pagina e&diventi l'informatore dell'Impero.
+1236;5784;115;;You attempt to ally yourself with the Federation. Then&you turn over a new leaf, and become the Empire's informant.;Tenti di allearti con la Federazione. Poi cambi bandiera e&diventi l'informatore dell'Impero.
 1252;5904;66;;It is all to ensure that Gallia remain a stable nation,&of course.;Tutto questo per garantire che la Gallia rimanga una&nazione stabile, ovviamente.
 1268;5976;77;;Ours is a small land, you know.&Our fate is made secure by such arrangements.;La nostra > una terra piccola, lo sai. E il nostro destino&> reso sicuro da tali accordi.
 1284;6060;107;;The sovereign state of Gallia will accept unconditional&surrender and become a vassal state to your empire.;Lo stato sovrano della Gallia accetter= la resa incondizion-&ta e diventer= uno stato vassallo del tuo impero.
@@ -20,10 +20,10 @@
 1428;6712;34;;The lance! How could you know...!?;La lancia! Come hai potuto saperlo...!?
 1444;6752;56;;My dear Princess Cordelia.&You shall serve as Our bride.;Mia cara Principessa Cordelia, sarai la nostra sposa.
 1460;6816;109;;The Valkyrian Bloodline, legacy of the great House Randgriz,&would be a fitting dowry for Us, King of Europa.;La stirpe Valkyrur, eredit= della grande Casa Randgriz,&sarebbe una dote degna di Noi, Re d'Europa.
-1476;6932;27;;The Valkyrian Bloodline...?;La stirpe delle Valchirie...?
-1492;6964;48;;I see.&You wish to ransom Europa with its power?;Capisco. Vuoi riscattare Europa con il tuo potere?
+1476;6932;27;;The Valkyrian Bloodline...?;La stirpe dei Valkyrur...?
+1492;6964;48;;I see.&You wish to ransom Europa with its power?;Capisco.&Vuoi dominare l'Europa con il suo potere?
 1508;7020;7;;Indeed!;Infatti!
-1524;7032;111;;The reverence and respect the people of this continent hold&for that ancient blood is undiminished to this day.;La riverenza e il rispetto del continente sono&dovuti al sangue antico rimasto intatto fino a oggi.
+1524;7032;111;;The reverence and respect the people of this continent hold&for that ancient blood is undiminished to this day.;La riverenza e il rispetto che la gente di questo continente&prova per quell'antico sangue sono intatti ancora oggi.
 1540;7148;6;;......;......
 1556;7160;85;;Well then, I hate to disappoint you. But this is... &the true face of House Randgriz.;Bene, allora mi dispiace deluderti. Ma questo >... &il&vero volto di Casa Randgriz.
 1572;7252;39;;Y...Your Highness, what are you doing?!;S...Vostra Altezza, cosa state facendo?!
@@ -45,7 +45,7 @@
 1828;8380;83;;With a perfect scapegoat,&the people quickly acquiesced to new rule. A common tale.;Con un capro espiatorio perfetto,&il popolo acconsenti&rapidamente al nuovo governo. Una storia comune.
 1844;8468;89;;A common tale that has caused me much grief.&To face my people deceptively has pained me.;Una storia comune che mi ha causato molto dolore. Affrontar-& il mio popolo in modo ingannevole mi ha addolorato.
 1860;8564;79;;Until the day came that I ran from that pain,&trading my free will for comfort.;Finch< non arrivo' il giorno in cui fuggii da quel dolore,&barattando il mio libero arbitrio con la comodit=.
-1876;8648;89;;Were it not for a single officer's words,&I would no doubt still be lost in that conceit.;Se non fosse stato per le parole di un singolo ufficiale,&senza dubbio sarei ancora perso in questa presunzione.
+1876;8648;89;;Were it not for a single officer's words,&I would no doubt still be lost in that conceit.;Se non fosse stato per le parole di un singolo ufficiale,&senza dubbio sarei ancora persa in questa presunzione.
 1892;8744;70;;I am bound by neither fate nor duty to obey&the false blood within me.;Non sono vincolato n< dal fato n< dal dovere a obbedire al&falso sangue dentro di me.
 1908;8820;68;;I live by my own will.&I live for the sake of Gallia and its people.;Vivo secondo la mia volont= e vivo per il bene della&Gallia e del suo popolo.
 1924;8896;35;;This, and this alone is my calling.;Questa, e solo questa, > la mia vocazione.
@@ -56,7 +56,7 @@
 2004;9052;14;;Heh heh heh...;Eh eh eh...
 2020;9072;75;;What delightful barbarism.&Do all Gallian brides share your lust for blood?;Quale deliziosa barbarie! Tutte le spose galliche&condividono la tua brama di sangue?
 2036;9152;10;;N-Nngh...!;N-Nngh...!
-2052;9168;8;;Rnngh...;Dai...
+2052;9168;8;;Rnngh...;Rnngh...
 2068;9184;5;;Hmph!;Mah!
 2084;9196;5;;Augh!;Ahia!
 2100;9208;80;;If you desire safety for your people,&it would behoove you to obey me, Highness.;Se desiderate la sicurezza del vostro popolo, vi&converrebbe obbedirmi, Altezza.
@@ -76,13 +76,13 @@
 2324;9980;18;;H-Hey! Talk to me!;Ehi! Parlami!
 2340;10004;10;;I'm sorry.;Mi dispiace.
 2356;10020;33;;Gwuargh! Nnrgh... L-Let go of...!;Gwuargh! Nnrgh... L-Lascia andare...!
-2372;10060;30;;Haugh... huff...&Forgive me...;Haugh... sbuffa... e perdonami...
+2372;10060;30;;Haugh... huff...&Forgive me...;Haugh... huff...&Perdonami...
 2388;10096;53;;I've got to get to Randgriz.&I just hope I'm in time!;Devo arrivare a Randgriz e spero solo di arrivare in tempo!
 2404;10156;80;;We're drawing close to Randgriz now.&As for our plan of attack once we arrive...;Ci stiamo avvicinando a Randgriz. Per quanto riguarda il&nostro piano d'attacco una volta arrivati...
 2420;10244;84;;Focus your attacks on the spot damaged by&Sergeant Melchiott in the previous battle.;Concentra i tuoi attacchi sul punto danneggiato dal&sergente Melchiott nella battaglia precedente.
-2436;10336;88;;Exploit that, gain access to the interior,&and destroy the dreadnought's engine. Follow?;Sfruttalo, accedi all'interno e distruggi il motore della&corazzata. Segui?
+2436;10336;88;;Exploit that, gain access to the interior,&and destroy the dreadnought's engine. Follow?;Sfruttalo, accedi all'interno e distruggi il motore della&corazzata. Chiaro?
 2452;10432;13;;Yes, Captain!;Si, Capitano!
-2468;10452;59;;I'm confident you can do this, soldiers.&You are dismissed.;Sono sicuro che potete farcela, soldati. Siete congedati.
+2468;10452;59;;I'm confident you can do this, soldiers.&You are dismissed.;Sono sicuro che potete farcela, soldati. Potete andare.
 2484;10516;27;;...Quite a risky operation.;...Un'operazione piuttosto rischiosa.
 2500;10548;79;;I know. I'm worried about morale if everyone&feels like it's a suicide mission.;Lo so. Mi preoccupa il morale se tutti&si sentono come se&fosse una missione suicida.
 2516;10632;58;;We're used to your crazy missions by now.&Aren't we, guys?;Ormai siamo abituati alle vostre folli missioni, non >&vero, ragazzi?
@@ -94,7 +94,7 @@
 2612;10992;25;;Words fail me. Thank you.;Le parole mi mancano. Grazie.
 2628;11024;41;;All right, everybody get ready to deploy!;Bene, tutti pronti per la partenza!
 2644;11072;30;;Almost show time, huh, Welkin?;Lo spettacolo > quasi iniziato, eh, Welkin?
-2660;11108;83;;Militia Rides Into Randgriz Showdown!&Mind if I put you all's story on the radio?;La milizia si lancia nello scontro con i Randgriz! Vi&dispiace se vi racconto la storia alla radio?
+2660;11108;83;;Militia Rides Into Randgriz Showdown!&Mind if I put you all's story on the radio?;La milizia cavalca nella resa dei conti di Randgriz!&Vi dispiace se metto la vostra storia alla radio?
 2676;11196;39;;I'm afraid I can't go help you fight...;Temo di non poterti aiutare a combattere...
 2692;11240;78;;But I'd like to do what I can to stand by you.&As ace journalist, Irene Ellet!;Ma vorrei fare tutto il possibile per starti accanto, come&giornalista provetta, Irene Ellet!
 2708;11324;78;;Okay, why not? Our activities are hardly a&secret to the Empire at this point.;Okay, perch< no? Le nostre attivit= non sono certo&a&secret per l'Impero a questo punto.
@@ -144,7 +144,7 @@
 3412;13908;57;;Look out, 7's! Clear the Marmota's forward path!&Move it!;Attenti, 7! Liberate la strada in avanti della&Marmota!&Muovetevi!
 3428;13972;82;;The Gallian militia is fanned out ahead of us in a line,&sir. Range, 4,000 meters!;La milizia galliana > schierata a ventaglio davanti a noi&in fila, signore. Raggio d'azione: 4.000 metri!
 3444;14060;115;;They say that in antiquity the Valkyrur called upon Valkof's&light to crush and subjugate the entire Darcsen tribe.;Si dice che nell'antichit= il Valkyrur invocasse Valkof&luce per schiacciare e soggiogare l'intera tribu' Darcsen.
-3460;14180;117;;The greatest weapon of all time, fashioned into something as&pedestrian as a castle tower. How could they have known?;La piu' grande arma di tutti i tempi, trasformata in&qualcosa di ordinario come una torre di castello. Chi lo sapeva?
+3460;14180;117;;The greatest weapon of all time, fashioned into something as&pedestrian as a castle tower. How could they have known?;La piu' grande arma di tutti i tempi, trasformata in&qualcosa di banale come una torre di castello.Chi lo sapeva?
 3476;14304;103;;And now it awakens, shouldered by the Marmota&We have engineered to bear it. A leviathan upon the land.;E ora si risveglia, sulle spalle del Marmota&Noi abbiamo&progettato per sopportarlo. Un leviatano sulla terra.
 3492;14412;101;;Now, know the futility of your struggles!&Bow before the terrible light that once scorched the earth.;Ora, riconosci l'inutilit= delle tue lotte! Inchinati&davanti alla luce terribile che un tempo brucio' la terra.
 3508;14520;86;;The Marmota's fired an unidentified beam of light!&Squads 4 and 5 have been wiped out!;I Marmota hanno sparato un raggio di luce non&identificato! Le squadre 4 e 5 sono state annientate!
@@ -161,7 +161,7 @@
 3684;15316;60;;As you will observe, their powers exceed even the originals.;Come potrete osservare, i loro poteri superano persino&quelli degli originali.
 3700;15384;10;;Stop this!;Basta!
 3716;15400;49;;Haven't enough men died? &Why are you doing this?;Non sono morti abbastanza uomini? E perch< fate questo?
-3732;15456;93;;Why, We fight for Our dream. Do you not think that reason&enough? So many have died for less.;Perch<, noi combattiamo per il nostro sogno. Non pensi che la ragione&abbastanza? Tanti sono morti per molto meno.
+3732;15456;93;;Why, We fight for Our dream. Do you not think that reason&enough? So many have died for less.;Perch<, noi combattiamo per il nostro sogno. Non pensi che&la ragione abbastanza? Tanti sono morti per molto meno.
 3748;15556;57;;Besides, We must...&Rightful vengeance must be meted out.;Inoltre, dobbiamo...&La giusta vendetta deve essere&inflitta.
 3764;15620;13;;What is this?;Cos'> questo?
 3780;15640;100;;We were born an Imperial prince, but Our mother was of low&station. For this, Our father shunned Us.;Siamo nati principi imperiali, ma nostra madre era di&bassa&stanza. Per questo, nostro padre ci ha evitati.
@@ -240,7 +240,7 @@
 4948;18808;9;;Alicia...;Alicia...
 4964;18824;0;;;
 4980;18832;11;;Comin' bro!;Arrivo, amico!
-4996;18848;9;;Welkin...;Ben...
+4996;18848;9;;Welkin...;Welkin...
 5012;18864;5;;Hmmm?;Che ne dici?
 5028;18876;0;;;
 5044;18884;5;;Look!;Aspetto!

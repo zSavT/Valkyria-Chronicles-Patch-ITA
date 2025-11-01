@@ -1,20 +1,20 @@
 340;1408;13;;Oh, Alicia...;Oh, Alicia...
 356;1428;65;;They said it missed her organs,&but she's still out cold, huh...?;Hanno detto che non ha colpito gli organi, ma > ancora&svenuta, eh...?
 372;1500;69;;C'mon, boss.&There ain't nothin' we can do for her cooped up in here.;Dai, capo. Non c'> niente che possiamo fare per lei,&rinchiusa qui dentro.
-388;1576;81;;We really got our hands full,&keepin' those Imps from crashin' down on top of us.;Abbiamo davvero molto da fare e dobbiamo impedire a quegli&Imp di schiantarsi su di noi.
+388;1576;81;;We really got our hands full,&keepin' those Imps from crashin' down on top of us.;Siamo giá oberati, cercando di impedire a quegli Imp&di piombarci addosso.
 404;1664;49;;Yeah... You're right.&We'll be back soon, Alicia.;Si... Hai ragione. Torneremo presto, Alicia.
 420;1720;42;;Lieutenant Gunther... Might I have a word?;Tenente Gunther... Posso parlarle?
 436;1768;21;;Hmm? Sure, what's up?;Mmm? Certo, come va?
 452;1796;63;;Well, it's...&I'd feel more comfortable if we could talk alone.;Beh, >...&Mi sentirei piu' a mio agio se potessimo parlare&da soli.
 468;1864;44;;Right. I'll head on back to the squad, boss.;Giusto. Torno alla squadra, capo.
-484;1916;47;;Thanks, Largo. &Get everyone ready to move out.;Grazie, Largo. Prepara tutti per il trasloco.
+484;1916;47;;Thanks, Largo. &Get everyone ready to move out.;Grazie, Largo.&Prepara tutti a muoversi.
 500;1968;61;;I'm sorry to keep you.&I know you've got a squad to run here.;Mi dispiace trattenerti e so che hai una squadra da&gestire qui.
 516;2036;22;;It's fine. What is it?;Va bene. Che cos'>?
 532;2064;82;;Well, I removed the bullet from Alicia's body,&but when I took a look at it, it...;Beh, ho estratto il proiettile dal corpo di Alicia, ma&quando gli ho dato un'occhiata,...
 548;2152;85;;It's... The bullet wasn't of Imperial make.&It was a Gallian sniper rifle round, sir.;E'... Il proiettile non era di fabbricazione imperiale. Era&un proiettile da cecchino Gallian, signore.
 564;2244;9;;Wh-What?!;C-Cosa?!
-580;2260;80;;And not just a normal round, either.&It's part of a new series still in testing.;E non si tratta di un round qualunque. Fa parte di una&nuova serie ancora in fase di test.
-596;2348;70;;So you're saying...&You think Alicia was shot by someone on our side?!;Quindi stai dicendo...e pensi che Alicia sia stata uccisa&da qualcuno dalla nostra parte?!
+580;2260;80;;And not just a normal round, either.&It's part of a new series still in testing.;E non un proiettile qualunque. Fa parte di una&nuova serie ancora in fase di test.
+596;2348;70;;So you're saying...&You think Alicia was shot by someone on our side?!;Quindi stai dicendo che...sia stata colpita&da qualcuno dalla nostra parte?!
 612;2424;74;;I can't be completely sure, but...&I believe it's a very real possibility.;Non ne sono completamente sicuro, ma... credo che sia una&possibilit= molto concreta.
 628;2504;83;;But, why? What would anyone stand to gain&from shooting someone in their own camp?!;Ma perch<? Cosa ci guadagnerebbe qualcuno sparando a&qualcuno nel proprio campo?!
 644;2592;74;;Augh, those incompetents!&Why are they letting the Empire have their way?!;Augh, quegli incompetenti! Perch< lasciano che l'Impero&faccia quello che vuole?!
@@ -24,8 +24,8 @@
 708;2864;63;;If we pull out now,&how will I explain this to the higher-ups?!;Se ci ritiriamo adesso, come spieghero' questo ai piani&alti?!
 724;2932;79;;Tomorrow at noon we march on to the Empire again!&Every soldier we have fights!;Domani a mezzogiorno torneremo a marciare verso l'Impero!&Ogni nostro soldato combatte!
 740;3016;8;;General!;Generale!
-756;3032;43;;Know your place, Varrot.&You are dismissed.;Stai al tuo posto, Varrot, e sei congedato.
-772;3080;6;;Rgh...;Esatto...
+756;3032;43;;Know your place, Varrot.&You are dismissed.;Stai al tuo posto, Varrot&Sei congedato.
+772;3080;6;;Rgh...;Grr...
 788;3092;76;;This is hopeless. We'll lose the whole army.&Isn't there...? What can we do?;Questa > una cosa senza speranza. Perderemo l'intero&esercito.&Non c'>...? Cosa possiamo fare?
 804;3176;17;;Awaken, Valkyria.;Risvegliati, Valkyria.
 820;3200;57;;Your foe aims to rob this land of peace...&Kill them all!;Il tuo nemico vuole rubare la pace a questa terra... e&ucciderli tutti!
@@ -36,22 +36,22 @@
 900;3412;37;;Roar (responding to Selvaria's words);Ruggito (rispondendo alle parole di Selvaria)
 916;3456;37;;Roar (responding to Selvaria's words);Ruggito (rispondendo alle parole di Selvaria)
 932;3500;37;;Roar (responding to Selvaria's words);Ruggito (rispondendo alle parole di Selvaria)
-948;3544;8;;G-gah...;Cavolo...
-964;3560;16;;Wait a minute...;Apetta un minuto...
+948;3544;8;;G-gah...;Gyaaaugh!
+964;3560;16;;Wait a minute...;Aspetta un minuto...
 980;3584;19;;I don't believe it.;Non ci credo.
 996;3608;28;;No! She can't be a Valkyria!;No! Non puo' essere una Valkyria!
 1012;3644;30;;Another scion to the Valkyrur?;Un altro discendente dei Valkyrur?
 1028;3680;31;;This world has no need for two.;Questo mondo non ha bisogno di due.
-1044;3716;8;;Get out!;Uscire!
+1044;3716;8;;Get out!;Vattene!
 1060;3732;10;;Rraaaaugh!;Rraaaaugh!
 1076;3748;6;;Augh?!;Che schifo?!
 1092;3760;5;;Augh!;Ahia!
 1108;3772;6;;Haagh!;Ahah!
-1124;3784;9;;Gyaaaugh!;Cavolo!
+1124;3784;9;;Gyaaaugh!;Gyaaaugh!
 1140;3800;16;;This can't be...;Questo non puo' essere...
-1156;3824;7;;Alicia!;Ciao Alicia!
+1156;3824;7;;Alicia!;Alicia!
 1172;3836;15;;Medic! Medic!!!;Medico! Medico!!!
-1188;3856;15;;What happened?!;Quello che > successo?!
+1188;3856;15;;What happened?!;Cosa > successo?!
 1204;3876;72;;It looks like Alicia's passed out. &Can you get her back to base for me?;Sembra che Alicia sia svenuta. Puoi riportarla alla base&per me?
 1220;3956;9;;Yes, sir!;Si, signore!
 1236;3972;13;;Wh-What now?!;C-Cosa adesso?!
@@ -59,9 +59,9 @@
 1268;4084;85;;It made military history not only with its&ferocity, but with the duel that ended it.;Ha fatto la storia militare non solo per la sua ferocia,&ma anche per il duello che gli ha posto fine.
 1284;4176;127;;"The Imperial army then fell to retreat,&while Gallia's grasp on victory tightened.&&       Irene Koller, ""On the Gallian Front""";"L'esercito imperiale si ritiro' quindi,&mentre la presa della Gallia sulla vittoria si rafforzava.&&       Irene Koller, ""On the Gallian Front"""
 1300;4308;27;;Alicia! Are you all right?!;Alicia! Stai bene?!
-1316;4340;9;;Welkin...;Ben...
+1316;4340;9;;Welkin...;Welkin...
 1332;4356;54;;I'm... What happened?&I can't remember... What did...?;Io sono... Cosa > successo? Non ricordo... Cosa >&successo...?
-1348;4416;63;;I was shot, wasn't I? &But here I am, alive and fully healed...;Mi hanno sparato, non > vero? E invece eccomi qui, vivo e&completamente guarito...
+1348;4416;63;;I was shot, wasn't I? &But here I am, alive and fully healed...;Mi hanno sparato, non > vero? E invece eccomi qui, viva e&completamente guarita...
 1364;4484;77;;And it's like... Everyone looks at me differently now...&Like they're scared.;Ed > come se... Ora tutti mi guardano in modo diverso... e&come se fossero spaventati.
 1380;4568;61;;Welkin, did... Has something happened to me?&Tell me. Please!;Welkin, did... Mi > successo qualcosa?&Dimmi. Per favore!
 1396;4636;9;;Alicia...;Alicia...

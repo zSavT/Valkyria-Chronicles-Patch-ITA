@@ -6,8 +6,8 @@
 1232;14896;11;;Destination;Destinazione
 1312;14912;6;;System;Sistema
 1392;14924;21;;End the player phase.;Termina la fase del giocatore.
-1472;14952;30;;View data on combat personnel.;Visualizza i dati sul personale combattente.
-1552;14988;49;;View the battle's victory and failure conditions.;Visualizza le condizioni di vittoria e fallimento della battaglia.
+1472;14952;30;;View data on combat personnel.;Visualizza i dati delle tue unit=.
+1552;14988;49;;View the battle's victory and failure conditions.;Mostra condizioni di vittoria e sconfitta.
 1632;15044;21;;Select a destination.;Seleziona una destinazione.
 1712;15072;48;;Change game settings or save/load game progress.;Modifica le impostazioni di gioco o salva/carica i progressi di gioco.
 1792;15128;22;;End the current phase?;Terminare la fase attuale?
@@ -109,7 +109,7 @@
 9472;17596;16;; from the enemy.; dal nemico.
 9552;17620;13;;Combat Report;Rapporto di combattimento
 9632;17640;12;;Unit Details;Dettagli dell'unit=
-9712;17660;9;;Equipment;Attrezzatura
+9712;17660;9;;Equipment;Equipaggiamento
 9792;17676;14;;Potential Info;Informazioni potenziali
 9872;17696;10;;Order Info;Informazioni sull'ordine
 9952;17712;0;;;
@@ -166,7 +166,7 @@
 14032;20708;4;;Load;Carico
 14112;20720;12;;Title Screen;Schermata del titolo
 14192;20740;44;;Retry the current battle from the beginning.;Riprova la battaglia attuale dall'inizio.
-14272;20792;54;;Retry the current battle from the unit position phase.;Riprova la battaglia in corso dalla fase di posizione dell'unit=.
+14272;20792;54;;Retry the current battle from the unit position phase.;Ricomincia dalla fase di schieramento.
 14352;20852;36;;Load Save Data from a previous save.;Carica i dati salvati da un salvataggio precedente.
 14432;20896;58;;Return to the Title Screen. Unsaved progress will be lost!;Ritorna alla schermata del titolo. I progressi non salvati andranno persi!
 14512;20960;44;;Retry the current battle&from the beginning?;Riprovare la battaglia attuale&dall'inizio?
