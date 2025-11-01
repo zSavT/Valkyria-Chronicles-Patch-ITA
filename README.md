@@ -9,6 +9,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Valkyria-Chronicles-Patch-ITA?logo=refinedgithub)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/main?display_timestamp=committer&logo=github&label=last%20commit%3A%20main)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/texture_replace?display_timestamp=committer&logo=github&label=last%20commit%3A%20texture_replace)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zSavT/Valkyria-Chronicles-Patch-ITA/correzioneTraduzioneFileMPTA?label=last%20commit%3A%20Correzione%20traduzione)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Valkyria-Chronicles-Patch-ITA/total)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
