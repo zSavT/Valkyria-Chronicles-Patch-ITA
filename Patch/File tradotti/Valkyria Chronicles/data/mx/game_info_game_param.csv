@@ -399,10 +399,10 @@
 191284;341802;;Brondel M2;M2 di Brondel
 192564;341813;;Brondel M20;M20 del Brondel
 191540;341825;;Brondel M3;M3 di Brondel
-94964;341836;;Bruhl Girl;Ragazza di Brühl
-94972;341836;;Bruhl Girl;Ragazza di Brühl
-94976;341836;;Bruhl Girl;Ragazza di Brühl
-94980;341836;;Bruhl Girl;Ragazza di Brühl
+94964;341836;;Bruhl Girl;Ragazza di Bruhl
+94972;341836;;Bruhl Girl;Ragazza di Bruhl
+94976;341836;;Bruhl Girl;Ragazza di Bruhl
+94980;341836;;Bruhl Girl;Ragazza di Bruhl
 86872;341847;;Bruhl_Guard_1;Guardia_Bruhl_1
 87416;341847;;Bruhl_Guard_1;Guardia_Bruhl_1
 119188;341861;;Bug in a Rug;Insetto in un tappeto
@@ -1055,16 +1055,16 @@
 113508;349335;;Ground;Terra
 131844;349342;;Gun Barrel Armor;Armatura della canna della pistola
 131848;349342;;Gun Barrel Armor;Armatura della canna della pistola
-84140;349359;;Gunther;Günther
-89528;349359;;Gunther;Günther
-90728;349359;;Gunther;Günther
-92328;349359;;Gunther;Günther
-92408;349359;;Gunther;Günther
-92648;349359;;Gunther;Günther
-92728;349359;;Gunther;Günther
-92808;349359;;Gunther;Günther
-100408;349359;;Gunther;Günther
-101288;349359;;Gunther;Günther
+84140;349359;;Gunther;Gunther
+89528;349359;;Gunther;Gunther
+90728;349359;;Gunther;Gunther
+92328;349359;;Gunther;Gunther
+92408;349359;;Gunther;Gunther
+92648;349359;;Gunther;Gunther
+92728;349359;;Gunther;Gunther
+92808;349359;;Gunther;Gunther
+100408;349359;;Gunther;Gunther
+101288;349359;;Gunther;Gunther
 166472;349367;;HAW1;HAW1
 166888;349372;;HCannonMapOut1;HCannonMapOut1
 170008;349387;;HIME;Lui

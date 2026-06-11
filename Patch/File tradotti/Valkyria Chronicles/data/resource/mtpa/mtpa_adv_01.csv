@@ -11,7 +11,7 @@
 608;2432;28;;Martha, look.&Welks is here.;Martha, guarda.&C'> Welks.
 624;2468;26;;Ohh, welcome back Welkies!;Ohh, ben tornato Welkies!
 640;2500;55;;You're still calling me that?&Martha, I'm 22 years old!;Mi chiami ancora cosi?&Martha, ho 22 anni!
-656;2560;80;;And more important, you shouldn't be running around!&Aren't you due any day now?;E, cosa piu' importante, non dovresti andartene in giro cosi!&Non dovrebbe nascere da un giorno all'altro?
+656;2560;80;;And more important, you shouldn't be running around!&Aren't you due any day now?;E, soprattutto, non dovresti andartene in giro cosi!&Non dovrebbe nascere da un giorno all'altro?
 672;2648;89;;Aww, a light jog won't hurt the little spud.&I should know, I've already had four of 'em!;Aww, una corsetta non far= male al piccoletto.&Dovrei saperlo, ne ho gi= avuti quattro!
 688;2744;32;;Hello there.&Um... is Welkin in?;Salve.&Ehm... c'> Welkin?
 704;2784;39;;Oh, hello Alicia.&What brings you here?;Oh, ciao Alicia.&Cosa ti porta qui?
@@ -22,7 +22,7 @@
 784;3120;65;;I baked it myself, so the flavor's guaranteed.&Best you ever had!;L'ho impastato io stessa, quindi il sapore > garantito.&Il migliore che tu abbia mai provato!
 800;3192;35;;Thanks.&Uh, do you want to come in?;Grazie.&Uh, vuoi entrare?
 816;3232;76;;Arrested AND shot at?&Hah.&You've had a busy day of it, haven't you Welkies?;Arrestato E PURE finito sotto il fuoco nemico?&Hah.&Hai avuto una giornata impegnativa, eh Welkies?
-832;3316;74;;And what a lovely lady you are for all that adventuring.&Good job Welkies!;E che signorina adorabile ti sei trovato per quest'avventura.&Ottimo lavoro, Welkies!
+832;3316;74;;And what a lovely lady you are for all that adventuring.&Good job Welkies!;E che bella ragazza hai trovato per quest'avventura.&Ottimo lavoro, Welkies!
 848;3396;5;;What?;Cosa?
 864;3408;68;;Wait, no! It's not like that.&Alicia just saved my skin, that's all.;Aspetta, no! Non > cosi.&Alicia mi ha solo salvato la pelle, tutto qui.
 880;3484;63;;He's right, we just met.&I'm not his girlfriend, just his hero.;Ha ragione, ci siamo appena incontrati.&Non sono la sua ragazza, solo il suo eroe.
@@ -30,7 +30,7 @@
 912;3604;66;;Oh, well I'm sure you will.&Be good to my Welkies here, won't you?;Oh, beh, sono sicura che ci riuscirai.&Sii buona con il mio Welkies, capito?
 928;3676;56;;Okay, seriously Martha.&Enough with the Welkies already.;Ok, sul serio Martha.&Adesso basta con questo Welkies.
 944;3740;50;;That's a lovely portrait.&Is that General Gunther?;Quel quadro > bellissimo.&E' il Generale Gunther?
-960;3796;52;;Yup.&It was taken before I was born, but that's Dad.;Gi=.&E' stato fatto prima che io nascessi, ma quello > proprio pap=.
+960;3796;52;;Yup.&It was taken before I was born, but that's Dad.;Gi=.&Fu fatto prima che io nascessi, ma quello > proprio pap=.
 976;3856;33;;That's Dad... you're a lucky guy.;Il tuo pap=... sei un ragazzo fortunato.
 992;3896;30;;And who's that with him there?;E chi > l'uomo insieme a lui?
 1008;3932;76;;My father, Theimer.&He was an engineer.&The General's tank was his creation.;Mio padre, Theimer.&Era un ingegnere.&Il carro armato del generale > stata una sua creazione.
@@ -59,7 +59,7 @@
 1376;5232;7;;Yeah...;Si...
 1392;5244;72;;Animals and insects, flowers and plants.&They've always been my passion.;Animali e insetti, fiori e piante.&Sono sempre stati la mia passione.
 1408;5324;31;;I've learned a lot from nature.;Ho imparato molto dalla natura.
-1424;5360;52;;See, my dad, he protected this country as a general.;Vedi, mio padre ha protetto questo paese quando era un generale.
+1424;5360;52;;See, my dad, he protected this country as a general.;Mio padre ha protetto questo paese quando era generale.
 1440;5420;94;;But, it's just that I... I want to give back, in my own way.&My own way, you know what I mean?;Ma > solo che io... voglio restituire qualcosa, a modo mio.&A modo mio, capisci cosa intendo?
 1456;5520;32;;I think I do. You sure about it?;Penso di si. Ne sei convinto?
 1472;5560;8;;Mmm-hmm.;Mmm-hmm.
@@ -70,9 +70,9 @@
 1552;5672;13;;That sound...;Questo rumore...
 1568;5692;43;;Scream (woman running from collapsing mill);Urlo (donna che scappa dal crollo del mulino)
 1584;5740;41;;Scream (man running from collapsing mill);Urlo (uomo che scappa dal crollo del mulino)
-1600;5788;45;;Scream (man panicking after seeing mill fall);Urlo (uomo in preda al panico dopo aver visto crollare il mulino)
-1616;5840;45;;Scream (man panicking after seeing mill fall);Urlo (uomo in preda al panico dopo aver visto crollare il mulino)
-1632;5892;45;;Scream (man panicking after seeing mill fall);Urlo (uomo in preda al panico dopo aver visto crollare il mulino)
+1600;5788;45;;Scream (man panicking after seeing mill fall);Urlo (uomo in panico per il crollo del mulino)
+1616;5840;45;;Scream (man panicking after seeing mill fall);Urlo (uomo in panico per il crollo del mulino)
+1632;5892;45;;Scream (man panicking after seeing mill fall);Urlo (uomo in panico per il crollo del mulino)
 1648;5944;37;;Scream (man falling from mill ladder);Urlo (uomo che cade dalla scala del mulino)
 1664;5988;41;;Scream (man windmill blade is falling on);Urlo (la pala del mulino a vento dell'uomo sta cadendo)
 1680;6036;38;;Scream (man shot by Imperial soldiers);Urlo (uomo colpito dai soldati imperiali)
@@ -87,8 +87,8 @@
 1824;6508;40;;Thanks, Welkin.&Now, move out.&Stay low!;Grazie, Welkin.&E ora muoviamoci.&E sta giu'!
 1840;6556;12;;What's that?;Che cos'>?
 1856;6576;19;;Sounds like a tank!;Sembra un carro armato!
-1872;6600;40;;Scream (sent flying by tank shell blast);Urlo (fatto volare via dall'esplosione di un proiettile di carro armato)
-1888;6648;40;;Scream (sent flying by tank shell blast);Urlo (fatto volare via dall'esplosione di un proiettile di carro armato)
+1872;6600;40;;Scream (sent flying by tank shell blast);Urlo (volato via per l'esplosione del carro)
+1888;6648;40;;Scream (sent flying by tank shell blast);Urlo (volato via per l'esplosione del carro)
 1904;6696;11;;T-T-Taaank!;C-C-Carro!
 1920;6712;14;;No way! Ruuun!;Non ci posso credere! Scappate!
-1936;6732;40;;Scream (sent flying by tank shell blast);Urlo (fatto volare via dall'esplosione di un proiettile di carro armato)
+1936;6732;40;;Scream (sent flying by tank shell blast);Urlo (volato via per l'esplosione del carro)

@@ -200,7 +200,7 @@
 4276;16672;83;;But first, let's make sure the controls are clear.&I'll go over them one more time.;Ma prima assicuriamoci che i comandi siano a posto.&Li ripassero' ancora una volta.
 4292;16760;80;;If you already have them down,&go ahead and press the START button to skip this.;Se li hai gi= impostati, premi il pulsante START per&saltare questo passaggio.
 4308;16848;81;;You'll start in command mode with an overall map.&Pick the unit you want to move.;Inizierai in modalit= comando con una mappa generale.&Scegli l'unit= che vuoi muovere.
-4324;16936;116;;The CP (command point) markers show the number of times&you can move your unts. Press ~ to enter, and start moving.;I marcatori CP (punto comando) mostrano il numero di volte&puoi muovere le tue unit=. Premi ~ per entrare e muoverti.
+4324;16936;116;;The CP (command point) markers show the number of times&you can move your unts. Press ~ to enter, and start moving.;I punti CP (punti comando) mostrano quante volte&puoi muovere le unit=. Premi ~ per muoverti.
 4340;17060;84;;On the 3D screen, you can move your unit until the&AP (action point) gauge runs out.;Nello schermo 3D puoi muovere la tua unit= finch<&l'indicatore dei punti azione (AP) non si esaurisce.
 4356;17152;54;;If you seen an enemy, press R1 to get ready to attack.;Se vedi un nemico, premi R1 per prepararti ad attaccare.
 4372;17212;87;;When you run out of AP, that unit's move is over.&Press � and go back to command mode.;Quando esaurisci i PA, la mossa di quell'unit= termina.&Premi � e torna alla modalit= comando.
@@ -230,7 +230,7 @@
 4756;18664;72;;Operation Cloudburst is set to begin.&I know you can all make this work.;L'operazione Cloudburst sta per iniziare e so che tutti&voi potete farcela.
 4772;18744;74;;Alicia, here's a map of the area.&It looks like they've got us surrounded.;Alicia, ecco una mappa della zona. Sembra che ci abbiano&circondati.
 4788;18824;91;;All right, ready to start moving?&Let's sneak out of their perimeter without being spotted.;Bene, pronti a muoverci? Usciamo furtivamente dal loro&perimetro senza farci vedere.
-4804;18920;102;;The gunshots from before came from around here.&The rest of the squad may still be in combat close by.;Gli spari di prima provenivano da qui. Il resto della&team potrebbe essere ancora in combattimento nelle vicinanze
+4804;18920;102;;The gunshots from before came from around here.&The rest of the squad may still be in combat close by.;Gli spari di prima provenivano da qui. Il resto della&team potrebbe combattere ancora nelle vicinanze
 4820;19028;69;;First, we've got to meet back up with the squad.&Ready to go, Alicia?;Per prima cosa dobbiamo riunirci alla squadra. Pronta a&partire, Alicia?
 4836;19104;97;;We have an emergency on our hands. Princess Cordelia has&been kidnapped by Federation operatives.;Abbiamo un'emergenza tra le mani. La principessa Cordelia&> stata rapita dagli agenti della Federazione.
 4852;19208;95;;Your mission is to rescue Her Highness unharmed.&Failure isn't an option on this one, soldiers.;La vostra missione > salvare Sua Altezza illesa.&In questo caso, soldati, il fallimento non > un'opzione.
