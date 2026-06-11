@@ -1,0 +1,6 @@
+Questa cartella deve contenere i file .mtp originali del gioco Valkyria Chronicles.
+
+I file si trovano nella cartella di installazione Steam:
+  Steam\steamapps\common\Valkyria Chronicles\data\resource\mtpa\
+
+Copiare qui tutti i file .mtp per poter compilare le traduzioni.

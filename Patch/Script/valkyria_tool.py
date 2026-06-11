@@ -649,7 +649,7 @@ def mass_extract(src_dir, dest_dir):
         try:
             extract_mxe(f, csv_out)
         except Exception as e:
-            print(f"❌ Error extracting {f}: {e}")
+            print(f"[ERROR] Extracting {f}: {e}")
             
     for f in mtp_files:
         base = os.path.splitext(os.path.basename(f))[0]
@@ -657,24 +657,33 @@ def mass_extract(src_dir, dest_dir):
         try:
             extract_mtp(f, csv_out)
         except Exception as e:
-            print(f"❌ Error extracting {f}: {e}")
+            print(f"[ERROR] Extracting {f}: {e}")
             
     print("Mass extraction completed.")
 
 def mass_compile(csv_dir, template_dir, dest_dir):
     """
-    Mass compiles all CSV files in a folder to binaries using a template folder.
+    Mass compiles all CSV files in csv_dir to binaries, using templates from template_dir.
+    Template and CSV can also be in the same folder (pass the same path for both).
+    Format is auto-detected from the template file extension (.mxe or .mtp).
+    Output files go to dest_dir (created automatically if missing).
     """
     print(f"Mass Compile: scanning {csv_dir} for CSV files...")
+    print(f"  Templates from: {template_dir}")
+    print(f"  Output to:      {dest_dir}")
     os.makedirs(dest_dir, exist_ok=True)
     
     csv_files = glob.glob(os.path.join(csv_dir, "*.csv"))
     print(f"Found {len(csv_files)} CSV files.")
     
+    ok = 0
+    errors = 0
+    skipped = 0
+    
     for csv_file in csv_files:
         base = os.path.splitext(os.path.basename(csv_file))[0]
         
-        # Check if corresponding MXE or MTP template exists
+        # Auto-detect format from the template file extension
         mxe_template = os.path.join(template_dir, f"{base}.mxe")
         mtp_template = os.path.join(template_dir, f"{base}.mtp")
         
@@ -682,72 +691,134 @@ def mass_compile(csv_dir, template_dir, dest_dir):
             out_bin = os.path.join(dest_dir, f"{base}_new.mxe")
             try:
                 compile_mxe(csv_file, mxe_template, out_bin, base)
+                ok += 1
             except Exception as e:
-                print(f"❌ Error compiling MXE {csv_file}: {e}")
+                print(f"[ERROR] Compiling MXE {base}: {e}")
+                errors += 1
         elif os.path.exists(mtp_template):
             out_bin = os.path.join(dest_dir, f"{base}_new.mtp")
             try:
                 compile_mtp(csv_file, mtp_template, out_bin)
+                ok += 1
             except Exception as e:
-                print(f"❌ Error compiling MTP {csv_file}: {e}")
+                print(f"[ERROR] Compiling MTP {base}: {e}")
+                errors += 1
         else:
-            print(f"⚠️ Warning: No template found for {csv_file} in {template_dir} (expected {base}.mxe or {base}.mtp)")
+            print(f"[SKIP] No template found for '{base}' (expected {base}.mxe or {base}.mtp)")
+            skipped += 1
             
-    print("Mass compilation completed.")
+    print(f"\nMass compilation completed: {ok} OK, {errors} errors, {skipped} skipped.")
 
 # ==============================================================================
 # MAIN ENTRY POINT
 # ==============================================================================
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description="Unified Valkyria Chronicles Translation Tool (MXE/MTP)")
-    subparsers = parser.add_subparsers(dest="command", help="Command to run")
+    parser = argparse.ArgumentParser(
+        description="Valkyria Chronicles Translation Tool -- Gestisce file MXE e MTP",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Struttura cartelle consigliata:
+  Patch/Script/
+  |- valkyria_tool.py
+  |- mxe/               <- template .mxe + CSV tradotti nello stesso posto
+  |   |- *.mxe
+  |   +- *.csv
+  +- mtp/
+      |- templates/     <- file .mtp originali del gioco
+      +- csv/           <- CSV tradotti
+
+Esempi d'uso:
+  # Estrae tutte le stringhe da una cartella di binari
+  python valkyria_tool.py extract-all --src ./mxe --dest ./mxe
+
+  # Compila tutti i CSV usando i template nella stessa cartella (output -> mxe/compilati/)
+  python valkyria_tool.py compile-all --dir ./mxe
+
+  # Compila con cartelle separate per template e CSV (MTP)
+  python valkyria_tool.py compile-all --dir ./mtp/templates --csv-dir ./mtp/csv
+
+  # Specifica anche la destinazione output
+  python valkyria_tool.py compile-all --dir ./mxe --dest ./output/mxe
+
+  # Singolo file (formato auto-rilevato dall'estensione del template)
+  python valkyria_tool.py compile --template orig.mxe --csv trad.csv --output nuovo.mxe
+  python valkyria_tool.py extract --input file.mxe --output out.csv
+"""
+    )
+    subparsers = parser.add_subparsers(dest="command", help="Comando")
     
-    # 1. extract command
-    extract_parser = subparsers.add_parser("extract", help="Extract strings from a single binary file to CSV")
-    extract_parser.add_argument("--format", choices=["mxe", "mtp"], required=True, help="Binary file format")
-    extract_parser.add_argument("--input", required=True, help="Input binary file path")
-    extract_parser.add_argument("--output", required=True, help="Output CSV file path")
+    # 1. extract -- estrae stringhe da un singolo binario
+    extract_parser = subparsers.add_parser("extract", help="Estrae stringhe da un file binario")
+    extract_parser.add_argument("--input", required=True, help="File .mxe o .mtp di input")
+    extract_parser.add_argument("--output", required=True, help="File .csv di output")
+    extract_parser.add_argument("--format", choices=["mxe", "mtp"],
+        help="Formato (opzionale, rilevato automaticamente dall'estensione del file)")
     
-    # 2. compile command
-    compile_parser = subparsers.add_parser("compile", help="Compile a CSV translation file back into game binary format")
-    compile_parser.add_argument("--format", choices=["mxe", "mtp"], required=True, help="Binary file format")
-    compile_parser.add_argument("--csv", required=True, help="Input CSV translation file path")
-    compile_parser.add_argument("--template", required=True, help="Input template binary file path")
-    compile_parser.add_argument("--output", required=True, help="Output binary file path")
+    # 2. compile -- compila un singolo CSV in binario
+    compile_parser = subparsers.add_parser("compile", help="Compila un CSV in formato binario")
+    compile_parser.add_argument("--template", required=True, help="File template .mxe o .mtp originale")
+    compile_parser.add_argument("--csv", required=True, help="File .csv di traduzione")
+    compile_parser.add_argument("--output", required=True, help="File di output compilato")
+    compile_parser.add_argument("--format", choices=["mxe", "mtp"],
+        help="Formato (opzionale, rilevato automaticamente dall'estensione del template)")
     
-    # 3. extract-all command
-    extract_all_parser = subparsers.add_parser("extract-all", help="Mass extract all binaries from a folder to CSVs")
-    extract_all_parser.add_argument("--src", required=True, help="Source folder containing .mxe/.mtp files")
-    extract_all_parser.add_argument("--dest", required=True, help="Destination folder for generated .csv files")
+    # 3. extract-all -- estrae tutti i binari da una cartella
+    extract_all_parser = subparsers.add_parser("extract-all",
+        help="Estrae tutte le stringhe dai file .mxe/.mtp in una cartella")
+    extract_all_parser.add_argument("--src", required=True,
+        help="Cartella sorgente con i file .mxe/.mtp")
+    extract_all_parser.add_argument("--dest", required=True,
+        help="Cartella di destinazione per i .csv generati")
     
-    # 4. compile-all command
-    compile_all_parser = subparsers.add_parser("compile-all", help="Mass compile all CSVs to binaries using templates")
-    compile_all_parser.add_argument("--csv-dir", required=True, help="Folder containing .csv files")
-    compile_all_parser.add_argument("--template-dir", required=True, help="Folder containing original templates")
-    compile_all_parser.add_argument("--dest-dir", required=True, help="Destination folder for compiled binaries")
+    # 4. compile-all -- compila tutti i CSV in una cartella
+    compile_all_parser = subparsers.add_parser("compile-all",
+        help="Compila tutti i CSV in una cartella usando i template")
+    compile_all_parser.add_argument("--dir", required=True,
+        help="Cartella con i template .mxe/.mtp (e i .csv se nello stesso posto)")
+    compile_all_parser.add_argument("--csv-dir", default=None, dest="csv_dir",
+        help="Cartella separata per i .csv (opzionale, default: stessa di --dir)")
+    compile_all_parser.add_argument("--dest", default=None,
+        help="Cartella di output (opzionale, default: sottocartella 'compilati' dentro --dir)")
     
     args = parser.parse_args()
     
+    # --- extract ---
     if args.command == "extract":
-        if args.format == "mxe":
+        fmt = args.format
+        if fmt is None:
+            ext = os.path.splitext(args.input)[1].lower()
+            fmt = "mtp" if ext == ".mtp" else "mxe"
+            print(f"Formato rilevato automaticamente: {fmt.upper()}")
+        if fmt == "mxe":
             extract_mxe(args.input, args.output)
         else:
             extract_mtp(args.input, args.output)
-            
+    
+    # --- compile ---
     elif args.command == "compile":
+        fmt = args.format
+        if fmt is None:
+            ext = os.path.splitext(args.template)[1].lower()
+            fmt = "mtp" if ext == ".mtp" else "mxe"
+            print(f"Formato rilevato automaticamente: {fmt.upper()}")
         base_name = os.path.splitext(os.path.basename(args.template))[0]
-        if args.format == "mxe":
+        if fmt == "mxe":
             compile_mxe(args.csv, args.template, args.output, base_name)
         else:
             compile_mtp(args.csv, args.template, args.output)
-            
+    
+    # --- extract-all ---
     elif args.command == "extract-all":
         mass_extract(args.src, args.dest)
-        
+    
+    # --- compile-all ---
     elif args.command == "compile-all":
-        mass_compile(args.csv_dir, args.template_dir, args.dest_dir)
-        
+        template_dir = args.dir
+        csv_dir      = args.csv_dir if args.csv_dir else args.dir
+        dest_dir     = args.dest    if args.dest    else os.path.join(args.dir, "compilati")
+        mass_compile(csv_dir, template_dir, dest_dir)
+    
     else:
         parser.print_help()
         sys.exit(1)
