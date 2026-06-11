@@ -25,3 +25,59 @@ Da cosa ho potuto comprendere il carattere "_&_", ha la stessa funzione del "_\n
 ### NOTE
 
 Il codice è stato scritto inizialmente a mano, successivamente espanso con ChatGPT e poi modificato continuamente così via...
+
+---
+
+## VALKYRIA_TOOL.PY — TOOL UNIFICATO MXE + MTP
+
+Il file `valkyria_tool.py` sostituisce i vecchi tool C++ (`mxe_write.exe` e `mtp_write.exe`) con un unico script Python 3 che gestisce entrambi i formati binari del gioco.
+
+### Requisiti
+- Python 3.8+
+- Nessuna libreria esterna necessaria
+
+### Comandi disponibili
+
+#### Estrazione (da binario a CSV)
+```bash
+# Estrae stringhe da un singolo file MXE
+python valkyria_tool.py extract --format mxe --input file.mxe --output output.csv
+
+# Estrae stringhe da un singolo file MTP
+python valkyria_tool.py extract --format mtp --input file.mtp --output output.csv
+
+# Estrazione massiva di tutti i file MXE/MTP in una cartella
+python valkyria_tool.py extract-all --src ./cartella_binari --dest ./cartella_csv
+```
+
+#### Compilazione (da CSV tradotto a binario)
+```bash
+# Compila un CSV per un file MXE (richiede il template originale .mxe)
+python valkyria_tool.py compile --format mxe --csv traduzione.csv --template originale.mxe --output nuovo.mxe
+
+# Compila un CSV per un file MTP (richiede il template originale .mtp)
+python valkyria_tool.py compile --format mtp --csv traduzione.csv --template originale.mtp --output nuovo.mtp
+
+# Compilazione massiva di tutti i CSV in una cartella
+python valkyria_tool.py compile-all --csv-dir ./csv --template-dir ./originali --dest-dir ./compilati
+```
+
+### Struttura CSV attesa
+Ogni file CSV deve avere `;` come separatore e la seguente struttura:
+- **Colonna 1**: Offset del puntatore nel file binario (decimale)
+- **Colonna 2**: Offset del testo nel file binario (decimale)
+- **Colonna 3**: Info aggiuntive (capitolo per MXE, lunghezza per MTP)
+- **Colonna 4**: Testo originale inglese
+- **Colonna 5+**: Traduzione italiana (viene usata l'ultima colonna non vuota)
+
+### Sostituzioni font automatiche
+Il tool applica automaticamente le sostituzioni di font durante la compilazione:
+- `é` → `<` (e acuta)
+- `è` → `>` (e grave)
+- `à` → `=` (a grave)
+- `ì` → `i'`
+- `ò` → `o'`
+- `ù` → `u'`
+
+Per file MXE: `£` viene sostituito con `"` (virgolette doppie).
+Per file MTP: `£` con spazio, `¤` con `"`, `&` con newline `\n`, `<Y>` con `\x81\xA2`.
