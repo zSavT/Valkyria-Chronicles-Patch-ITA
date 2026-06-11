@@ -232,7 +232,7 @@
 124232;339171;;Attack power and defense increase when they enter the//range of enemy interception fire.;La potenza di attacco e la difesa aumentano quando entrano nel raggio d'azione del fuoco d'intercettazione nemico.
 125192;339260;;Attacks against tanks have a chance to deal//a lethal blow.;Gli attacchi contro i carri armati hanno la possibilit= di infliggere un colpo letale.
 116840;339320;;Attacks all enemy units.;Attacca tutte le unit= nemiche.
-125048;339345;;Attacks have a chance to deal damage to both tank body//and tread HP.;Gli attacchi hanno la possibilit= di infliggere danni sia al corpo del carro armato che ai PV del cingolo.
+125048;339345;;Attacks have a chance to deal damage to both tank body//and tread HP.;Gli attacchi hanno la possibilit= di infliggere danni sia al corpo del carro armato che ai HP del cingolo.
 124424;339415;;Attacks have a set chance of preventing the enemy//from counter attacking.;Gli attacchi hanno una determinata probabilit= di impedire al nemico di contrattaccare.
 118424;339490;;Attacks have a set probability of being impossible//for enemies to evade.;Esiste una certa probabilit= che gli attacchi siano impossibili da evitare per i nemici.
 124280;339490;;Attacks have a set probability of being impossible//for enemies to evade.;Esiste una certa probabilit= che gli attacchi siano impossibili da evitare per i nemici.
@@ -379,7 +379,7 @@
 114036;341386;;Bomb;Bomba
 119476;341391;;Born Leader;Leader nato
 123128;341403;;Born under an unlucky star, they are especially//susceptible to weapon jamming.;Nati sotto una sfortunata stella, sono particolarmente soggetti all'inceppamento delle armi.
-124136;341483;;Both accuracy and evasion receive a boost when HP//drops to a single digit.;Sia la precisione che la schivata vengono potenziate quando i PV scendono a una sola cifra.
+124136;341483;;Both accuracy and evasion receive a boost when HP//drops to a single digit.;Sia la precisione che la schivata vengono potenziate quando i HP scendono a una sola cifra.
 126056;341559;;Both evasion and attack power are enhanced when//firing up at an elevated target.;Sia la schivata che la potenza di attacco risultano potenziate quando si spara a un bersaglio elevato.
 114084;341641;;Bridge;Ponte
 89764;341648;;Brigitte;Brigitte
@@ -556,7 +556,7 @@
 127060;343756;;Darcsen Pride;Orgoglio di Darcsen
 119956;343770;;Daredevil;Temerario
 125044;343780;;Dbl. Tank Damage;Doppio danno al carro armato
-120680;343797;;Deathly afraid of pointed objects, being around lancers'//weapons makes them hyperventilate, steadily losing HP.;Hanno una paura mortale degli oggetti appuntiti e stare vicino alle armi dei lancieri li porta ad iperventilare, perdendo costantemente PV.
+120680;343797;;Deathly afraid of pointed objects, being around lancers'//weapons makes them hyperventilate, steadily losing HP.;Hanno una paura mortale degli oggetti appuntiti e stare vicino alle armi dei lancieri li porta ad iperventilare, perdendo costantemente HP.
 115876;343910;;Defense Boost;Potenziamento della difesa
 125284;343910;;Defense Boost;Potenziamento della difesa
 124856;343924;;Defense receives a boost when they enter the range//of enemy interception fire.;La difesa viene potenziata quando i bersagli entrano nel raggio d'azione del fuoco d'intercettazione nemico.
@@ -914,7 +914,7 @@
 88496;348151;;Fujmolt the Edge;Fujmolt il limite
 123892;348168;;Full HP Recovery;Ripristino HP completo
 124660;348168;;Full HP Recovery;Ripristino HP completo
-115400;348185;;Fully restores one ally's HP.;Ripristina completamente i PV di un alleato.
+115400;348185;;Fully restores one ally's HP.;Ripristina completamente i HP di un alleato.
 158776;348215;;GERBIL_BODY;GERBIL_BODY
 163976;348227;;GERBIL_FRONT_GUN;GERBIL_FRONT_GUN
 164184;348244;;GERBIL_LeftREAR_GUN;GERBIL_LeftREAR_GUN
@@ -1104,8 +1104,8 @@
 121640;350379;;Having full HP makes them get overconfident, leading to//a decrease in evasion.;Avere tutti gli HP li rende troppo sicuri di s<, il che porta a una diminuzione delle capacit= di elusione.
 121880;350459;;Having less than half-full AP brings them an adrenalin//rush that leads to increased defense.;Avere meno della met= dei PA pieni fornisce loro una scarica di adrenalina che porta a una difesa migliore.
 121928;350553;;Having less than half-full AP makes them feel totally//exhausted, leading to decreased defense.;Avere meno della met= dei PA li fa sentire completamente esausti, riducendo la loro difesa.
-121688;350649;;Having less than half-full HP makes them inexplicably//happy, granting a boost in defense.;Avere meno della met= dei PV li rende inspiegabilmente felici, garantendo un potenziamento della difesa.
-121736;350740;;Having less than half-full HP makes them throw away hope//for the future, meaning lessened defense.;Avere meno della met= dei PV fa si che perdano la speranza per il futuro, il che significa una difesa ridotta.
+121688;350649;;Having less than half-full HP makes them inexplicably//happy, granting a boost in defense.;Avere meno della met= dei HP li rende inspiegabilmente felici, garantendo un potenziamento della difesa.
+121736;350740;;Having less than half-full HP makes them throw away hope//for the future, meaning lessened defense.;Avere meno della met= dei HP fa si che perdano la speranza per il futuro, il che significa una difesa ridotta.
 119576;350840;;Having men nearby makes them happy, leading to enhanced//accuracy when firing.;Avere degli uomini nelle vicinanze li rende felici, il che si traduce in una maggiore precisione quando sparano.
 119624;350919;;Having men nearby triggers a constitutional loathing so//powerful it lowers accuracy.;Avere degli uomini nelle vicinanze scatena un odio costituzionale cosi potente da ridurre la precisione.
 121304;351005;;Having no allies nearby lets them think clearly,//improving their evasive skills.;Non avere alleati nelle vicinanze consente loro di pensare lucidamente, migliorando le loro abilit= evasive.
@@ -1248,7 +1248,7 @@
 216884;352275;;Increased Payload;Carico utile aumentato
 219188;352275;;Increased Payload;Carico utile aumentato
 219444;352275;;Increased Payload;Carico utile aumentato
-115688;352293;;Increases the HP one ally can heal using Ragnaid (S).;Aumenta i PV che un alleato puo' curare usando Ragnaid (S).
+115688;352293;;Increases the HP one ally can heal using Ragnaid (S).;Aumenta i HP che un alleato puo' curare usando Ragnaid (S).
 116168;352347;;Increases the damage done by hand grenades for one ally.;Aumenta i danni inflitti dalle granate a mano a un alleato.
 120004;352404;;Indecisive;Indeciso
 112548;352415;;Indestructible;Indistruttibile
@@ -1571,18 +1571,18 @@
 171652;354942;;Marmota;Marmotta
 172484;354942;;Marmota;Marmotta
 98328;354950;;Martens;Martore
-93284;354958;;Martha;Marta
-93292;354958;;Martha;Marta
-93296;354958;;Martha;Marta
-93300;354958;;Martha;Marta
-93604;354958;;Martha;Marta
-93612;354958;;Martha;Marta
-93616;354958;;Martha;Marta
-93620;354958;;Martha;Marta
-93684;354965;;Martha's Baby;Il bambino di Marta
-93692;354965;;Martha's Baby;Il bambino di Marta
-93696;354965;;Martha's Baby;Il bambino di Marta
-93700;354965;;Martha's Baby;Il bambino di Marta
+93284;354958;;Martha;Martha!
+93292;354958;;Martha;Martha!
+93296;354958;;Martha;Martha!
+93300;354958;;Martha;Martha!
+93604;354958;;Martha;Martha!
+93612;354958;;Martha;Martha!
+93616;354958;;Martha;Martha!
+93620;354958;;Martha;Martha!
+93684;354965;;Martha's Baby;Il bambino di Martha!
+93692;354965;;Martha's Baby;Il bambino di Martha!
+93696;354965;;Martha's Baby;Il bambino di Martha!
+93700;354965;;Martha's Baby;Il bambino di Martha!
 80876;354979;;Mash the Hunter;Schiaccia il cacciatore
 80880;354979;;Mash the Hunter;Schiaccia il cacciatore
 121684;354995;;Masochist;Masochista
@@ -1932,7 +1932,7 @@
 115784;358151;;Restocks one ally's ammunition.;Rifornisce le munizioni di un alleato.
 117224;358183;;Restores a set amount of all allies' HP.;Ripristina una quantit= prestabilita di HP a tutti gli alleati.
 117128;358224;;Restores a set amount of one ally's HP.;Ripristina una determinata quantit= di HP di un alleato.
-117704;358264;;Restores all units' HP.;Ripristina i PV di tutte le unit=.
+117704;358264;;Restores all units' HP.;Ripristina i HP di tutte le unit=.
 115780;358288;;Resupply;Rifornimento
 116932;358297;;Retreat;Ritirarsi
 106152;358305;;Richard;Riccardo
@@ -2346,7 +2346,7 @@
 124616;362445;;They have a set chance of being able to attack//twice consecutively.;Hanno una probabilit= stabilita di poter attaccare due volte di seguito.
 125240;362514;;They have a set chance of recovering all ammunition//after attacking.;Hanno una probabilit= stabilita di recuperare tutte le munizioni dopo aver attaccato.
 126392;362514;;They have a set chance of recovering all ammunition//after attacking.;Hanno una probabilit= stabilita di recuperare tutte le munizioni dopo aver attaccato.
-124568;362584;;They have a set chance of returning to life with full HP//when their HP reaches zero.;Hanno una certa probabilit= di tornare in vita con tutti i PV quando i loro PV raggiungono lo zero.
+124568;362584;;They have a set chance of returning to life with full HP//when their HP reaches zero.;Hanno una certa probabilit= di tornare in vita con tutti i HP quando i loro HP raggiungono lo zero.
 125768;362670;;They have a set probability of being able to take two //actions consecutively.;Hanno una probabilit= determinata di riuscire a compiere due azioni consecutive.
 123224;362749;;They have a set probability of enjoying enhanced//evasion abilities.;Hanno una certa probabilit= di godere di abilit= di evasione migliorate.
 112740;362818;;Thin Tree;Albero sottile
